@@ -681,6 +681,7 @@ src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-st
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+tests/testmodels/GUITestPropertyPanels.zargo -text
 tools/ant-1.4.1/lib/ant.jar -text
 tools/ant-1.4.1/lib/crimson.jar -text
 tools/ant-1.4.1/lib/jaxp.jar -text
