@@ -61,6 +61,7 @@ documentation/images/icons/class.gif -text
 documentation/images/icons/class_diagram.gif -text
 documentation/images/icons/classifier_role.gif -text
 documentation/images/icons/collaboration_diagram.gif -text
+documentation/images/icons/commentlink.gif -text
 documentation/images/icons/component.gif -text
 documentation/images/icons/component_instance.gif -text
 documentation/images/icons/composite_state.gif -text
@@ -125,6 +126,7 @@ documentation/images/icons/nudge_left.gif -text
 documentation/images/icons/nudge_right.gif -text
 documentation/images/icons/nudge_up.gif -text
 documentation/images/icons/object.gif -text
+documentation/images/icons/objectflowstate.gif -text
 documentation/images/icons/open_project.gif -text
 documentation/images/icons/operation.gif -text
 documentation/images/icons/package.gif -text
@@ -160,6 +162,9 @@ documentation/images/icons/stimulus_create.gif -text
 documentation/images/icons/stimulus_destroy.gif -text
 documentation/images/icons/stimulus_return.gif -text
 documentation/images/icons/stimulus_send.gif -text
+documentation/images/icons/stubstate.gif -text
+documentation/images/icons/submachinestate.gif -text
+documentation/images/icons/synchstate.gif -text
 documentation/images/icons/text.gif -text
 documentation/images/icons/to_back.gif -text
 documentation/images/icons/to_front.gif -text
