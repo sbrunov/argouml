@@ -431,25 +431,14 @@ documentation/manual/models/critic_model.zargo -text
 documentation/manual/models/diagrams.zargo -text
 documentation/manual/models/discriminator_example.zargo -text
 documentation/manual/models/requirements_tutorial.zargo -text
-lib/Fop.class -text
-lib/NetComponents.jar -text
-lib/ant.jar -text
 lib/antlrall.jar -text
-lib/bsf.jar -text
-lib/fop.jar -text
 lib/gef-0.9.6.jar -text
-lib/jaxp.jar -text
 lib/jh.jar -text
-lib/js.jar -text
-lib/log4j.jar -text
-lib/nsuml.jar -text
+lib/log4j-1.1.3.jar -text
+lib/nsuml-0.4.19.jar -text
 lib/ocl-argo.jar -text
-lib/optional.jar -text
-lib/parser.jar -text
-lib/saxon.jar -text
-lib/w3c.jar -text
-lib/xalan.jar -text
-lib/xerces.jar -text
+lib/saxon-6.5.2.jar -text
+lib/xerces-1.2.3.jar -text
 modules/jscheme/lib/jscheme.jar -text
 modules/junit/lib/junit.jar -text
 modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
@@ -612,6 +601,8 @@ src_new/org/argouml/model/uml/doc-files/Figure21.gif -text
 src_new/org/argouml/model/uml/doc-files/Figure22.gif -text
 src_new/org/argouml/model/uml/doc-files/Figure23.gif -text
 src_new/org/argouml/model/uml/resource/uml13.zargo -text
+src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
+src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
 tools/lib/jdepend.jar -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
