@@ -715,11 +715,12 @@ src_new/org/argouml/doc-files/argologo2.gif -text
 src_new/org/argouml/model/uml/doc-files/Figure21.gif -text
 src_new/org/argouml/model/uml/doc-files/Figure22.gif -text
 src_new/org/argouml/model/uml/doc-files/Figure23.gif -text
-src_new/org/argouml/model/uml/resource/uml13.zargo -text
+src_new/org/argouml/model/uml/uml13.zargo -text
 src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+src_new/org/argouml/uml/cognitive/critics/.#WizAddConstructor.java.1.7 -text svneol=unset#application/octet-stream
 tests/testmodels/EmptyProject0161.zargo -text
 tests/testmodels/GUITestPropertyPanels.zargo -text
 tools/ant-1.4.1/lib/ant.jar -text
