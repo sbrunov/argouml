@@ -1,6 +1,19 @@
+/.classpath
+/.project
 /ArgoUML-*.tar.gz
 /ArgoUML-*.tgz
 /ArgoUML-*.zip
+/CVS
+/Eclipse
+/IDE
+/\#
+/\#
+/\#
+/\#
+/also
+/and
+/are
+/argouml.log
 build/*.jar
 build/README.txt
 build/argouml.sh
@@ -13,6 +26,7 @@ build/javadocs
 build/javasrc
 build/src_new
 build/tests
+/by
 documentation/build.properties
 documentation/cookbook/*.hs
 documentation/cookbook/*.jhm
@@ -30,6 +44,7 @@ documentation/manual/imglist.txt
 documentation/quick-guide/*.hs
 documentation/quick-guide/*.jhm
 documentation/quick-guide/*.xml
+/ignore
 lib/*-src-*.jar
 lib/*-src-*.zip
 lib/*-src.jar
@@ -64,6 +79,8 @@ modules/php/build
 modules/php/build.properties
 modules/php/local-*.bat
 modules/php/local-*.sh
+/one
+/should
 src_new/build.properties
 src_new/org/argouml/Images/*.class
 src_new/org/argouml/application/*.class
@@ -171,5 +188,7 @@ src_new/tests/testmodels/01-12-02.xml
 src_new/tests/testmodels/Model.dtd
 tests/testmodels/01-12-02.xml
 tests/testmodels/Model.dtd
+/this
 tools/lib/jimi-1.0.jar
+/used
 www/snapshots
