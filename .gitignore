@@ -52,6 +52,7 @@ lib/*-src-*.jar
 lib/*-src-*.zip
 lib/*-src.jar
 lib/*-src.zip
+lib/argouml-*.jar
 modules/cpp/build
 modules/cpp/build.properties
 modules/cpp/local-*.bat
