@@ -23,7 +23,6 @@ documentation/local-*.bat
 documentation/local-*.sh
 documentation/manual/*.hs
 documentation/manual/*.jhm
-documentation/manual/*.xml
 documentation/manual/images
 documentation/manual/imglist.txt
 documentation/quick-guide/*.hs
