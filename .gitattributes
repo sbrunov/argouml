@@ -704,6 +704,7 @@ tools/ant-1.4.1/lib/xerces-1.2.3.jar -text
 tools/ant-1.4.1/optional.jar -text
 tools/checkstyle-3.0/checkstyle-all-3.0.jar -text
 tools/checkstyle-3.0/indent030226.jar -text
+tools/checkstyle-3.3/checkstyle-all-3.3.jar -text
 tools/fop-0.20.3/build/fop-0.20.3-custom.jar -text
 tools/fop-0.20.3/build/fop.jar -text
 tools/fop-0.20.3/lib/avalon-framework-4.0.jar -text
