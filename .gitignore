@@ -12,5 +12,6 @@ build/src_new
 modules/jscheme/build
 modules/junit/build
 modules/menutest/build
+modules/php/build
 /work
 www/snapshots
