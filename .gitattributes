@@ -610,6 +610,7 @@ src_new/org/argouml/Images/SendAction.gif -text
 src_new/org/argouml/Images/SendEmailToExpert.gif -text
 src_new/org/argouml/Images/SequenceDiagram.gif -text
 src_new/org/argouml/Images/ShallowHistory.gif -text
+src_new/org/argouml/Images/Signal.gif -text
 src_new/org/argouml/Images/SignalEvent.gif -text
 src_new/org/argouml/Images/SignalReceiving.gif -text
 src_new/org/argouml/Images/SignalSending.gif -text
