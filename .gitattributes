@@ -1,2 +1,3 @@
 * text=auto !eol
 modules/cpp/testprojects/GeneratorTester28.zargo -text
+modules/cpp/testprojects/GeneratorTester30.zargo -text
