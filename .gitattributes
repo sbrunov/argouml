@@ -142,9 +142,11 @@ documentation/images/icons/remove_from_diagram.gif -text
 documentation/images/icons/resolve_item.gif -text
 documentation/images/icons/rounded_rectangle.gif -text
 documentation/images/icons/save_project.gif -text
+documentation/images/icons/save_project_as.gif -text
 documentation/images/icons/select.gif -text
 documentation/images/icons/send_email.gif -text
 documentation/images/icons/sequence_diagram.gif -text
+documentation/images/icons/settings.gif -text
 documentation/images/icons/shallow_history.gif -text
 documentation/images/icons/signal.gif -text
 documentation/images/icons/snooze_critic.gif -text
