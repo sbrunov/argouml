@@ -132,7 +132,6 @@ src_new/org/argouml/ocl/ui/*.class
 src_new/org/argouml/pattern/*.class
 src_new/org/argouml/pattern/cognitive/*.class
 src_new/org/argouml/pattern/cognitive/critics/*.class
-src_new/org/argouml/persistence/*.class
 src_new/org/argouml/resource/*.class
 src_new/org/argouml/swingext/*.class
 src_new/org/argouml/ui/*.class
