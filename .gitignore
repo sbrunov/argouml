@@ -201,9 +201,12 @@ www/snapshots
 /\#
 /as
 /bin
+components/gef-diagram/bin
 components/gef-diagram/build
 components/mdr-model/build
+components/nsuml-model/bin
 components/nsuml-model/build
 components/nsuml_original
 /is
 src_new/argouml.log
+src_new/build
