@@ -444,6 +444,8 @@ lib/log4j-1.2.6.jar -text
 lib/nsuml-0.4.20_modified.jar -text
 lib/ocl-argo-1.1.jar -text
 lib/toolbar-0.3.jar -text
+lib/xercesImpl-2.6.2.jar -text
+lib/xml-apis-2.6.2.jar -text
 modules/cpp/testprojects/GeneratorTester28.zargo -text
 modules/cpp/testprojects/GeneratorTester30.zargo -text
 modules/csharp/src/org/manifest.mf -text svneol=unset#application/octet-stream
