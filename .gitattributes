@@ -172,7 +172,11 @@ documentation/images/note.gif -text
 documentation/images/note.png -text
 documentation/images/note.tif -text
 documentation/images/prev.png -text
+documentation/images/reference/activity_diagram.gif -text
 documentation/images/reference/class_diagram.gif -text
+documentation/images/reference/collaboration_diagram.gif -text
+documentation/images/reference/component_diagram.gif -text
+documentation/images/reference/deployment_diagram.gif -text
 documentation/images/reference/details_constraint_editor.png -text
 documentation/images/reference/details_constraints.png -text
 documentation/images/reference/details_constraints_dialog.png -text
@@ -201,7 +205,9 @@ documentation/images/reference/navigator_pane.png -text
 documentation/images/reference/navigator_pane_panes.png -text
 documentation/images/reference/navigator_pane_perspectives.png -text
 documentation/images/reference/package_diagram.gif -text
+documentation/images/reference/sequence_diagram.gif -text
 documentation/images/reference/solid_line.png -text
+documentation/images/reference/state_diagram.gif -text
 documentation/images/reference/todo_pane.png -text
 documentation/images/reference/use_case_diagram.gif -text
 documentation/images/reference/wavy_line.png -text
