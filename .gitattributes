@@ -74,10 +74,14 @@ documentation/images/warning.tif -text
 lib/Fop.class -text
 lib/NetComponents.jar -text
 lib/ant.jar -text
+lib/antlrall.jar -text
 lib/bsf.jar -text
 lib/fop.jar -text
+lib/gef.jar -text
 lib/jaxp.jar -text
 lib/js.jar -text
+lib/nsuml.jar -text
+lib/ocl-argo.jar -text
 lib/optional.jar -text
 lib/parser.jar -text
 lib/w3c.jar -text
