@@ -603,7 +603,9 @@ src_new/org/argouml/model/uml/doc-files/Figure23.gif -text
 src_new/org/argouml/model/uml/resource/uml13.zargo -text
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+tools/jdepend-2.2/lib/jdepend.jar -text
 tools/lib/jdepend.jar -text
+tools/lib/junit-3.7.jar -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
 www/docs/robbins_dissertation/diss1-1.gif -text
