@@ -209,6 +209,15 @@ build/javadocs
 build/javasrc
 build/src_new
 build/tests
+modules/idl/build
+modules/idl/build.properties
+modules/idl/local-*.bat
+modules/idl/local-*.sh
+modules/idl/src/org/argouml/uml/reveng/idl/IDLLexer.java
+modules/idl/src/org/argouml/uml/reveng/idl/IDLLexer.txt
+modules/idl/src/org/argouml/uml/reveng/idl/IDLParser.java
+modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.java
+modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.txt
 src_new/org/argouml/language/java/generator/JavaLexer.java
 src_new/org/argouml/language/java/generator/JavaRecognizer.java
 src_new/org/argouml/language/java/generator/JavaTokenTypes.java
