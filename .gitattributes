@@ -434,8 +434,10 @@ documentation/manual/models/requirements_tutorial.zargo -text
 lib/antlrall.jar -text
 lib/gef-0.9.6.jar -text
 lib/jh.jar -text
+lib/log4j-1.1.3.jar -text
+lib/nsuml-0.4.19.jar -text
 lib/ocl-argo.jar -text
-lib/w3c.jar -text
+lib/xerces-1.2.3.jar -text
 modules/jscheme/lib/jscheme.jar -text
 modules/junit/lib/junit.jar -text
 modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
