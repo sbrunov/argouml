@@ -6,6 +6,7 @@ build/Fop.java
 build/README.txt
 build/ant-test-*.bat
 build/ant-test-*.sh
+build/argouml.sh
 build/bin
 build/classes
 build/doc
@@ -22,6 +23,7 @@ documentation/faq/*.xml
 documentation/manual/*.hs
 documentation/manual/*.jhm
 documentation/manual/*.xml
+documentation/manual/imglist.txt
 documentation/quick-guide/*.hs
 documentation/quick-guide/*.jhm
 documentation/quick-guide/*.xml
@@ -30,9 +32,9 @@ modules/jscheme/build
 modules/junit/build
 modules/menutest/build
 modules/php/build
-src_new/ant-test-*.bat
-src_new/ant-test-*.sh
 src_new/build.properties
+src_new/local-*.bat
+src_new/local-*.sh
 tools/lib/jimi-1.0.jar
 /work
 www/snapshots
