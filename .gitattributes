@@ -1171,7 +1171,17 @@ www/images/wincvs1.gif -text
 www/images/wincvs12preftab.png -text
 www/images/wrap_text_to_make_it_easier_to_read.png -text
 www/models/addisonwesley/UMLDistilled.zargo -text
+www/models/argouml/application.zargo -text
+www/models/argouml/cognitive.zargo -text
+www/models/argouml/kernel.zargo -text
+www/models/argouml/language.zargo -text
+www/models/argouml/ocl.zargo -text
+www/models/argouml/patterns.zargo -text
+www/models/argouml/persistence.zargo -text
 www/models/argouml/src_new.zargo -text
+www/models/argouml/ui.zargo -text
+www/models/argouml/util.zargo -text
+www/models/argouml/xml.zargo -text
 www/models/gef/gef.zargo -text
 www/models/log4j/log4j.zargo -text
 www/models/omg/uml13.zargo -text
