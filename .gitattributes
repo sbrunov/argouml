@@ -432,6 +432,10 @@ www/docs/robbins_dissertation/diss8-7.gif -text
 www/docs/robbins_dissertation/diss8-8.gif -text
 www/docs/robbins_dissertation/diss8-9.gif -text
 www/docs/robbins_dissertation/frontmatter.fm -text
+www/documentation/defaulthtml/cookbook/images/cookbook/big.gif -text
+www/documentation/defaulthtml/cookbook/images/cookbook/critics.gif -text
+www/documentation/defaulthtml/cookbook/images/cookbook/ru_novosoft_uml_foundation_core_classes.gif -text svneol=unset#application/octet-stream
+www/documentation/defaulthtml/cookbook/images/cookbook/small.gif -text
 www/documentation/defaulthtml/faq/images/callouts/1.png svneol=native#unset
 www/documentation/defaulthtml/faq/images/callouts/10.png svneol=native#unset
 www/documentation/defaulthtml/faq/images/callouts/2.png svneol=native#unset
