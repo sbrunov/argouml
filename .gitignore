@@ -11,6 +11,7 @@ build/ext
 build/javadocs
 build/src_new
 modules/dummylanguage/build
+modules/elmuth/build
 modules/jscheme/build
 modules/junit/build
 modules/menutest/build
