@@ -213,6 +213,9 @@ src_new/build
 /\#
 /\#
 /\#
+components/api/idl/Model.idl
+components/api/idl/PrimitiveTypes.idl
+components/api/idl/Reflective.idl
 components/api/src/org/#
 components/api/src/org/.cvsignore
 components/api/src/org/At
