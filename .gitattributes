@@ -450,7 +450,6 @@ src_new/org/argouml/Images/ActivityDiagram.gif -text
 src_new/org/argouml/Images/ActivityGraph.gif -text
 src_new/org/argouml/Images/Actor.gif -text
 src_new/org/argouml/Images/AddAttribute.gif -text
-src_new/org/argouml/Images/AddExtensionPoint.gif -text
 src_new/org/argouml/Images/AddInternalTransition.gif -text
 src_new/org/argouml/Images/AddMessage.gif -text
 src_new/org/argouml/Images/AddOperation.gif -text
@@ -529,6 +528,7 @@ src_new/org/argouml/Images/NavConfig.gif -text
 src_new/org/argouml/Images/NavigateBack.gif -text
 src_new/org/argouml/Images/NavigateForward.gif -text
 src_new/org/argouml/Images/NavigateUp.gif -text
+src_new/org/argouml/Images/NewExtensionPoint.gif -text
 src_new/org/argouml/Images/NewPerspective.gif -text
 src_new/org/argouml/Images/NewToDoItem.gif -text
 src_new/org/argouml/Images/Node.gif -text
@@ -627,8 +627,6 @@ src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarB
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/SequenceDiagram.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/StateDiagram.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/UseCaseDiagram.gif -text
-src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/AddAttribute.gif -text
-src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/AddOperation.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Aggregation.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Association.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Class.gif -text
@@ -637,7 +635,9 @@ src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarB
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/DropDown.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Generalization.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Interface.gif -text
-src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Note.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewAttribute.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewNote.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewOperation.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Package.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Permission.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Realization.gif -text
