@@ -27,7 +27,6 @@ build/tests
 /by
 components/api/build
 components/argouml.log
-components/uml13/build
 documentation/build.properties
 documentation/cookbook/*.hs
 documentation/cookbook/*.jhm
