@@ -1,6 +1,8 @@
 * text=auto !eol
+documentation/cookbook/components.zargo -text
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/issueprocess.zargo -text
+documentation/cookbook/layers.zargo -text
 documentation/docbook-setup/docbook-xsl-1.49/doc/fo/page.png -text
 documentation/docbook-setup/docbook-xsl-1.49/doc/tools/profile-chain.png -text
 documentation/docbook-setup/docbook-xsl-1.49/docsrc/tools/profile-chain.png -text
@@ -70,7 +72,12 @@ documentation/images/callouts/9.png -text
 documentation/images/caution.gif -text
 documentation/images/caution.png -text
 documentation/images/caution.tif -text
+documentation/images/cookbook/ComponentDiagram.gif -text
 documentation/images/cookbook/IssueBigPicture.gif -text
+documentation/images/cookbook/Layer0.gif -text
+documentation/images/cookbook/Layer1.gif -text
+documentation/images/cookbook/Layer2.gif -text
+documentation/images/cookbook/Layer3.gif -text
 documentation/images/cookbook/big.gif -text
 documentation/images/cookbook/critics.gif -text
 documentation/images/cookbook/small.gif -text
