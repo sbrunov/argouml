@@ -605,6 +605,10 @@ src_new/org/argouml/Images/Uses.gif -text
 src_new/org/argouml/Images/Wiz.gif -text
 src_new/org/argouml/doc-files/argologo-small.gif -text
 src_new/org/argouml/doc-files/argologo2.gif -text
+src_new/org/argouml/model/uml/doc-files/Figure21.gif -text
+src_new/org/argouml/model/uml/doc-files/Figure22.gif -text
+src_new/org/argouml/model/uml/doc-files/Figure23.gif -text
+src_new/org/argouml/model/uml/resource/uml13.zargo -text
 tools/lib/jdepend.jar -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
