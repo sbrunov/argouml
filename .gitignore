@@ -30,6 +30,10 @@ documentation/manual/imglist.txt
 documentation/quick-guide/*.hs
 documentation/quick-guide/*.jhm
 documentation/quick-guide/*.xml
+lib/*-src-*.jar
+lib/*-src-*.zip
+lib/*-src.jar
+lib/*-src.zip
 modules/cpp/build
 modules/cpp/build.properties
 modules/cpp/local-*.bat
