@@ -27,6 +27,10 @@ documentation/manual/imglist.txt
 documentation/quick-guide/*.hs
 documentation/quick-guide/*.jhm
 documentation/quick-guide/*.xml
+modules/cpp/build
+modules/cpp/build.properties
+modules/cpp/local-*.bat
+modules/cpp/local-*.sh
 modules/dummylanguage/build
 modules/dummylanguage/build.properties
 modules/dummylanguage/local-*.bat
