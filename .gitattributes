@@ -48,6 +48,7 @@ documentation/images/icons/align_vertical_centers.gif -text
 documentation/images/icons/association.gif -text
 documentation/images/icons/association_end.gif -text
 documentation/images/icons/association_end_role.gif -text
+documentation/images/icons/association_plain.gif -text
 documentation/images/icons/association_role.gif -text
 documentation/images/icons/attribute.gif -text
 documentation/images/icons/backward.gif -text
@@ -129,6 +130,7 @@ documentation/images/icons/package.gif -text
 documentation/images/icons/page_setup.gif -text
 documentation/images/icons/parameter.gif -text
 documentation/images/icons/paste.gif -text
+documentation/images/icons/permission.gif -text
 documentation/images/icons/polygon.gif -text
 documentation/images/icons/print.gif -text
 documentation/images/icons/property_delete.gif -text
@@ -161,6 +163,7 @@ documentation/images/icons/transition.gif -text
 documentation/images/icons/uml_notation.gif -text
 documentation/images/icons/undo.gif -text
 documentation/images/icons/up_directory.gif -text
+documentation/images/icons/usage.gif -text
 documentation/images/icons/use_case.gif -text
 documentation/images/icons/use_case_diagram.gif -text
 documentation/images/important.gif -text
@@ -211,6 +214,9 @@ documentation/images/reference/details_resolve_to_do.png -text
 documentation/images/reference/details_style.png -text
 documentation/images/reference/details_to_do.png -text
 documentation/images/reference/discriminator_example.gif -text
+documentation/images/reference/edit_add_class_diagram.png -text
+documentation/images/reference/edit_association_tools.png -text
+documentation/images/reference/edit_graphical_tools.png -text
 documentation/images/reference/editing_pane.png -text
 documentation/images/reference/entclasshier.gif -text
 documentation/images/reference/gui_overview.png -text
