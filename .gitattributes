@@ -441,14 +441,18 @@ lib/gef-0.9.6.jar -text
 lib/jaxp.jar -text
 lib/jh.jar -text
 lib/js.jar -text
+lib/log4j-1.1.3.jar -text
 lib/log4j.jar -text
+lib/nsuml-0.4.19.jar -text
 lib/nsuml.jar -text
 lib/ocl-argo.jar -text
 lib/optional.jar -text
 lib/parser.jar -text
+lib/saxon-6.5.2.jar -text
 lib/saxon.jar -text
 lib/w3c.jar -text
 lib/xalan.jar -text
+lib/xerces-1.2.3.jar -text
 lib/xerces.jar -text
 modules/jscheme/lib/jscheme.jar -text
 modules/junit/lib/junit.jar -text
@@ -625,7 +629,6 @@ tools/fop-0.20.3/lib/xalan-2.0.0.jar -text
 tools/fop-0.20.3/lib/xalanj1compat.jar -text
 tools/jdepend-2.2/lib/jdepend.jar -text
 tools/lib/jdepend.jar -text
-tools/lib/saxon.jar -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
 www/docs/robbins_dissertation/diss1-1.gif -text
