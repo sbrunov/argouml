@@ -1,1 +1,2 @@
 * text=auto !eol
+modules/cpp/testprojects/GeneratorTester28.zargo -text
