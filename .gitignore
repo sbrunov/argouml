@@ -6,6 +6,4 @@ build/bin
 build/classes
 build/ext
 build/src_new
-modules/junit/build
-modules/menutest/build
 /work
