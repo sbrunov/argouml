@@ -1,4 +1,6 @@
-/build
+/ArgoUML-*.tar.gz
+/ArgoUML-*.tgz
+/ArgoUML-*.zip
 build/*.jar
 build/README.txt
 build/argouml.sh
@@ -161,5 +163,4 @@ src_new/org/argouml/xml/xmi/*.class
 tests/testmodels/01-12-02.xml
 tests/testmodels/Model.dtd
 tools/lib/jimi-1.0.jar
-/work
 www/snapshots
