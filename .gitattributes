@@ -871,6 +871,7 @@ www/images/wincvs1.gif -text
 www/images/wincvs12preftab.png -text
 www/images/wrap_text_to_make_it_easier_to_read.png -text
 www/models/addisonwesley/UMLDistilled.zargo -text
+www/models/gef/gef.zargo -text
 www/models/log4j/log4j.zargo -text
 www/models/omg/uml13.zargo -text
 www/models/omg/uml14.zargo -text
