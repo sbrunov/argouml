@@ -1,6 +1,5 @@
 * text=auto !eol
 components/components.zargo -text
-components/nsuml/src/ru/novosoft/uml/xmi/uml13.dtd -text svneol=unset#application/octet-stream
 documentation/cookbook/components.zargo -text
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/issueprocess.zargo -text
