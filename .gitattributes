@@ -1262,6 +1262,11 @@ www/documentation/snapshot/manual/images/reference/todo_pane.png -text
 www/documentation/snapshot/manual/images/reference/use_case_diagram.gif -text
 www/documentation/snapshot/manual/images/reference/wavy_line.png -text
 www/documentation/snapshot/manual/images/tip.png -text
+www/documentation/snapshot/manual/images/tutorial/atm_use_case_diagram_basic.gif -text
+www/documentation/snapshot/manual/images/tutorial/atm_use_case_diagram_extend.gif -text
+www/documentation/snapshot/manual/images/tutorial/atm_use_case_diagram_include.gif -text
+www/documentation/snapshot/manual/images/tutorial/atm_use_case_diagram_multiplicity.gif -text
+www/documentation/snapshot/manual/images/tutorial/atm_use_case_diagram_navigation.gif -text
 www/documentation/snapshot/manual/images/tutorial/critrevname.gif -text
 www/documentation/snapshot/manual/images/tutorial/critstart.gif -text
 www/documentation/snapshot/manual/images/tutorial/critwiz.gif -text
