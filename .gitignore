@@ -5,8 +5,6 @@
 /ArgoUML-*.zip
 /CVS
 /Eclipse
-/IDE
-/\#
 /\#
 /\#
 /\#
@@ -28,6 +26,7 @@ build/src_new
 build/tests
 /by
 components/api/build
+components/argouml.log
 components/model13/build
 components/uml13/build
 documentation/build.properties
@@ -196,3 +195,11 @@ tests/testmodels/Model.dtd
 tools/lib/jimi-1.0.jar
 /used
 www/snapshots
+!/\#
+/IDE,
+/\#
+/\#
+/\#
+/as
+/bin
+/is
