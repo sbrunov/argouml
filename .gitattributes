@@ -148,6 +148,7 @@ src/uci/Images/Trace.gif svneol=native#unset
 src/uci/Images/Transition.gif -text
 src/uci/Images/Trigger.gif svneol=native#unset
 src/uci/Images/Undo.gif svneol=native#unset
+src/uci/Images/Usage.gif -text
 src/uci/Images/UseCase.gif svneol=native#unset
 src/uci/Images/UseCaseDiagram.gif -text
 src/uci/Images/Uses.gif svneol=native#unset
