@@ -632,6 +632,7 @@ src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarB
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/PageSetup.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Paste.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Print.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Properties.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Redo.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/RemoveFromDiagram.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/SaveProject.gif -text
