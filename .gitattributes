@@ -622,12 +622,14 @@ src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarB
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Copy.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Cut.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Delete.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/DeleteFromModel.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Find.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/New.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/OpenProject.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Paste.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Print.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Redo.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/RemoveFromDiagram.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/SaveProject.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Undo.gif -text
 src_new/org/argouml/doc-files/argologo-small.gif -text
