@@ -630,7 +630,9 @@ src_new/org/argouml/Images/DistributeHorizontalCenters.gif -text
 src_new/org/argouml/Images/DistributeHorizontalSpacing.gif -text
 src_new/org/argouml/Images/DistributeVerticalCenters.gif -text
 src_new/org/argouml/Images/DistributeVerticalSpacing.gif -text
+src_new/org/argouml/Images/Extend.gif -text
 src_new/org/argouml/Images/Extends.gif -text
+src_new/org/argouml/Images/ExtensionPoint.gif -text
 src_new/org/argouml/Images/Favorites.gif -text
 src_new/org/argouml/Images/FinalState.gif -text
 src_new/org/argouml/Images/Find.gif -text
@@ -645,6 +647,7 @@ src_new/org/argouml/Images/Hierarchical.gif -text
 src_new/org/argouml/Images/Hush.gif -text
 src_new/org/argouml/Images/HushCritic.gif -text
 src_new/org/argouml/Images/Importsources.gif -text
+src_new/org/argouml/Images/Include.gif -text
 src_new/org/argouml/Images/Inheritance.gif -text
 src_new/org/argouml/Images/InheritanceInverse.gif -text
 src_new/org/argouml/Images/Initial.gif -text
