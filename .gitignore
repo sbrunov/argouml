@@ -15,5 +15,7 @@ modules/jscheme/build
 modules/junit/build
 modules/menutest/build
 modules/php/build
+src_new/build.properties
+src_new/org/argouml/application/ArgoVersion.java
 /work
 www/snapshots
