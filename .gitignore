@@ -9,7 +9,6 @@
 /\#
 /\#
 /\#
-/\#
 /also
 /and
 /are
@@ -205,3 +204,15 @@ tests/testmodels/Model.dtd
 /this
 tools/lib/jimi-1.0.jar
 /used
+!/\#
+/.checkclipse
+/CheckClipse
+/\#
+/\#
+/\#
+/\#
+/\#
+/is
+/plugin
+/the
+/to
