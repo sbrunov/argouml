@@ -1272,6 +1272,8 @@ www/documentation/snapshot/cookbook/images/cookbook/Layer2.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/Layer3.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/big.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/critics.gif -text
+www/documentation/snapshot/cookbook/images/cookbook/eventsafterpump.gif -text
+www/documentation/snapshot/cookbook/images/cookbook/eventsbeforepump.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/small.gif -text
 www/documentation/snapshot/cookbook/images/examples/example1.gif -text
 www/documentation/snapshot/cookbook/images/examples/example2.gif -text
@@ -1281,6 +1283,7 @@ www/documentation/snapshot/cookbook/images/note.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argoapi.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argocogchklist.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argocogcritics.png -text
+www/documentation/snapshot/cookbook/images/screenshots/argocogcriticsreduced.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argoconfig.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argokernel.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argoocl.png -text
