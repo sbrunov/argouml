@@ -220,10 +220,12 @@ documentation/images/reference/menu_design_goals.png -text
 documentation/images/reference/menu_design_issues.png -text
 documentation/images/reference/menu_diagram_exceeds_page.png -text
 documentation/images/reference/menu_dialog_confirm_new.png -text
+documentation/images/reference/menu_export_xmi.png -text
 documentation/images/reference/menu_find.png -text
 documentation/images/reference/menu_generate_dialog.png -text
 documentation/images/reference/menu_goto_diagram.png -text
 documentation/images/reference/menu_help.png -text
+documentation/images/reference/menu_help_system_info.png -text
 documentation/images/reference/menu_import_sources.png -text
 documentation/images/reference/menu_open_project.png -text
 documentation/images/reference/menu_revert_to_saved.png -text
