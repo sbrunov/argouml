@@ -9,6 +9,7 @@ build/documentation
 build/ext
 build/javadocs
 build/src_new
+build/tests
 documentation/build.properties
 documentation/cookbook/*.hs
 documentation/cookbook/*.jhm
@@ -153,6 +154,8 @@ src_new/org/argouml/xml/argo/*.class
 src_new/org/argouml/xml/dtd/*.class
 src_new/org/argouml/xml/pgml/*.class
 src_new/org/argouml/xml/xmi/*.class
+src_new/tests/testmodels/01-12-02.xml
+src_new/tests/testmodels/Model.dtd
 tools/lib/jimi-1.0.jar
 /work
 www/snapshots
