@@ -154,8 +154,8 @@ src_new/org/argouml/xml/argo/*.class
 src_new/org/argouml/xml/dtd/*.class
 src_new/org/argouml/xml/pgml/*.class
 src_new/org/argouml/xml/xmi/*.class
-src_new/tests/testmodels/01-12-02.xml
-src_new/tests/testmodels/Model.dtd
+tests/testmodels/01-12-02.xml
+tests/testmodels/Model.dtd
 tools/lib/jimi-1.0.jar
 /work
 www/snapshots
