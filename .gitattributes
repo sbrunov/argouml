@@ -477,6 +477,8 @@ src_new/org/argouml/Images/Attribute.gif -text
 src_new/org/argouml/Images/Branch.gif -text
 src_new/org/argouml/Images/Broom.gif -text
 src_new/org/argouml/Images/CallAction.gif -text
+src_new/org/argouml/Images/CallEvent.gif -text
+src_new/org/argouml/Images/ChangeEvent.gif -text
 src_new/org/argouml/Images/Circle.gif -text
 src_new/org/argouml/Images/Class.gif -text
 src_new/org/argouml/Images/ClassDiagram.gif -text
@@ -595,6 +597,7 @@ src_new/org/argouml/Images/SendAction.gif -text
 src_new/org/argouml/Images/SendEmailToExpert.gif -text
 src_new/org/argouml/Images/SequenceDiagram.gif -text
 src_new/org/argouml/Images/ShallowHistory.gif -text
+src_new/org/argouml/Images/SignalEvent.gif -text
 src_new/org/argouml/Images/SignalReceiving.gif -text
 src_new/org/argouml/Images/SignalSending.gif -text
 src_new/org/argouml/Images/SimpleState.gif -text
@@ -620,6 +623,7 @@ src_new/org/argouml/Images/SynchState.gif -text
 src_new/org/argouml/Images/Synchronous.gif -text
 src_new/org/argouml/Images/TerminateAction.gif -text
 src_new/org/argouml/Images/Text.gif -text
+src_new/org/argouml/Images/TimeEvent.gif -text
 src_new/org/argouml/Images/ToBack.gif -text
 src_new/org/argouml/Images/ToFront.gif -text
 src_new/org/argouml/Images/Trace.gif -text
