@@ -202,6 +202,7 @@ www/snapshots
 /as
 /bin
 components/gef-diagram/build
+components/mdr-model/build
 components/nsuml-model/build
 components/nsuml_original
 /is
