@@ -13,6 +13,8 @@ build/src_new
 modules/dummylanguage/build
 modules/jscheme/build
 modules/junit/build
+modules/junit/testmodels/01-12-02.xml
+modules/junit/testmodels/Model.dtd
 modules/menutest/build
 modules/php/build
 src_new/local-*.bat
