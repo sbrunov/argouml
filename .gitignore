@@ -19,6 +19,12 @@ documentation/cookbook/*.xml
 documentation/faq/*.hs
 documentation/faq/*.jhm
 documentation/faq/*.xml
+documentation/manual/*.hs
+documentation/manual/*.jhm
+documentation/manual/*.xml
+documentation/quick-guide/*.hs
+documentation/quick-guide/*.jhm
+documentation/quick-guide/*.xml
 modules/dummylanguage/build
 modules/jscheme/build
 modules/junit/build
