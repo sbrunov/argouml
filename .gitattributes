@@ -601,6 +601,7 @@ tools/fop-0.20.3/lib/batik-1.1.jar -text
 tools/fop-0.20.3/lib/logkit-1.0.jar -text
 tools/fop-0.20.3/lib/xalan-2.0.0.jar -text
 tools/fop-0.20.3/lib/xalanj1compat.jar -text
+tools/jdepend-2.2/lib/jdepend.jar -text
 tools/lib/saxon.jar -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
