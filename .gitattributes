@@ -605,6 +605,7 @@ src_new/org/argouml/Images/Activity.gif -text
 src_new/org/argouml/Images/ActivityDiagram.gif -text
 src_new/org/argouml/Images/Actor.gif -text
 src_new/org/argouml/Images/AddAttribute.gif -text
+src_new/org/argouml/Images/AddExtensionPoint.gif -text
 src_new/org/argouml/Images/AddInternalTransition.gif -text
 src_new/org/argouml/Images/AddMessage.gif -text
 src_new/org/argouml/Images/AddOperation.gif -text
