@@ -39,6 +39,7 @@ src/uci/Images/CompositeAggregation.gif svneol=native#unset
 src/uci/Images/CompositeState.gif svneol=native#unset
 src/uci/Images/Copy.gif svneol=native#unset
 src/uci/Images/Cut.gif -text
+src/uci/Images/DataType.gif -text
 src/uci/Images/Decision.gif svneol=native#unset
 src/uci/Images/DeepHistory.gif svneol=native#unset
 src/uci/Images/Delete.gif svneol=native#unset
