@@ -439,7 +439,6 @@ lib/nsuml-0.4.19.jar -text
 lib/ocl-argo.jar -text
 modules/jscheme/lib/jscheme.jar -text
 modules/junit/lib/junit-3.7.jar -text
-modules/junit/lib/junit.jar -text
 modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/junit/testmodels/Alittlebitofeverything.zargo -text
 modules/junit/testmodels/Empty.zargo -text
