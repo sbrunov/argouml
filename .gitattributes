@@ -989,6 +989,7 @@ www/documentation/defaulthtml/manual/images/tutorial/critstart.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/critwiz.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/detailsoverview.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/editoverview.gif -text
+www/documentation/defaulthtml/manual/images/tutorial/exploreroverview.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/filechoose.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/generalize.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/guifolderdropdown.gif -text
@@ -1003,7 +1004,6 @@ www/documentation/defaulthtml/manual/images/tutorial/if.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/ifgen.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/iftool.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/iterative.png -text
-www/documentation/defaulthtml/manual/images/tutorial/navoverview.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/saveas.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/startup.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/todooverview.gif -text
