@@ -1,7 +1,5 @@
 /build
 build/*.jar
-build/Fop.class
-build/Fop.java
 build/README.txt
 build/argouml.sh
 build/bin
