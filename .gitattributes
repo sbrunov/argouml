@@ -614,7 +614,9 @@ src_new/org/argouml/Images/StimulusReturn.gif -text
 src_new/org/argouml/Images/StimulusSend.gif -text
 src_new/org/argouml/Images/StubState.gif -text
 src_new/org/argouml/Images/SubMachine.gif -text
+src_new/org/argouml/Images/SubmachineState.gif -text
 src_new/org/argouml/Images/Subsystem.gif -text
+src_new/org/argouml/Images/SynchState.gif -text
 src_new/org/argouml/Images/Synchronous.gif -text
 src_new/org/argouml/Images/TerminateAction.gif -text
 src_new/org/argouml/Images/Text.gif -text
