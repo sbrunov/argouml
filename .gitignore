@@ -32,9 +32,6 @@ modules/dummylanguage/build.properties
 modules/dummylanguage/local-*.bat
 modules/dummylanguage/local-*.sh
 modules/java_rte/build
-modules/java_rte/build.properties
-modules/java_rte/local-*.bat
-modules/java_rte/local-*.sh
 modules/jscheme/build
 modules/jscheme/build.properties
 modules/jscheme/local-*.bat
