@@ -476,6 +476,7 @@ src_new/org/argouml/Images/AssociationRole.gif -text
 src_new/org/argouml/Images/Asynchronous.gif -text
 src_new/org/argouml/Images/Attribute.gif -text
 src_new/org/argouml/Images/Branch.gif -text
+src_new/org/argouml/Images/Broom.gif -text
 src_new/org/argouml/Images/CallAction.gif -text
 src_new/org/argouml/Images/Class.gif -text
 src_new/org/argouml/Images/ClassDiagram.gif -text
@@ -575,6 +576,7 @@ src_new/org/argouml/Images/ResolveItem.gif -text
 src_new/org/argouml/Images/RetMessage.gif -text
 src_new/org/argouml/Images/ReturnAction.gif -text
 src_new/org/argouml/Images/SaveProject.gif -text
+src_new/org/argouml/Images/Select.gif -text
 src_new/org/argouml/Images/SelfAssociation.gif -text
 src_new/org/argouml/Images/Self_del.gif -text
 src_new/org/argouml/Images/SendAction.gif -text
