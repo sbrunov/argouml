@@ -202,5 +202,6 @@ www/snapshots
 /as
 /bin
 components/gef-diagram/build
+components/nsuml-model/build
 components/nsuml_original
 /is
