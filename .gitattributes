@@ -437,6 +437,7 @@ lib/ant.jar -text
 lib/antlrall.jar -text
 lib/bsf.jar -text
 lib/fop.jar -text
+lib/gef-0.9.6.jar -text
 lib/gef.jar -text
 lib/jaxp.jar -text
 lib/jh.jar -text
