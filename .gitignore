@@ -10,6 +10,7 @@ build/doc
 build/documentation
 build/ext
 build/javadocs
+build/javasrc
 build/src_new
 build/tests
 documentation/build.properties
