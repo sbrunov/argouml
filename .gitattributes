@@ -719,8 +719,18 @@ www/docs/robbins_dissertation/diss8-9.gif -text
 www/docs/robbins_dissertation/frontmatter.fm -text
 www/documentation/defaulthtml/cookbook/images/cookbook/big.gif -text
 www/documentation/defaulthtml/cookbook/images/cookbook/critics.gif -text
-www/documentation/defaulthtml/cookbook/images/cookbook/ru_novosoft_uml_foundation_core_classes.gif -text svneol=unset#application/octet-stream
 www/documentation/defaulthtml/cookbook/images/cookbook/small.gif -text
+www/documentation/defaulthtml/cookbook/images/examples/example1.gif -text
+www/documentation/defaulthtml/cookbook/images/examples/example2.gif -text
+www/documentation/defaulthtml/cookbook/images/examples/example3.gif -text
+www/documentation/defaulthtml/cookbook/images/important.png -text
+www/documentation/defaulthtml/cookbook/images/note.png -text
+www/documentation/defaulthtml/cookbook/images/screenshots/argoapi.png -text
+www/documentation/defaulthtml/cookbook/images/screenshots/argocogchklist.png -text
+www/documentation/defaulthtml/cookbook/images/screenshots/argocogcritics.png -text
+www/documentation/defaulthtml/cookbook/images/screenshots/argoconfig.png -text
+www/documentation/defaulthtml/cookbook/images/screenshots/argokernel.png -text
+www/documentation/defaulthtml/cookbook/images/screenshots/argoocl.png -text
 www/documentation/defaulthtml/faq/images/callouts/1.png svneol=native#unset
 www/documentation/defaulthtml/faq/images/callouts/10.png svneol=native#unset
 www/documentation/defaulthtml/faq/images/callouts/2.png svneol=native#unset
