@@ -1,6 +1,7 @@
 * text=auto !eol
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/issueprocess.zargo -text
+documentation/docbook-setup/docbook-xsl-1.49/doc/fo/page.png -text
 documentation/images/callouts/1.png -text
 documentation/images/callouts/10.png -text
 documentation/images/callouts/2.png -text
