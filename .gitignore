@@ -198,20 +198,6 @@ src_new/test.zargo
 !/\#
 /DIST
 /bin
-build/*.jar
-build/README.txt
-build/api
-build/argouml.log
-build/argouml.sh
-build/bin
-build/classes
-build/doc
-build/documentation
-build/ext
-build/javadocs
-build/javasrc
-build/src_new
-build/tests
 modules/idl/build
 modules/idl/build.properties
 modules/idl/local-*.bat
@@ -229,5 +215,3 @@ src_new/org/argouml/uml/reveng/java/JavaLexer.java
 src_new/org/argouml/uml/reveng/java/JavaRecognizer.java
 src_new/org/argouml/uml/reveng/java/JavaTokenTypes.java
 src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt
-www/images/Thumbs.db
-www/images/shirts/Thumbs.db
