@@ -1,3 +1,4 @@
+/build
 build/*.jar
 build/Fop.class
 build/Fop.java
