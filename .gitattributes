@@ -449,6 +449,7 @@ lib/toolbar-0.3.jar -text
 lib/xalan-2.6.0.jar -text
 lib/xercesImpl-2.6.2.jar -text
 lib/xml-apis-2.6.2.jar -text
+modules/cpp/lib/commons-io-1.0.jar -text
 modules/cpp/testprojects/GeneratorTester28.zargo -text
 modules/cpp/testprojects/GeneratorTester30.zargo -text
 modules/csharp/src/org/manifest.mf -text svneol=unset#application/octet-stream
