@@ -475,6 +475,7 @@ src_new/org/argouml/Images/ArgoIcon.gif -text
 src_new/org/argouml/Images/Association.gif -text
 src_new/org/argouml/Images/AssociationClass.gif -text
 src_new/org/argouml/Images/AssociationEnd.gif -text
+src_new/org/argouml/Images/AssociationEndRole.gif -text
 src_new/org/argouml/Images/AssociationInverse.gif -text
 src_new/org/argouml/Images/AssociationRole.gif -text
 src_new/org/argouml/Images/Asynchronous.gif -text
