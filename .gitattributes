@@ -443,6 +443,7 @@ lib/jmi-1.0.jar -text
 lib/log4j-1.2.6.jar -text
 lib/nsuml-0.4.20_modified.jar -text
 lib/ocl-argo-1.1.jar -text
+lib/swidgets-0.1.jar -text
 lib/toolbar-0.3.jar -text
 lib/xalan-2.6.0.jar -text
 lib/xercesImpl-2.6.2.jar -text
