@@ -17,5 +17,6 @@ modules/menutest/build
 modules/php/build
 src_new/local-*.bat
 src_new/local-*.sh
+src_new/local-*.xml
 /work
 www/snapshots
