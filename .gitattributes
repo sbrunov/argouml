@@ -649,6 +649,8 @@ tools/junit-3.7/junit.jar -text
 tools/lib/javasrc-2001-beta.jar -text
 tools/lib/saxon-6.5.2.jar -text
 www/docs/allegrini_dissertation/tesi_en.pdf -text
+www/docs/mmicallef/Presentation.ppt -text
+www/docs/mmicallef/ProjectReport.pdf -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
 www/docs/robbins_dissertation/diss1-1.gif -text
