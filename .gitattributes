@@ -705,6 +705,7 @@ www/docs/mmicallef/Presentation.ppt -text
 www/docs/mmicallef/ProjectReport.pdf -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
+www/docs/robbins_dissertation/diss.pdf -text svneol=unset#application/octet-stream
 www/docs/robbins_dissertation/diss1-1.gif -text
 www/docs/robbins_dissertation/diss2-1.gif -text
 www/docs/robbins_dissertation/diss3-1.gif -text
@@ -755,6 +756,7 @@ www/docs/robbins_dissertation/diss8-7.gif -text
 www/docs/robbins_dissertation/diss8-8.gif -text
 www/docs/robbins_dissertation/diss8-9.gif -text
 www/docs/robbins_dissertation/frontmatter.fm -text
+www/docs/robbins_dissertation/frontmatter.pdf -text
 www/documentation/contributed/nsuml/guide/Abstraction.gif -text
 www/documentation/contributed/nsuml/guide/Image4.gif -text
 www/documentation/contributed/nsuml/guide/Image5.gif -text
