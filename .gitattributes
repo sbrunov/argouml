@@ -434,7 +434,7 @@ documentation/manual/models/requirements_tutorial.zargo -text
 lib/antlrall.jar -text
 lib/gef-0.9.6.jar -text
 lib/jh.jar -text
-lib/log4j-1.1.3.jar -text
+lib/log4j-1.2.6.jar -text
 lib/nsuml-0.4.19.jar -text
 lib/ocl-argo.jar -text
 modules/cpp/testprojects/GeneratorTester28.zargo -text
