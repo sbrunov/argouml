@@ -603,6 +603,13 @@ src_new/org/argouml/model/uml/doc-files/Figure23.gif -text
 src_new/org/argouml/model/uml/resource/uml13.zargo -text
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+tools/fop-0.20.3/build/fop-0.20.3-custom.jar -text
+tools/fop-0.20.3/build/fop.jar -text
+tools/fop-0.20.3/lib/avalon-framework-4.0.jar -text
+tools/fop-0.20.3/lib/batik-1.1.jar -text
+tools/fop-0.20.3/lib/logkit-1.0.jar -text
+tools/fop-0.20.3/lib/xalan-2.0.0.jar -text
+tools/fop-0.20.3/lib/xalanj1compat.jar -text
 tools/jdepend-2.2/lib/jdepend.jar -text
 tools/lib/jdepend.jar -text
 tools/lib/junit-3.7.jar -text
