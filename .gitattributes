@@ -3,6 +3,7 @@ src/uci/Images/ActionState.gif svneol=native#unset
 src/uci/Images/Activation.gif -text
 src/uci/Images/Active.gif svneol=native#unset
 src/uci/Images/Activity.gif -text
+src/uci/Images/ActivityDiagram2.gif svneol=native#unset
 src/uci/Images/Actor.gif -text
 src/uci/Images/AddAttribute.gif svneol=native#unset
 src/uci/Images/AddInternalTransition.gif svneol=native#unset
