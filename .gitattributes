@@ -210,6 +210,7 @@ documentation/images/note.png -text
 documentation/images/note.tif -text
 documentation/images/prev.png -text
 documentation/images/reference/activity_diagram.gif -text
+documentation/images/reference/build_house.png -text
 documentation/images/reference/class_diagram.gif -text
 documentation/images/reference/collaboration_diagram.gif -text
 documentation/images/reference/component_diagram.gif -text
@@ -279,6 +280,7 @@ documentation/images/reference/signal_add_context.png -text
 documentation/images/reference/signal_add_specification.png -text
 documentation/images/reference/solid_line.png -text
 documentation/images/reference/state_diagram.gif -text
+documentation/images/reference/state_diagram_artifacts1.png -text
 documentation/images/reference/todo_pane.png -text
 documentation/images/reference/toolbar_zoom_slider.png -text
 documentation/images/reference/use_case_diagram.gif -text
@@ -437,12 +439,14 @@ documentation/images/up.png -text
 documentation/images/warning.gif -text
 documentation/images/warning.png -text
 documentation/images/warning.tif -text
+documentation/manual/models/Build-House.zargo -text
 documentation/manual/models/The[!!-~]Shapes[!!-~]Project.zargo -text
 documentation/manual/models/classpackages.zargo -text
 documentation/manual/models/critic_model.zargo -text
 documentation/manual/models/diagrams.zargo -text
 documentation/manual/models/discriminator_example.zargo -text
 documentation/manual/models/requirements_tutorial.zargo -text
+documentation/manual/models/state-artifacts.zargo -text
 lib/antlrall-2.7.2.jar -text
 lib/commons-logging-1.0.2.jar -text
 lib/gef-0.10.14.jar -text
