@@ -125,6 +125,7 @@ documentation/images/icons/object.gif -text
 documentation/images/icons/open_project.gif -text
 documentation/images/icons/operation.gif -text
 documentation/images/icons/package.gif -text
+documentation/images/icons/page_setup.gif -text
 documentation/images/icons/parameter.gif -text
 documentation/images/icons/paste.gif -text
 documentation/images/icons/polygon.gif -text
@@ -214,6 +215,8 @@ documentation/images/reference/gui_overview.png -text
 documentation/images/reference/menu_browse_critics.png -text
 documentation/images/reference/menu_design_goals.png -text
 documentation/images/reference/menu_design_issues.png -text
+documentation/images/reference/menu_diagram_exceeds_page.png -text
+documentation/images/reference/menu_dialog_confirm_new.png -text
 documentation/images/reference/menu_find.png -text
 documentation/images/reference/menu_generate_dialog.png -text
 documentation/images/reference/menu_goto_diagram.png -text
@@ -221,6 +224,7 @@ documentation/images/reference/menu_help.png -text
 documentation/images/reference/menu_import_sources.png -text
 documentation/images/reference/menu_open_project.png -text
 documentation/images/reference/menu_revert_to_saved.png -text
+documentation/images/reference/menu_save_changes.png -text
 documentation/images/reference/menu_settings.png -text
 documentation/images/reference/navigator_pane.png -text
 documentation/images/reference/navigator_pane_panes.png -text
