@@ -135,6 +135,7 @@ documentation/images/icons/polygon.gif -text
 documentation/images/icons/print.gif -text
 documentation/images/icons/property_delete.gif -text
 documentation/images/icons/realization.gif -text
+documentation/images/icons/reception.gif -text
 documentation/images/icons/rectangle.gif -text
 documentation/images/icons/redo.gif -text
 documentation/images/icons/remove_from_diagram.gif -text
@@ -249,6 +250,8 @@ documentation/images/reference/navigator_pane_panes.png -text
 documentation/images/reference/navigator_pane_perspectives.png -text
 documentation/images/reference/package_diagram.gif -text
 documentation/images/reference/sequence_diagram.gif -text
+documentation/images/reference/signal_add_context.png -text
+documentation/images/reference/signal_add_specification.png -text
 documentation/images/reference/solid_line.png -text
 documentation/images/reference/state_diagram.gif -text
 documentation/images/reference/todo_pane.png -text
