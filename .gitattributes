@@ -71,6 +71,7 @@ documentation/images/icons/cut.gif -text
 documentation/images/icons/datatype.gif -text
 documentation/images/icons/deep_history.gif -text
 documentation/images/icons/delete_constraint.gif -text
+documentation/images/icons/delete_from_model.gif -text
 documentation/images/icons/dependency.gif -text
 documentation/images/icons/deployment_diagram.gif -text
 documentation/images/icons/details_files.gif -text
@@ -197,6 +198,7 @@ documentation/images/reference/activity_diagram.gif -text
 documentation/images/reference/class_diagram.gif -text
 documentation/images/reference/collaboration_diagram.gif -text
 documentation/images/reference/component_diagram.gif -text
+documentation/images/reference/confirm_remove.png -text
 documentation/images/reference/deployment_diagram.gif -text
 documentation/images/reference/details_constraint_editor.png -text
 documentation/images/reference/details_constraints.png -text
@@ -226,6 +228,10 @@ documentation/images/reference/menu_open_project.png -text
 documentation/images/reference/menu_revert_to_saved.png -text
 documentation/images/reference/menu_save_changes.png -text
 documentation/images/reference/menu_settings.png -text
+documentation/images/reference/menu_settings_appearance.png -text
+documentation/images/reference/menu_settings_environment.png -text
+documentation/images/reference/menu_settings_notations.png -text
+documentation/images/reference/menu_settings_user.png -text
 documentation/images/reference/navigator_pane.png -text
 documentation/images/reference/navigator_pane_panes.png -text
 documentation/images/reference/navigator_pane_perspectives.png -text
