@@ -119,5 +119,6 @@ src_new/org/argouml/xml/argo/*.class
 src_new/org/argouml/xml/dtd/*.class
 src_new/org/argouml/xml/pgml/*.class
 src_new/org/argouml/xml/xmi/*.class
+tools/lib/jimi-1.0.jar
 /work
 www/snapshots
