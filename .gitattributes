@@ -484,6 +484,7 @@ src_new/org/argouml/Images/Branch.gif -text
 src_new/org/argouml/Images/Broom.gif -text
 src_new/org/argouml/Images/CallAction.gif -text
 src_new/org/argouml/Images/CallEvent.gif -text
+src_new/org/argouml/Images/CallState.gif -text
 src_new/org/argouml/Images/ChangeEvent.gif -text
 src_new/org/argouml/Images/Choice.gif -text
 src_new/org/argouml/Images/Circle.gif -text
@@ -567,6 +568,7 @@ src_new/org/argouml/Images/NudgeRight.gif -text
 src_new/org/argouml/Images/NudgeUp.gif -text
 src_new/org/argouml/Images/ObjDelete.gif -text
 src_new/org/argouml/Images/Object.gif -text
+src_new/org/argouml/Images/ObjectFlowState.gif -text
 src_new/org/argouml/Images/OpenProject.gif -text
 src_new/org/argouml/Images/Operation.gif -text
 src_new/org/argouml/Images/Package.gif -text
@@ -628,6 +630,7 @@ src_new/org/argouml/Images/StimulusReturn.gif -text
 src_new/org/argouml/Images/StimulusSend.gif -text
 src_new/org/argouml/Images/StubState.gif -text
 src_new/org/argouml/Images/SubMachine.gif -text
+src_new/org/argouml/Images/SubactivityState.gif -text
 src_new/org/argouml/Images/SubmachineState.gif -text
 src_new/org/argouml/Images/Subsystem.gif -text
 src_new/org/argouml/Images/SynchState.gif -text
