@@ -4,6 +4,7 @@ lib/NetComponents.jar -text
 lib/ant.jar -text
 lib/antlrall.jar -text
 lib/bsf.jar -text
+lib/cookbook.jar -text
 lib/faq.jar -text
 lib/fop.jar -text
 lib/gef.jar -text
