@@ -7,18 +7,6 @@
 /\#
 /\#
 /argouml.log
-build/*.jar
-build/README.txt
-build/argouml.sh
-build/bin
-build/classes
-build/doc
-build/documentation
-build/ext
-build/javadocs
-build/javasrc
-build/src_new
-build/tests
 documentation/build.properties
 documentation/cookbook/*.hs
 documentation/cookbook/*.jhm
@@ -203,7 +191,6 @@ tools/lib/jimi-1.0.jar
 /\#
 /\#
 /\#
-build/argouml.log
 modules/kaos/build
 src_new/*.log
 src_new/junit*.properties
