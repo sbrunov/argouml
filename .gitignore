@@ -1,1 +1,5 @@
+modules/cpp/build
+modules/cpp/build.properties
+modules/cpp/local-*.bat
+modules/cpp/local-*.sh
 modules/java_rte/build
