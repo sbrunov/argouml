@@ -196,9 +196,11 @@ src_new/*.log
 src_new/junit*.properties
 src_new/test.zargo
 !/\#
+/DIST
 /bin
 build/*.jar
 build/README.txt
+build/api
 build/argouml.log
 build/argouml.sh
 build/bin
