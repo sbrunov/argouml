@@ -603,6 +603,10 @@ src_new/org/argouml/model/uml/doc-files/Figure23.gif -text
 src_new/org/argouml/model/uml/resource/uml13.zargo -text
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+tools/ant-1.4.1/lib/ant.jar -text
+tools/ant-1.4.1/lib/crimson.jar -text
+tools/ant-1.4.1/lib/jaxp.jar -text
+tools/ant-1.4.1/lib/optional.jar -text
 tools/fop-0.20.3/build/fop-0.20.3-custom.jar -text
 tools/fop-0.20.3/build/fop.jar -text
 tools/fop-0.20.3/lib/avalon-framework-4.0.jar -text
