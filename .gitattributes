@@ -437,6 +437,8 @@ lib/jh.jar -text
 lib/log4j-1.1.3.jar -text
 lib/nsuml-0.4.19.jar -text
 lib/ocl-argo.jar -text
+modules/cpp/testprojects/GeneratorTester28.zargo -text
+modules/cpp/testprojects/GeneratorTester30.zargo -text
 modules/jscheme/lib/jscheme.jar -text
 modules/junit/lib/junit-3.7.jar -text
 modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
