@@ -595,6 +595,14 @@ src_new/org/argouml/Images/UseCase.gif -text
 src_new/org/argouml/Images/UseCaseDiagram.gif -text
 src_new/org/argouml/Images/Uses.gif -text
 src_new/org/argouml/Images/Wiz.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/ActivityDiagram.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/ClassDiagram.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/CollaborationDiagram.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/DeploymentDiagram.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/Diagram.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/SequenceDiagram.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/StateDiagram.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/UseCaseDiagram.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Copy.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Cut.gif -text
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Delete.gif -text
