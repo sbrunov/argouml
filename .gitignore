@@ -7,6 +7,7 @@ build/classes
 build/doc
 build/documentation
 build/ext
+build/javadocs
 build/src_new
 modules/jscheme/build
 modules/junit/build
