@@ -167,6 +167,7 @@ documentation/images/icons/up_directory.gif -text
 documentation/images/icons/usage.gif -text
 documentation/images/icons/use_case.gif -text
 documentation/images/icons/use_case_diagram.gif -text
+documentation/images/icons/zoom.gif -text
 documentation/images/important.gif -text
 documentation/images/important.png -text
 documentation/images/important.tif -text
@@ -257,6 +258,7 @@ documentation/images/reference/signal_add_specification.png -text
 documentation/images/reference/solid_line.png -text
 documentation/images/reference/state_diagram.gif -text
 documentation/images/reference/todo_pane.png -text
+documentation/images/reference/toolbar_zoom_slider.png -text
 documentation/images/reference/use_case_diagram.gif -text
 documentation/images/reference/wavy_line.png -text
 documentation/images/screenshots/DetailsPaneScreen.gif -text
