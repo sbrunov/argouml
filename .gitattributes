@@ -1,5 +1,4 @@
 * text=auto !eol
-build/argouml09.jar -text
 src/uci/Images/ActionState.gif svneol=native#unset
 src/uci/Images/Activation.gif -text
 src/uci/Images/Active.gif svneol=native#unset
