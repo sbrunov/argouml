@@ -7,6 +7,7 @@ build/classes
 build/documentation
 build/ext
 build/src_new
+modules/jscheme/build
 modules/junit/build
 modules/menutest/build
 /work

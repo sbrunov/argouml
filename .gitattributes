@@ -187,6 +187,7 @@ lib/parser.jar -text
 lib/w3c.jar -text
 lib/xalan.jar -text
 lib/xerces.jar -text
+modules/jscheme/lib/jscheme.jar -text
 modules/junit/lib/junit.jar -text
 modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
 src/uci/Images/ActionState.gif svneol=native#unset
