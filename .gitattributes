@@ -379,6 +379,7 @@ lib/nsuml.jar -text
 lib/ocl-argo.jar -text
 lib/optional.jar -text
 lib/parser.jar -text
+lib/saxon.jar -text
 lib/w3c.jar -text
 lib/xalan.jar -text
 lib/xerces.jar -text
