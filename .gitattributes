@@ -453,6 +453,7 @@ modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/junit/testmodels/Alittlebitofeverything.zargo -text
 modules/junit/testmodels/Empty.zargo -text
 modules/junit/testmodels/Garbage.zargo -text
+modules/php/src/org/argouml/Images/PHPNotation.gif -text
 src_new/bin/ArgoUML.ico -text
 src_new/bin/appbund/GenericJavaApp.icns -text
 src_new/bin/appbund/JavaApplicationStub -text
