@@ -1223,15 +1223,16 @@ www/documentation/snapshot/cookbook/images/callouts/8.png -text
 www/documentation/snapshot/cookbook/images/callouts/9.png -text
 www/documentation/snapshot/cookbook/images/cookbook/ComponentDiagram.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/IssueBigPicture.gif -text
+www/documentation/snapshot/cookbook/images/cookbook/Languages.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/Layer0.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/Layer1.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/Layer2.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/Layer3.gif -text
-www/documentation/snapshot/cookbook/images/cookbook/big.gif -text
+www/documentation/snapshot/cookbook/images/cookbook/classes-navigatortree.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/critics.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/eventsafterpump.gif -text
 www/documentation/snapshot/cookbook/images/cookbook/eventsbeforepump.gif -text
-www/documentation/snapshot/cookbook/images/cookbook/small.gif -text
+www/documentation/snapshot/cookbook/images/cookbook/multieditorpane.gif -text
 www/documentation/snapshot/cookbook/images/examples/example1.gif -text
 www/documentation/snapshot/cookbook/images/examples/example2.gif -text
 www/documentation/snapshot/cookbook/images/examples/example3.gif -text
@@ -1239,7 +1240,6 @@ www/documentation/snapshot/cookbook/images/important.png -text
 www/documentation/snapshot/cookbook/images/note.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argoapi.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argocogchklist.png -text
-www/documentation/snapshot/cookbook/images/screenshots/argocogcritics.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argocogcriticsreduced.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argoconfig.png -text
 www/documentation/snapshot/cookbook/images/screenshots/argokernel.png -text
