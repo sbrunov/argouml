@@ -92,6 +92,7 @@ src/uci/Images/Self_del.gif svneol=native#unset
 src/uci/Images/SendEmailToExpert.gif svneol=native#unset
 src/uci/Images/SignalReceiving2.gif svneol=native#unset
 src/uci/Images/SignalSending2.gif svneol=native#unset
+src/uci/Images/SnoozeCritic.gif svneol=native#unset
 src/uci/Images/Splash2.gif svneol=native#unset
 src/uci/Images/StartState.gif svneol=native#unset
 src/uci/Images/State.gif svneol=native#unset
