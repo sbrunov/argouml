@@ -4,6 +4,7 @@ build/Fop.java
 build/README.txt
 build/bin
 build/classes
+build/documentation
 build/ext
 build/src_new
 modules/junit/build
