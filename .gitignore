@@ -18,7 +18,6 @@ modules/junit/testmodels/01-12-02.xml
 modules/junit/testmodels/Model.dtd
 modules/menutest/build
 modules/php/build
-notes/*
 src_new/build.properties
 src_new/org/argouml/application/*.class
 src_new/org/argouml/application/ArgoVersion.java
