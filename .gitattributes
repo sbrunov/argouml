@@ -1,5 +1,6 @@
 * text=auto !eol
 components/components.zargo -text
+components/nsuml/src/ru/novosoft/uml/xmi/uml13.dtd -text svneol=unset#application/octet-stream
 documentation/cookbook/components.zargo -text
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/issueprocess.zargo -text
@@ -392,11 +393,13 @@ documentation/manual/models/requirements_tutorial.zargo -text
 lib/antlrall-2.7.2.jar -text
 lib/gef-0.9.6.jar -text
 lib/i18n-0.1.jar -text
+lib/jdom.jar -text
 lib/jh.jar -text
 lib/jmi-1.0.jar -text
 lib/log4j-1.2.6.jar -text
 lib/nsuml-0.4.19.jar -text
 lib/ocl-argo.jar -text
+lib/xerces.jar -text
 modules/cpp/testprojects/GeneratorTester28.zargo -text
 modules/cpp/testprojects/GeneratorTester30.zargo -text
 modules/csharp/src/org/manifest.mf -text svneol=unset#application/octet-stream
