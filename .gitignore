@@ -209,3 +209,11 @@ src_new/*.log
 src_new/junit*.properties
 src_new/test.zargo
 !/\#
+src_new/org/argouml/language/java/generator/JavaLexer.java
+src_new/org/argouml/language/java/generator/JavaRecognizer.java
+src_new/org/argouml/language/java/generator/JavaTokenTypes.java
+src_new/org/argouml/language/java/generator/JavaTokenTypes.txt
+src_new/org/argouml/uml/reveng/java/JavaLexer.java
+src_new/org/argouml/uml/reveng/java/JavaRecognizer.java
+src_new/org/argouml/uml/reveng/java/JavaTokenTypes.java
+src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt
