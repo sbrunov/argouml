@@ -926,6 +926,8 @@ www/documentation/defaulthtml/manual/images/icons/distribute_vertical_centers.gi
 www/documentation/defaulthtml/manual/images/icons/distribute_vertical_spacing.gif -text
 www/documentation/defaulthtml/manual/images/icons/edit_constraint.gif -text
 www/documentation/defaulthtml/manual/images/icons/enumeration_literal.gif -text
+www/documentation/defaulthtml/manual/images/icons/extend.gif -text
+www/documentation/defaulthtml/manual/images/icons/extension_point.gif -text
 www/documentation/defaulthtml/manual/images/icons/final_state.gif -text
 www/documentation/defaulthtml/manual/images/icons/find.gif -text
 www/documentation/defaulthtml/manual/images/icons/flat.gif -text
@@ -938,6 +940,7 @@ www/documentation/defaulthtml/manual/images/icons/hierarchy_closed.gif -text
 www/documentation/defaulthtml/manual/images/icons/hierarchy_open.gif -text
 www/documentation/defaulthtml/manual/images/icons/home.gif -text
 www/documentation/defaulthtml/manual/images/icons/import_sources.gif -text
+www/documentation/defaulthtml/manual/images/icons/include.gif -text
 www/documentation/defaulthtml/manual/images/icons/initial_state.gif -text
 www/documentation/defaulthtml/manual/images/icons/ink.gif -text
 www/documentation/defaulthtml/manual/images/icons/inner_class.gif -text
@@ -1023,7 +1026,7 @@ www/documentation/defaulthtml/manual/images/reference/details_to_do.png -text
 www/documentation/defaulthtml/manual/images/reference/discriminator_example.gif -text
 www/documentation/defaulthtml/manual/images/reference/editing_pane.png -text
 www/documentation/defaulthtml/manual/images/reference/entclasshier.gif -text
-www/documentation/defaulthtml/manual/images/reference/guioverview.gif -text
+www/documentation/defaulthtml/manual/images/reference/gui_overview.png -text
 www/documentation/defaulthtml/manual/images/reference/menu_browse_critics.png -text
 www/documentation/defaulthtml/manual/images/reference/menu_design_goals.png -text
 www/documentation/defaulthtml/manual/images/reference/menu_design_issues.png -text
