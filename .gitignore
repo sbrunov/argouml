@@ -114,6 +114,8 @@ src_new/org/argouml/persistence/*.class
 src_new/org/argouml/resource/*.class
 src_new/org/argouml/swingext/*.class
 src_new/org/argouml/ui/*.class
+src_new/org/argouml/ui/cmd/*.class
+src_new/org/argouml/ui/menubar/*.class
 src_new/org/argouml/uml/*.class
 src_new/org/argouml/uml/cognitive/*.class
 src_new/org/argouml/uml/cognitive/checklist/*.class
@@ -160,6 +162,8 @@ src_new/org/argouml/xml/argo/*.class
 src_new/org/argouml/xml/dtd/*.class
 src_new/org/argouml/xml/pgml/*.class
 src_new/org/argouml/xml/xmi/*.class
+src_new/tests/testmodels/01-12-02.xml
+src_new/tests/testmodels/Model.dtd
 tests/testmodels/01-12-02.xml
 tests/testmodels/Model.dtd
 tools/lib/jimi-1.0.jar
