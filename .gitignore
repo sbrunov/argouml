@@ -15,5 +15,7 @@ modules/jscheme/build
 modules/junit/build
 modules/menutest/build
 modules/php/build
+src_new/local-*.bat
+src_new/local-*.sh
 /work
 www/snapshots
