@@ -15,6 +15,9 @@ modules/jscheme/build
 modules/junit/build
 modules/menutest/build
 modules/php/build
+src_new/ant-test-*.bat
+src_new/ant-test-*.sh
+src_new/build.properties
 tools/lib/jimi-1.0.jar
 /work
 www/snapshots
