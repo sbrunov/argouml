@@ -419,7 +419,7 @@ documentation/manual/models/discriminator_example.zargo -text
 documentation/manual/models/requirements_tutorial.zargo -text
 lib/antlrall-2.7.2.jar -text
 lib/gef-0.9.6.jar -text
-lib/i18n-0.1.1.jar -text
+lib/i18n-0.1.2.jar -text
 lib/jmi-1.0.jar -text
 lib/log4j-1.2.6.jar -text
 lib/nsuml-0.4.19.jar -text
