@@ -559,7 +559,9 @@ src_new/org/argouml/Images/NavigateBack.gif -text
 src_new/org/argouml/Images/NavigateForward.gif -text
 src_new/org/argouml/Images/NavigateUp.gif -text
 src_new/org/argouml/Images/NewExtensionPoint.gif -text
+src_new/org/argouml/Images/NewParameter.gif -text
 src_new/org/argouml/Images/NewPerspective.gif -text
+src_new/org/argouml/Images/NewReception.gif -text
 src_new/org/argouml/Images/NewToDoItem.gif -text
 src_new/org/argouml/Images/Node.gif -text
 src_new/org/argouml/Images/NodeInstance.gif -text
