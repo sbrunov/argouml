@@ -395,6 +395,8 @@ lib/jh.jar -text
 lib/log4j-1.2.6.jar -text
 lib/nsuml-0.4.19.jar -text
 lib/ocl-argo.jar -text
+lib/toolbar.jar -text
+lib/toolbutton.jar -text
 modules/cpp/testprojects/GeneratorTester28.zargo -text
 modules/cpp/testprojects/GeneratorTester30.zargo -text
 modules/csharp/src/org/manifest.mf -text svneol=unset#application/octet-stream
