@@ -182,8 +182,11 @@ src_new/test.zargo
 !/\#
 /DIST
 /bin
+build/*.jar
 build/*.log
+build/README.txt
 build/api
+build/argouml.sh
 build/build.properties
 build/classes
 build/documentation
