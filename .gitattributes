@@ -149,9 +149,13 @@ src_new/org/argouml/Images/UseCase.gif -text
 src_new/org/argouml/Images/UseCaseDiagram.gif -text
 src_new/org/argouml/Images/Uses.gif -text
 src_new/org/argouml/Images/Wiz.gif -text
+src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/Copy.gif -text
+src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/Cut.gif -text
+src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/Delete.gif -text
 src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/Find.gif -text
 src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/New.gif -text
 src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/OpenProject.gif -text
+src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/Paste.gif -text
 src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/Print.gif -text
 src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/Redo.gif -text
 src_new/org/argouml/Images/metalLookAndFeel/toolbarButtonGraphics/general/SaveProject.gif -text
