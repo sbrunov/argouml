@@ -284,3 +284,14 @@ components/api/src/org/this
 components/api/src/org/to
 components/api/src/org/until
 components/api/src/org/will
+components/nsuml-model/src/org/argouml/model/uml/behavioralelements/*.class
+components/nsuml-model/src/org/argouml/model/uml/behavioralelements/activitygraphs/*.class
+components/nsuml-model/src/org/argouml/model/uml/behavioralelements/collaborations/*.class
+components/nsuml-model/src/org/argouml/model/uml/behavioralelements/commonbehavior/*.class
+components/nsuml-model/src/org/argouml/model/uml/behavioralelements/statemachines/*.class
+components/nsuml-model/src/org/argouml/model/uml/behavioralelements/usecases/*.class
+components/nsuml-model/src/org/argouml/model/uml/foundation/*.class
+components/nsuml-model/src/org/argouml/model/uml/foundation/core/*.class
+components/nsuml-model/src/org/argouml/model/uml/foundation/datatypes/*.class
+components/nsuml-model/src/org/argouml/model/uml/foundation/extensionmechanisms/*.class
+components/nsuml-model/src/org/argouml/model/uml/modelmanagement/*.class
