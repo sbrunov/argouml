@@ -941,7 +941,11 @@ www/documentation/snapshot/manual/images/icons/use_case.gif -text
 www/documentation/snapshot/manual/images/icons/use_case_diagram.gif -text
 www/documentation/snapshot/manual/images/important.png -text
 www/documentation/snapshot/manual/images/note.png -text
+www/documentation/snapshot/manual/images/reference/activity_diagram.gif -text
 www/documentation/snapshot/manual/images/reference/class_diagram.gif -text
+www/documentation/snapshot/manual/images/reference/collaboration_diagram.gif -text
+www/documentation/snapshot/manual/images/reference/component_diagram.gif -text
+www/documentation/snapshot/manual/images/reference/deployment_diagram.gif -text
 www/documentation/snapshot/manual/images/reference/details_constraint_editor.png -text
 www/documentation/snapshot/manual/images/reference/details_constraints.png -text
 www/documentation/snapshot/manual/images/reference/details_constraints_dialog.png -text
@@ -970,12 +974,13 @@ www/documentation/snapshot/manual/images/reference/navigator_pane.png -text
 www/documentation/snapshot/manual/images/reference/navigator_pane_panes.png -text
 www/documentation/snapshot/manual/images/reference/navigator_pane_perspectives.png -text
 www/documentation/snapshot/manual/images/reference/package_diagram.gif -text
+www/documentation/snapshot/manual/images/reference/sequence_diagram.gif -text
 www/documentation/snapshot/manual/images/reference/solid_line.png -text
+www/documentation/snapshot/manual/images/reference/state_diagram.gif -text
 www/documentation/snapshot/manual/images/reference/todo_pane.png -text
 www/documentation/snapshot/manual/images/reference/use_case_diagram.gif -text
 www/documentation/snapshot/manual/images/reference/wavy_line.png -text
 www/documentation/snapshot/manual/images/tip.png -text
-www/documentation/snapshot/manual/images/tobeprovided.png -text
 www/documentation/snapshot/manual/images/tutorial/critrevname.gif -text
 www/documentation/snapshot/manual/images/tutorial/critstart.gif -text
 www/documentation/snapshot/manual/images/tutorial/critwiz.gif -text
