@@ -12,6 +12,7 @@ build/ext
 build/javadocs
 build/src_new
 modules/dummylanguage/build
+modules/java_rte/build
 modules/jscheme/build
 modules/junit/build
 modules/junit/testmodels/01-12-02.xml
