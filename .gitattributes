@@ -476,6 +476,7 @@ src_new/org/argouml/Images/Component.gif -text
 src_new/org/argouml/Images/ComponentInstance.gif -text
 src_new/org/argouml/Images/CompositeAggregation.gif -text
 src_new/org/argouml/Images/CompositeState.gif -text
+src_new/org/argouml/Images/ConfigurePerspectives.gif -text
 src_new/org/argouml/Images/CreateAction.gif -text
 src_new/org/argouml/Images/DataType.gif -text
 src_new/org/argouml/Images/Decision.gif -text
@@ -524,7 +525,6 @@ src_new/org/argouml/Images/Link.gif -text
 src_new/org/argouml/Images/Message.gif -text
 src_new/org/argouml/Images/Model.gif -text
 src_new/org/argouml/Images/Multtrigger.gif -text
-src_new/org/argouml/Images/NavConfig.gif -text
 src_new/org/argouml/Images/NavigateBack.gif -text
 src_new/org/argouml/Images/NavigateForward.gif -text
 src_new/org/argouml/Images/NavigateUp.gif -text
