@@ -1550,6 +1550,7 @@ www/tours/designgoals.gif -text
 www/tours/designissues.gif -text
 www/tours/details.gif -text
 www/tours/directedit.gif -text
+www/tours/dismiss.png -text
 www/tours/editpane.gif -text
 www/tours/exit.gif -text
 www/tours/firstcritic.gif -text
@@ -1569,6 +1570,7 @@ www/tours/source.gif -text
 www/tours/splashscreen.gif -text
 www/tours/tabchecklist.gif -text
 www/tours/tabconstraints.gif -text
+www/tours/tabconstraintseditor.png -text
 www/tours/tabdocs.gif -text
 www/tours/tabhistory.gif -text
 www/tours/tabprops.gif -text
@@ -1578,6 +1580,7 @@ www/tours/tabtaggedvalues.gif -text
 www/tours/tabtodoitem.gif -text
 www/tours/threeclasses.gif -text
 www/tours/todopane.gif -text
+www/tours/toolbar.png -text
 www/v05/bugs.txt -text svneol=unset#application/octet-stream
 www/v05/docs/argo_depend.gif -text
 www/v07/changes.txt -text svneol=unset#application/octet-stream
