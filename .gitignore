@@ -10,13 +10,5 @@ build/documentation
 build/ext
 build/javadocs
 build/src_new
-modules/dummylanguage/build
-modules/jscheme/build
 modules/junit/build
-modules/menutest/build
-modules/php/build
 /work
-www/proposals/sources/components.gif
-www/proposals/sources/phase2.html
-www/proposals/sources/structure.zargo
-www/snapshots
