@@ -15,5 +15,6 @@ modules/jscheme/build
 modules/junit/build
 modules/menutest/build
 modules/php/build
+tools/lib/jimi-1.0.jar
 /work
 www/snapshots
