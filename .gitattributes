@@ -80,6 +80,7 @@ lib/fop.jar -text
 lib/gef.jar -text
 lib/jaxp.jar -text
 lib/js.jar -text
+lib/junit.jar -text
 lib/log4j.jar -text
 lib/nsuml.jar -text
 lib/ocl-argo.jar -text
