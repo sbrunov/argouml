@@ -441,7 +441,7 @@ documentation/manual/models/critic_model.zargo -text
 documentation/manual/models/diagrams.zargo -text
 documentation/manual/models/discriminator_example.zargo -text
 documentation/manual/models/requirements_tutorial.zargo -text
-lib/antlrall.jar -text
+lib/antlrall-2.7.2.jar -text
 lib/gef-0.9.6.jar -text
 lib/jh.jar -text
 lib/log4j-1.2.6.jar -text
