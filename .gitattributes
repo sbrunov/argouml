@@ -412,6 +412,7 @@ src_new/bin/appbund/JavaApplicationStub -text
 src_new/org/argouml/Images/ActionState.gif -text
 src_new/org/argouml/Images/Activity.gif -text
 src_new/org/argouml/Images/ActivityDiagram.gif -text
+src_new/org/argouml/Images/ActivityGraph.gif -text
 src_new/org/argouml/Images/Actor.gif -text
 src_new/org/argouml/Images/AddAttribute.gif -text
 src_new/org/argouml/Images/AddExtensionPoint.gif -text
