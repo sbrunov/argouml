@@ -556,6 +556,8 @@ src_new/org/argouml/Images/StimulusCreate.gif -text
 src_new/org/argouml/Images/StimulusDestroy.gif -text
 src_new/org/argouml/Images/StimulusReturn.gif -text
 src_new/org/argouml/Images/StimulusSend.gif -text
+src_new/org/argouml/Images/StubState.gif -text
+src_new/org/argouml/Images/SubMachine.gif -text
 src_new/org/argouml/Images/Subsystem.gif -text
 src_new/org/argouml/Images/Synchronous.gif -text
 src_new/org/argouml/Images/Text.gif -text
