@@ -540,6 +540,7 @@ src_new/org/argouml/Images/AddInternalTransition.gif -text
 src_new/org/argouml/Images/AddMessage.gif -text
 src_new/org/argouml/Images/AddOperation.gif -text
 src_new/org/argouml/Images/Association.gif -text
+src_new/org/argouml/Images/AssociationClass.gif -text
 src_new/org/argouml/Images/AssociationEnd.gif -text
 src_new/org/argouml/Images/AssociationInverse.gif -text
 src_new/org/argouml/Images/AssociationRole.gif -text
