@@ -34,6 +34,7 @@ src/uci/Images/Collaboration.gif -text
 src/uci/Images/CollaborationDiagram.gif svneol=native#unset
 src/uci/Images/Communication.gif svneol=native#unset
 src/uci/Images/Component.gif svneol=native#unset
+src/uci/Images/ComponentInstance.gif -text
 src/uci/Images/CompositeAggregation.gif svneol=native#unset
 src/uci/Images/CompositeState.gif svneol=native#unset
 src/uci/Images/Copy.gif svneol=native#unset
@@ -86,6 +87,7 @@ src/uci/Images/New.gif svneol=native#unset
 src/uci/Images/NewPerspective.gif svneol=native#unset
 src/uci/Images/NewToDoItem.gif svneol=native#unset
 src/uci/Images/Node.gif svneol=native#unset
+src/uci/Images/NodeInstance.gif -text
 src/uci/Images/NodeOne.gif svneol=native#unset
 src/uci/Images/NodeTwo.gif svneol=native#unset
 src/uci/Images/Note.gif svneol=native#unset
@@ -94,6 +96,7 @@ src/uci/Images/NudgeLeft.gif svneol=native#unset
 src/uci/Images/NudgeRight.gif svneol=native#unset
 src/uci/Images/NudgeUp.gif svneol=native#unset
 src/uci/Images/ObjDelete.gif svneol=native#unset
+src/uci/Images/Object.gif -text
 src/uci/Images/Open.gif -text
 src/uci/Images/OpenProject.gif -text
 src/uci/Images/Operation.gif svneol=native#unset
