@@ -1,1 +1,16 @@
 * text=auto !eol
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/NavConfig.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/AddAttribute.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/AddOperation.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Association.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Class.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Dependency.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Generalization.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Interface.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Note.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Package.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Permission.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Realization.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Usage.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/DeleteFromModel.gif -text
+src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/RemoveFromDiagram.gif -text
