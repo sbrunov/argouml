@@ -18,6 +18,7 @@ src/uci/Images/AlignToGrid.gif svneol=native#unset
 src/uci/Images/AlignTops.gif svneol=native#unset
 src/uci/Images/AlignVerticalCenters.gif svneol=native#unset
 src/uci/Images/Association.gif svneol=native#unset
+src/uci/Images/AssociationEnd.gif -text
 src/uci/Images/AssociationInverse.gif svneol=native#unset
 src/uci/Images/AssociationRole.gif svneol=native#unset
 src/uci/Images/Asynchronous.gif svneol=native#unset
