@@ -1534,6 +1534,7 @@ www/tours/captures/compositeStateIcon.gif -text
 www/tours/captures/critics.gif -text
 www/tours/captures/finalStateIcon.gif -text
 www/tours/captures/generalizationIcon.gif -text
+www/tours/captures/gotootherend.png -text
 www/tours/captures/ititialStateIcon.gif -text
 www/tours/captures/realizationIcon.gif -text
 www/tours/captures/sdStep1.gif -text
@@ -1566,6 +1567,7 @@ www/tours/details.gif -text
 www/tours/directedit.gif -text
 www/tours/dismiss.png -text
 www/tours/editpane.gif -text
+www/tours/enroll.zargo -text
 www/tours/exit.gif -text
 www/tours/firstcritic.gif -text
 www/tours/fullshapes.gif -text
