@@ -13,18 +13,6 @@
 /and
 /are
 /argouml.log
-build/*.jar
-build/README.txt
-build/argouml.sh
-build/bin
-build/classes
-build/doc
-build/documentation
-build/ext
-build/javadocs
-build/javasrc
-build/src_new
-build/tests
 /by
 documentation/build.properties
 documentation/cookbook/*.hs
@@ -225,7 +213,6 @@ tools/lib/jimi-1.0.jar
 /\#
 /all
 /alternate
-build/argouml.log
 /modules
 modules/kaos/build
 src_new/*.log
