@@ -27,6 +27,7 @@ build/javasrc
 build/src_new
 build/tests
 /by
+components/uml13/build
 documentation/build.properties
 documentation/cookbook/*.hs
 documentation/cookbook/*.jhm
