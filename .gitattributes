@@ -122,6 +122,8 @@ documentation/images/icons/distribute_vertical_centers.gif -text
 documentation/images/icons/distribute_vertical_spacing.gif -text
 documentation/images/icons/edit_constraint.gif -text
 documentation/images/icons/enumeration_literal.gif -text
+documentation/images/icons/extend.gif -text
+documentation/images/icons/extension_point.gif -text
 documentation/images/icons/final_state.gif -text
 documentation/images/icons/find.gif -text
 documentation/images/icons/flat.gif -text
@@ -134,6 +136,7 @@ documentation/images/icons/hierarchy_closed.gif -text
 documentation/images/icons/hierarchy_open.gif -text
 documentation/images/icons/home.gif -text
 documentation/images/icons/import_sources.gif -text
+documentation/images/icons/include.gif -text
 documentation/images/icons/initial_state.gif -text
 documentation/images/icons/ink.gif -text
 documentation/images/icons/inner_class.gif -text
@@ -248,7 +251,6 @@ documentation/images/reference/details_to_do.png -text
 documentation/images/reference/discriminator_example.gif -text
 documentation/images/reference/editing_pane.png -text
 documentation/images/reference/entclasshier.gif -text
-documentation/images/reference/guioverview.gif -text
 documentation/images/reference/menu_browse_critics.png -text
 documentation/images/reference/menu_design_goals.png -text
 documentation/images/reference/menu_design_issues.png -text
