@@ -391,6 +391,11 @@ documentation/images/tobeprovided.png -text
 documentation/images/toc-blank.png -text
 documentation/images/toc-minus.png -text
 documentation/images/toc-plus.png -text
+documentation/images/tutorial/atm_use_case_diagram_basic.gif -text
+documentation/images/tutorial/atm_use_case_diagram_extend.gif -text
+documentation/images/tutorial/atm_use_case_diagram_include.gif -text
+documentation/images/tutorial/atm_use_case_diagram_multiplicity.gif -text
+documentation/images/tutorial/atm_use_case_diagram_navigation.gif -text
 documentation/images/tutorial/critrevname.gif -text
 documentation/images/tutorial/critstart.gif -text
 documentation/images/tutorial/critwiz.gif -text
@@ -424,6 +429,7 @@ documentation/manual/models/classpackages.zargo -text
 documentation/manual/models/critic_model.zargo -text
 documentation/manual/models/diagrams.zargo -text
 documentation/manual/models/discriminator_example.zargo -text
+documentation/manual/models/requirements_tutorial.zargo -text
 lib/Fop.class -text
 lib/NetComponents.jar -text
 lib/ant.jar -text
@@ -1049,6 +1055,11 @@ www/documentation/defaulthtml/manual/images/reference/todo_pane.png -text
 www/documentation/defaulthtml/manual/images/reference/use_case_diagram.gif -text
 www/documentation/defaulthtml/manual/images/reference/wavy_line.png -text
 www/documentation/defaulthtml/manual/images/tip.png -text
+www/documentation/defaulthtml/manual/images/tutorial/atm_use_case_diagram_basic.gif -text
+www/documentation/defaulthtml/manual/images/tutorial/atm_use_case_diagram_extend.gif -text
+www/documentation/defaulthtml/manual/images/tutorial/atm_use_case_diagram_include.gif -text
+www/documentation/defaulthtml/manual/images/tutorial/atm_use_case_diagram_multiplicity.gif -text
+www/documentation/defaulthtml/manual/images/tutorial/atm_use_case_diagram_navigation.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/critrevname.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/critstart.gif -text
 www/documentation/defaulthtml/manual/images/tutorial/critwiz.gif -text
