@@ -213,6 +213,7 @@ src_new/org/argouml/Images/Multtrigger.gif -text
 src_new/org/argouml/Images/NavConfig.gif -text
 src_new/org/argouml/Images/NavigateBack.gif -text
 src_new/org/argouml/Images/NavigateForward.gif -text
+src_new/org/argouml/Images/NavigateUp.gif -text
 src_new/org/argouml/Images/NewPerspective.gif -text
 src_new/org/argouml/Images/NewToDoItem.gif -text
 src_new/org/argouml/Images/Node.gif -text
@@ -242,6 +243,7 @@ src_new/org/argouml/Images/PostItMulti.gif -text
 src_new/org/argouml/Images/Project.gif -text
 src_new/org/argouml/Images/Realization.gif -text
 src_new/org/argouml/Images/Recursion.gif -text
+src_new/org/argouml/Images/RedDelete.gif -text
 src_new/org/argouml/Images/Refinement.gif -text
 src_new/org/argouml/Images/ResolveItem.gif -text
 src_new/org/argouml/Images/RetMessage.gif -text
@@ -261,6 +263,7 @@ src_new/org/argouml/Images/Start.gif -text
 src_new/org/argouml/Images/State.gif -text
 src_new/org/argouml/Images/StateDiagram.gif -text
 src_new/org/argouml/Images/StateMachine.gif -text
+src_new/org/argouml/Images/Stereotype.gif -text
 src_new/org/argouml/Images/Stimulus.gif -text
 src_new/org/argouml/Images/StimulusCall.gif -text
 src_new/org/argouml/Images/StimulusCreate.gif -text
