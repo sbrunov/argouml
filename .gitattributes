@@ -439,10 +439,6 @@ modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/junit/testmodels/Alittlebitofeverything.zargo -text
 modules/junit/testmodels/Empty.zargo -text
 modules/junit/testmodels/Garbage.zargo -text
-src/i18n/de/src/org/argouml/i18n/bugreport_de.about -text svneol=unset#application/octet-stream
-src/i18n/de/src/org/argouml/i18n/contacts_de.about -text svneol=unset#application/octet-stream
-src/i18n/de/src/org/argouml/i18n/credits_de.about -text svneol=unset#application/octet-stream
-src/i18n/de/src/org/argouml/i18n/legal_de.about -text svneol=unset#application/octet-stream
 src_new/bin/ArgoUML.ico -text
 src_new/bin/appbund/GenericJavaApp.icns -text
 src_new/bin/appbund/JavaApplicationStub -text
