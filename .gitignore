@@ -44,7 +44,6 @@ documentation/manual/images
 documentation/manual/imglist.txt
 documentation/quick-guide/*.hs
 documentation/quick-guide/*.jhm
-documentation/quick-guide/*.xml
 documentation/quick-guide/quickguide.xml
 /ignore
 lib/*-src-*.jar
