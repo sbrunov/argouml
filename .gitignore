@@ -1,8 +1,11 @@
 /build
+build/*.LICENSE.txt
 build/*.jar
 build/Fop.class
 build/Fop.java
 build/README.txt
+build/ant-test-*.bat
+build/ant-test-*.sh
 build/bin
 build/classes
 build/doc
@@ -10,6 +13,12 @@ build/documentation
 build/ext
 build/javadocs
 build/src_new
+documentation/cookbook/*.hs
+documentation/cookbook/*.jhm
+documentation/cookbook/*.xml
+documentation/faq/*.hs
+documentation/faq/*.jhm
+documentation/faq/*.xml
 modules/dummylanguage/build
 modules/jscheme/build
 modules/junit/build
