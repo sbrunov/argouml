@@ -1,18 +1,5 @@
 /build
-build/*.jar
-build/Fop.class
-build/Fop.java
-build/README.txt
-build/argouml.sh
-build/bin
-build/classes
-build/doc
-build/documentation
-build/ext
-build/javadocs
-build/src_new
 modules/dummylanguage/build
-modules/java_rte/build
 modules/jscheme/build
 modules/junit/build
 modules/junit/testmodels/01-12-02.xml
@@ -21,7 +8,6 @@ modules/menutest/build
 modules/php/build
 notes/*
 src_new/build.properties
-src_new/org/argouml/Images/*.class
 src_new/org/argouml/application/*.class
 src_new/org/argouml/application/ArgoVersion.java
 src_new/org/argouml/application/api/*.class
@@ -40,7 +26,6 @@ src_new/org/argouml/cognitive/critics/ui/*.class
 src_new/org/argouml/cognitive/ui/*.class
 src_new/org/argouml/doc-files/*.class
 src_new/org/argouml/i18n/*.class
-src_new/org/argouml/kernel/*.class
 src_new/org/argouml/language/*.class
 src_new/org/argouml/language/helpers/*.class
 src_new/org/argouml/language/java/*.class
