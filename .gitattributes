@@ -561,6 +561,7 @@ src_new/org/argouml/Images/StubState.gif -text
 src_new/org/argouml/Images/SubMachine.gif -text
 src_new/org/argouml/Images/Subsystem.gif -text
 src_new/org/argouml/Images/Synchronous.gif -text
+src_new/org/argouml/Images/TerminateAction.gif -text
 src_new/org/argouml/Images/Text.gif -text
 src_new/org/argouml/Images/ToBack.gif -text
 src_new/org/argouml/Images/ToFront.gif -text
@@ -569,6 +570,7 @@ src_new/org/argouml/Images/Transition.gif -text
 src_new/org/argouml/Images/TransitionDown.gif -text
 src_new/org/argouml/Images/Trigger.gif -text
 src_new/org/argouml/Images/UmlNotation.gif -text
+src_new/org/argouml/Images/UninterpretedAction.gif -text
 src_new/org/argouml/Images/Usage.gif -text
 src_new/org/argouml/Images/UseCase.gif -text
 src_new/org/argouml/Images/UseCaseDiagram.gif -text
