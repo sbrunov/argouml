@@ -966,7 +966,6 @@ www/documentation/defaulthtml/manual/images/warning.png -text
 www/documentation/defaulthtml/quick-guide/images/tip.png -text
 www/documentation/issuezilla/ArgoUMLIssuesWeekly_files/image001.gif -text
 www/documentation/issuezilla/ArgoUMLIssuesWeekly_files/image002.gif -text
-www/documentation/issuezilla/ArgoUMLIssuesWeekly_files/image003.gif -text
 www/documentation/pdf/manual/argomanual.pdf -text svneol=unset#application/octet-stream
 www/documentation/snapshot/cookbook/images/callouts/1.png -text
 www/documentation/snapshot/cookbook/images/callouts/10.png -text
@@ -1206,8 +1205,6 @@ www/documentation/snapshot/quick-guide/images/callouts/8.png -text
 www/documentation/snapshot/quick-guide/images/callouts/9.png -text
 www/documentation/snapshot/quick-guide/images/caution.png -text
 www/documentation/snapshot/quick-guide/images/note.png -text
-www/faqs/images/proxy.gif -text
-www/favicon.ico -text
 www/images/5perc_s.gif -text
 www/images/DetailsPaneScreen.gif -text
 www/images/DiagramEditorScreen.gif -text
