@@ -69,10 +69,12 @@ documentation/images/note.tif -text
 documentation/images/prev.png -text
 documentation/images/reference/detailsoverview.gif -text
 documentation/images/reference/editoverview.gif -text
+documentation/images/reference/entclasshier.gif -text
 documentation/images/reference/entclasshier.png -text
 documentation/images/reference/guioverview.gif -text
 documentation/images/reference/navoverview.gif -text
 documentation/images/reference/todooverview.gif -text
+documentation/images/reference/use_case_diagram.gif -text
 documentation/images/screenshots/DetailsPaneScreen.gif -text
 documentation/images/screenshots/DiagramEditorScreen.gif -text
 documentation/images/screenshots/FileChooseDialog.gif -text
