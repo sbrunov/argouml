@@ -4,7 +4,6 @@ src/uci/Images/Activation2.gif svneol=native#unset
 src/uci/Images/Active.gif svneol=native#unset
 src/uci/Images/Activity2.gif svneol=native#unset
 src/uci/Images/ActivityDiagram2.gif svneol=native#unset
-src/uci/Images/Actor2.gif svneol=native#unset
 src/uci/Images/AddAttribute.gif svneol=native#unset
 src/uci/Images/AddInternalTransition.gif svneol=native#unset
 src/uci/Images/AddMessage.gif svneol=native#unset
@@ -81,7 +80,6 @@ src/uci/Images/Model.gif -text
 src/uci/Images/Multtrigger.gif svneol=native#unset
 src/uci/Images/NavConfig.gif svneol=native#unset
 src/uci/Images/NavigateBack.gif -text
-src/uci/Images/NavigateForward2.gif svneol=native#unset
 src/uci/Images/New.gif svneol=native#unset
 src/uci/Images/NewPerspective.gif svneol=native#unset
 src/uci/Images/NewToDoItem.gif svneol=native#unset
@@ -94,8 +92,6 @@ src/uci/Images/NudgeLeft.gif svneol=native#unset
 src/uci/Images/NudgeRight.gif svneol=native#unset
 src/uci/Images/NudgeUp.gif svneol=native#unset
 src/uci/Images/ObjDelete.gif svneol=native#unset
-src/uci/Images/Open2.gif svneol=native#unset
-src/uci/Images/OpenProject2.gif svneol=native#unset
 src/uci/Images/Operation.gif svneol=native#unset
 src/uci/Images/Package.gif -text
 src/uci/Images/ParallelTransition.gif svneol=native#unset
@@ -111,14 +107,11 @@ src/uci/Images/PostIt75.gif svneol=native#unset
 src/uci/Images/PostIt99.gif svneol=native#unset
 src/uci/Images/PostItMulti.gif -text
 src/uci/Images/Print.gif -text
-src/uci/Images/Project2.gif svneol=native#unset
-src/uci/Images/QualifiedAssociation2.gif svneol=native#unset
 src/uci/Images/RRect.gif svneol=native#unset
 src/uci/Images/Realization.gif svneol=native#unset
 src/uci/Images/Rectangle.gif svneol=native#unset
 src/uci/Images/Recursion.gif svneol=native#unset
 src/uci/Images/Redo.gif svneol=native#unset
-src/uci/Images/Refinement2.gif svneol=native#unset
 src/uci/Images/ResolveItem.gif svneol=native#unset
 src/uci/Images/RetMessage.gif svneol=native#unset
 src/uci/Images/Save.gif svneol=native#unset
@@ -127,14 +120,10 @@ src/uci/Images/Select.gif svneol=native#unset
 src/uci/Images/Self_del.gif svneol=native#unset
 src/uci/Images/SendEmailToExpert.gif svneol=native#unset
 src/uci/Images/ShallowHistory.gif svneol=native#unset
-src/uci/Images/SignalReceiving2.gif svneol=native#unset
-src/uci/Images/SignalSending2.gif svneol=native#unset
 src/uci/Images/SnoozeCritic.gif svneol=native#unset
 src/uci/Images/Splash.gif -text
 src/uci/Images/Spline.gif svneol=native#unset
-src/uci/Images/Start2.gif svneol=native#unset
 src/uci/Images/State.gif svneol=native#unset
-src/uci/Images/StateDiagram2.gif svneol=native#unset
 src/uci/Images/StateMachine.gif svneol=native#unset
 src/uci/Images/Synchronous.gif svneol=native#unset
 src/uci/Images/Text.gif -text
