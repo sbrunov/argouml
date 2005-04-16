@@ -881,6 +881,7 @@ www/documentation/defaulthtml/manual/images/icons/attribute.gif -text
 www/documentation/defaulthtml/manual/images/icons/backward.gif -text
 www/documentation/defaulthtml/manual/images/icons/branch.gif -text
 www/documentation/defaulthtml/manual/images/icons/broom.gif -text
+www/documentation/defaulthtml/manual/images/icons/call_action.gif -text
 www/documentation/defaulthtml/manual/images/icons/cancel_edit_constraint.gif -text
 www/documentation/defaulthtml/manual/images/icons/check_constraint.gif -text
 www/documentation/defaulthtml/manual/images/icons/circle.gif -text
@@ -888,9 +889,11 @@ www/documentation/defaulthtml/manual/images/icons/class.gif -text
 www/documentation/defaulthtml/manual/images/icons/class_diagram.gif -text
 www/documentation/defaulthtml/manual/images/icons/classifier_role.gif -text
 www/documentation/defaulthtml/manual/images/icons/collaboration_diagram.gif -text
+www/documentation/defaulthtml/manual/images/icons/commentlink.gif -text
 www/documentation/defaulthtml/manual/images/icons/component.gif -text
 www/documentation/defaulthtml/manual/images/icons/component_instance.gif -text
 www/documentation/defaulthtml/manual/images/icons/composite_state.gif -text
+www/documentation/defaulthtml/manual/images/icons/concurrent_region.gif -text
 www/documentation/defaulthtml/manual/images/icons/configure_constraints.gif -text
 www/documentation/defaulthtml/manual/images/icons/constraints_left.gif -text
 www/documentation/defaulthtml/manual/images/icons/constraints_right.gif -text
@@ -902,7 +905,6 @@ www/documentation/defaulthtml/manual/images/icons/delete_constraint.gif -text
 www/documentation/defaulthtml/manual/images/icons/delete_from_model.gif -text
 www/documentation/defaulthtml/manual/images/icons/dependency.gif -text
 www/documentation/defaulthtml/manual/images/icons/deployment_diagram.gif -text
-www/documentation/defaulthtml/manual/images/icons/details_files.gif -text
 www/documentation/defaulthtml/manual/images/icons/distribute_horizontal_centers.gif -text
 www/documentation/defaulthtml/manual/images/icons/distribute_horizontal_spacing.gif -text
 www/documentation/defaulthtml/manual/images/icons/distribute_vertical_centers.gif -text
@@ -913,15 +915,11 @@ www/documentation/defaulthtml/manual/images/icons/extend.gif -text
 www/documentation/defaulthtml/manual/images/icons/extension_point.gif -text
 www/documentation/defaulthtml/manual/images/icons/final_state.gif -text
 www/documentation/defaulthtml/manual/images/icons/find.gif -text
-www/documentation/defaulthtml/manual/images/icons/flat.gif -text
-www/documentation/defaulthtml/manual/images/icons/folder.gif -text
 www/documentation/defaulthtml/manual/images/icons/fork.gif -text
 www/documentation/defaulthtml/manual/images/icons/forward.gif -text
 www/documentation/defaulthtml/manual/images/icons/generalization.gif -text
-www/documentation/defaulthtml/manual/images/icons/hierarchical.gif -text
 www/documentation/defaulthtml/manual/images/icons/hierarchy_closed.gif -text
 www/documentation/defaulthtml/manual/images/icons/hierarchy_open.gif -text
-www/documentation/defaulthtml/manual/images/icons/home.gif -text
 www/documentation/defaulthtml/manual/images/icons/import_sources.gif -text
 www/documentation/defaulthtml/manual/images/icons/include.gif -text
 www/documentation/defaulthtml/manual/images/icons/initial_state.gif -text
@@ -933,7 +931,6 @@ www/documentation/defaulthtml/manual/images/icons/join.gif -text
 www/documentation/defaulthtml/manual/images/icons/junction.gif -text
 www/documentation/defaulthtml/manual/images/icons/line.gif -text
 www/documentation/defaulthtml/manual/images/icons/link.gif -text
-www/documentation/defaulthtml/manual/images/icons/list_files.gif -text
 www/documentation/defaulthtml/manual/images/icons/message.gif -text
 www/documentation/defaulthtml/manual/images/icons/nav_config.gif -text
 www/documentation/defaulthtml/manual/images/icons/navigate_back.gif -text
@@ -952,6 +949,7 @@ www/documentation/defaulthtml/manual/images/icons/nudge_left.gif -text
 www/documentation/defaulthtml/manual/images/icons/nudge_right.gif -text
 www/documentation/defaulthtml/manual/images/icons/nudge_up.gif -text
 www/documentation/defaulthtml/manual/images/icons/object.gif -text
+www/documentation/defaulthtml/manual/images/icons/objectflowstate.gif -text
 www/documentation/defaulthtml/manual/images/icons/open_project.gif -text
 www/documentation/defaulthtml/manual/images/icons/operation.gif -text
 www/documentation/defaulthtml/manual/images/icons/package.gif -text
@@ -986,12 +984,14 @@ www/documentation/defaulthtml/manual/images/icons/stimulus_create.gif -text
 www/documentation/defaulthtml/manual/images/icons/stimulus_destroy.gif -text
 www/documentation/defaulthtml/manual/images/icons/stimulus_return.gif -text
 www/documentation/defaulthtml/manual/images/icons/stimulus_send.gif -text
+www/documentation/defaulthtml/manual/images/icons/stubstate.gif -text
+www/documentation/defaulthtml/manual/images/icons/submachinestate.gif -text
+www/documentation/defaulthtml/manual/images/icons/synchstate.gif -text
 www/documentation/defaulthtml/manual/images/icons/text.gif -text
 www/documentation/defaulthtml/manual/images/icons/to_back.gif -text
 www/documentation/defaulthtml/manual/images/icons/to_front.gif -text
 www/documentation/defaulthtml/manual/images/icons/transition.gif -text
 www/documentation/defaulthtml/manual/images/icons/uml_notation.gif -text
-www/documentation/defaulthtml/manual/images/icons/up_directory.gif -text
 www/documentation/defaulthtml/manual/images/icons/usage.gif -text
 www/documentation/defaulthtml/manual/images/icons/use_case.gif -text
 www/documentation/defaulthtml/manual/images/icons/use_case_diagram.gif -text
@@ -999,6 +999,7 @@ www/documentation/defaulthtml/manual/images/icons/zoom.gif -text
 www/documentation/defaulthtml/manual/images/important.png -text
 www/documentation/defaulthtml/manual/images/note.png -text
 www/documentation/defaulthtml/manual/images/reference/activity_diagram.gif -text
+www/documentation/defaulthtml/manual/images/reference/build_house.png -text
 www/documentation/defaulthtml/manual/images/reference/class_diagram.gif -text
 www/documentation/defaulthtml/manual/images/reference/collaboration_diagram.gif -text
 www/documentation/defaulthtml/manual/images/reference/component_diagram.gif -text
@@ -1037,7 +1038,6 @@ www/documentation/defaulthtml/manual/images/reference/editing_pane.png -text
 www/documentation/defaulthtml/manual/images/reference/entclasshier.gif -text
 www/documentation/defaulthtml/manual/images/reference/gui_overview.png -text
 www/documentation/defaulthtml/manual/images/reference/menu_browse_critics.png -text
-www/documentation/defaulthtml/manual/images/reference/menu_buttons_on_selection.png -text
 www/documentation/defaulthtml/manual/images/reference/menu_design_goals.png -text
 www/documentation/defaulthtml/manual/images/reference/menu_design_issues.png -text
 www/documentation/defaulthtml/manual/images/reference/menu_diagram_exceeds_page.png -text
@@ -1059,7 +1059,6 @@ www/documentation/defaulthtml/manual/images/reference/menu_settings_notations.pn
 www/documentation/defaulthtml/manual/images/reference/menu_settings_user.png -text
 www/documentation/defaulthtml/manual/images/reference/message_add_predecessors.png -text
 www/documentation/defaulthtml/manual/images/reference/navigator_pane.png -text
-www/documentation/defaulthtml/manual/images/reference/navigator_pane_panes.png -text
 www/documentation/defaulthtml/manual/images/reference/navigator_pane_perspectives.png -text
 www/documentation/defaulthtml/manual/images/reference/package_diagram.gif -text
 www/documentation/defaulthtml/manual/images/reference/sequence_diagram.gif -text
@@ -1067,7 +1066,7 @@ www/documentation/defaulthtml/manual/images/reference/signal_add_classifierrole_
 www/documentation/defaulthtml/manual/images/reference/signal_add_context.png -text
 www/documentation/defaulthtml/manual/images/reference/signal_add_specification.png -text
 www/documentation/defaulthtml/manual/images/reference/solid_line.png -text
-www/documentation/defaulthtml/manual/images/reference/state_diagram.gif -text
+www/documentation/defaulthtml/manual/images/reference/state_diagram_artifacts1.png -text
 www/documentation/defaulthtml/manual/images/reference/todo_pane.png -text
 www/documentation/defaulthtml/manual/images/reference/toolbar_zoom_slider.png -text
 www/documentation/defaulthtml/manual/images/reference/use_case_diagram.gif -text
@@ -1127,6 +1126,7 @@ www/documentation/printablehtml/manual/images/icons/attribute.gif -text
 www/documentation/printablehtml/manual/images/icons/backward.gif -text
 www/documentation/printablehtml/manual/images/icons/branch.gif -text
 www/documentation/printablehtml/manual/images/icons/broom.gif -text
+www/documentation/printablehtml/manual/images/icons/call_action.gif -text
 www/documentation/printablehtml/manual/images/icons/cancel_edit_constraint.gif -text
 www/documentation/printablehtml/manual/images/icons/check_constraint.gif -text
 www/documentation/printablehtml/manual/images/icons/circle.gif -text
@@ -1134,9 +1134,11 @@ www/documentation/printablehtml/manual/images/icons/class.gif -text
 www/documentation/printablehtml/manual/images/icons/class_diagram.gif -text
 www/documentation/printablehtml/manual/images/icons/classifier_role.gif -text
 www/documentation/printablehtml/manual/images/icons/collaboration_diagram.gif -text
+www/documentation/printablehtml/manual/images/icons/commentlink.gif -text
 www/documentation/printablehtml/manual/images/icons/component.gif -text
 www/documentation/printablehtml/manual/images/icons/component_instance.gif -text
 www/documentation/printablehtml/manual/images/icons/composite_state.gif -text
+www/documentation/printablehtml/manual/images/icons/concurrent_region.gif -text
 www/documentation/printablehtml/manual/images/icons/configure_constraints.gif -text
 www/documentation/printablehtml/manual/images/icons/constraints_left.gif -text
 www/documentation/printablehtml/manual/images/icons/constraints_right.gif -text
@@ -1148,7 +1150,6 @@ www/documentation/printablehtml/manual/images/icons/delete_constraint.gif -text
 www/documentation/printablehtml/manual/images/icons/delete_from_model.gif -text
 www/documentation/printablehtml/manual/images/icons/dependency.gif -text
 www/documentation/printablehtml/manual/images/icons/deployment_diagram.gif -text
-www/documentation/printablehtml/manual/images/icons/details_files.gif -text
 www/documentation/printablehtml/manual/images/icons/distribute_horizontal_centers.gif -text
 www/documentation/printablehtml/manual/images/icons/distribute_horizontal_spacing.gif -text
 www/documentation/printablehtml/manual/images/icons/distribute_vertical_centers.gif -text
@@ -1159,15 +1160,11 @@ www/documentation/printablehtml/manual/images/icons/extend.gif -text
 www/documentation/printablehtml/manual/images/icons/extension_point.gif -text
 www/documentation/printablehtml/manual/images/icons/final_state.gif -text
 www/documentation/printablehtml/manual/images/icons/find.gif -text
-www/documentation/printablehtml/manual/images/icons/flat.gif -text
-www/documentation/printablehtml/manual/images/icons/folder.gif -text
 www/documentation/printablehtml/manual/images/icons/fork.gif -text
 www/documentation/printablehtml/manual/images/icons/forward.gif -text
 www/documentation/printablehtml/manual/images/icons/generalization.gif -text
-www/documentation/printablehtml/manual/images/icons/hierarchical.gif -text
 www/documentation/printablehtml/manual/images/icons/hierarchy_closed.gif -text
 www/documentation/printablehtml/manual/images/icons/hierarchy_open.gif -text
-www/documentation/printablehtml/manual/images/icons/home.gif -text
 www/documentation/printablehtml/manual/images/icons/import_sources.gif -text
 www/documentation/printablehtml/manual/images/icons/include.gif -text
 www/documentation/printablehtml/manual/images/icons/initial_state.gif -text
@@ -1179,7 +1176,6 @@ www/documentation/printablehtml/manual/images/icons/join.gif -text
 www/documentation/printablehtml/manual/images/icons/junction.gif -text
 www/documentation/printablehtml/manual/images/icons/line.gif -text
 www/documentation/printablehtml/manual/images/icons/link.gif -text
-www/documentation/printablehtml/manual/images/icons/list_files.gif -text
 www/documentation/printablehtml/manual/images/icons/message.gif -text
 www/documentation/printablehtml/manual/images/icons/nav_config.gif -text
 www/documentation/printablehtml/manual/images/icons/navigate_back.gif -text
@@ -1198,6 +1194,7 @@ www/documentation/printablehtml/manual/images/icons/nudge_left.gif -text
 www/documentation/printablehtml/manual/images/icons/nudge_right.gif -text
 www/documentation/printablehtml/manual/images/icons/nudge_up.gif -text
 www/documentation/printablehtml/manual/images/icons/object.gif -text
+www/documentation/printablehtml/manual/images/icons/objectflowstate.gif -text
 www/documentation/printablehtml/manual/images/icons/open_project.gif -text
 www/documentation/printablehtml/manual/images/icons/operation.gif -text
 www/documentation/printablehtml/manual/images/icons/package.gif -text
@@ -1232,12 +1229,14 @@ www/documentation/printablehtml/manual/images/icons/stimulus_create.gif -text
 www/documentation/printablehtml/manual/images/icons/stimulus_destroy.gif -text
 www/documentation/printablehtml/manual/images/icons/stimulus_return.gif -text
 www/documentation/printablehtml/manual/images/icons/stimulus_send.gif -text
+www/documentation/printablehtml/manual/images/icons/stubstate.gif -text
+www/documentation/printablehtml/manual/images/icons/submachinestate.gif -text
+www/documentation/printablehtml/manual/images/icons/synchstate.gif -text
 www/documentation/printablehtml/manual/images/icons/text.gif -text
 www/documentation/printablehtml/manual/images/icons/to_back.gif -text
 www/documentation/printablehtml/manual/images/icons/to_front.gif -text
 www/documentation/printablehtml/manual/images/icons/transition.gif -text
 www/documentation/printablehtml/manual/images/icons/uml_notation.gif -text
-www/documentation/printablehtml/manual/images/icons/up_directory.gif -text
 www/documentation/printablehtml/manual/images/icons/usage.gif -text
 www/documentation/printablehtml/manual/images/icons/use_case.gif -text
 www/documentation/printablehtml/manual/images/icons/use_case_diagram.gif -text
@@ -1245,6 +1244,7 @@ www/documentation/printablehtml/manual/images/icons/zoom.gif -text
 www/documentation/printablehtml/manual/images/important.png -text
 www/documentation/printablehtml/manual/images/note.png -text
 www/documentation/printablehtml/manual/images/reference/activity_diagram.gif -text
+www/documentation/printablehtml/manual/images/reference/build_house.png -text
 www/documentation/printablehtml/manual/images/reference/class_diagram.gif -text
 www/documentation/printablehtml/manual/images/reference/collaboration_diagram.gif -text
 www/documentation/printablehtml/manual/images/reference/component_diagram.gif -text
@@ -1283,7 +1283,6 @@ www/documentation/printablehtml/manual/images/reference/editing_pane.png -text
 www/documentation/printablehtml/manual/images/reference/entclasshier.gif -text
 www/documentation/printablehtml/manual/images/reference/gui_overview.png -text
 www/documentation/printablehtml/manual/images/reference/menu_browse_critics.png -text
-www/documentation/printablehtml/manual/images/reference/menu_buttons_on_selection.png -text
 www/documentation/printablehtml/manual/images/reference/menu_design_goals.png -text
 www/documentation/printablehtml/manual/images/reference/menu_design_issues.png -text
 www/documentation/printablehtml/manual/images/reference/menu_diagram_exceeds_page.png -text
@@ -1305,7 +1304,6 @@ www/documentation/printablehtml/manual/images/reference/menu_settings_notations.
 www/documentation/printablehtml/manual/images/reference/menu_settings_user.png -text
 www/documentation/printablehtml/manual/images/reference/message_add_predecessors.png -text
 www/documentation/printablehtml/manual/images/reference/navigator_pane.png -text
-www/documentation/printablehtml/manual/images/reference/navigator_pane_panes.png -text
 www/documentation/printablehtml/manual/images/reference/navigator_pane_perspectives.png -text
 www/documentation/printablehtml/manual/images/reference/package_diagram.gif -text
 www/documentation/printablehtml/manual/images/reference/sequence_diagram.gif -text
@@ -1313,7 +1311,7 @@ www/documentation/printablehtml/manual/images/reference/signal_add_classifierrol
 www/documentation/printablehtml/manual/images/reference/signal_add_context.png -text
 www/documentation/printablehtml/manual/images/reference/signal_add_specification.png -text
 www/documentation/printablehtml/manual/images/reference/solid_line.png -text
-www/documentation/printablehtml/manual/images/reference/state_diagram.gif -text
+www/documentation/printablehtml/manual/images/reference/state_diagram_artifacts1.png -text
 www/documentation/printablehtml/manual/images/reference/todo_pane.png -text
 www/documentation/printablehtml/manual/images/reference/toolbar_zoom_slider.png -text
 www/documentation/printablehtml/manual/images/reference/use_case_diagram.gif -text
