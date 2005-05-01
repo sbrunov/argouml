@@ -1,5 +1,6 @@
 * text=auto !eol
 modules/cpp/doc/ArgoUML.zargo -text
 modules/cpp/lib/commons-io-1.0.jar -text
+modules/cpp/lib/easymock-1.1.jar -text
 modules/cpp/testprojects/GeneratorTester28.zargo -text
 modules/cpp/testprojects/GeneratorTester30.zargo -text
