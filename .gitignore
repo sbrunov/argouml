@@ -196,6 +196,10 @@ build/junit*.properties
 build/test.zargo
 build/tests
 modules/cpp/*.zargo
+modules/cpp/src/org/argouml/language/cpp/reveng/CPPLexer.java
+modules/cpp/src/org/argouml/language/cpp/reveng/CPPParser.java
+modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.java
+modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.txt
 modules/idl/build
 modules/idl/build.properties
 modules/idl/local-*.bat
