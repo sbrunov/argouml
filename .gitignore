@@ -182,19 +182,6 @@ src_new/test.zargo
 !/\#
 /DIST
 /bin
-build/*.jar
-build/*.log
-build/README.txt
-build/api
-build/argouml.sh
-build/build.properties
-build/classes
-build/documentation
-build/ext
-build/javadocs
-build/junit*.properties
-build/test.zargo
-build/tests
 modules/cpp/*.zargo
 modules/cpp/src/org/argouml/language/cpp/reveng/CPPLexer.java
 modules/cpp/src/org/argouml/language/cpp/reveng/CPPParser.java
@@ -222,5 +209,3 @@ src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt
 src_new/test.xmi
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 tools/lib/JimiProClasses.zip
-www/images/Thumbs.db
-www/images/shirts/Thumbs.db
