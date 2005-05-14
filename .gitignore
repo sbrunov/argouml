@@ -211,6 +211,8 @@ modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.java
 modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.txt
 src/model/build
 src_new/Alittlebitofeverything2.zargo
+src_new/build-reports.xml
+src_new/jcoverage.ser
 src_new/org/argouml/language/java/generator/JavaLexer.java
 src_new/org/argouml/language/java/generator/JavaRecognizer.java
 src_new/org/argouml/language/java/generator/JavaTokenTypes.java
@@ -219,6 +221,7 @@ src_new/org/argouml/uml/reveng/java/JavaLexer.java
 src_new/org/argouml/uml/reveng/java/JavaRecognizer.java
 src_new/org/argouml/uml/reveng/java/JavaTokenTypes.java
 src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt
+src_new/reporting.properties
 src_new/test.xmi
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 tools/lib/JimiProClasses.zip
