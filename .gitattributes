@@ -762,13 +762,12 @@ tools/checkstyle-3.0/checkstyle-all-3.0.jar -text
 tools/checkstyle-3.0/indent030226.jar -text
 tools/checkstyle-3.3/checkstyle-all-3.3.jar -text
 tools/checkstyle/checkclipse.filefilters -text svneol=unset#application/octet-stream
-tools/fop-0.20.3/build/fop-0.20.3-custom.jar -text
-tools/fop-0.20.3/build/fop.jar -text
-tools/fop-0.20.3/lib/avalon-framework-4.0.jar -text
-tools/fop-0.20.3/lib/batik-1.1.jar -text
-tools/fop-0.20.3/lib/logkit-1.0.jar -text
-tools/fop-0.20.3/lib/xalan-2.0.0.jar -text
-tools/fop-0.20.3/lib/xalanj1compat.jar -text
+tools/fop-0.20.5/build/fop.jar -text
+tools/fop-0.20.5/lib/avalon-framework-cvs-20020806.jar -text
+tools/fop-0.20.5/lib/batik.jar -text
+tools/fop-0.20.5/lib/xalan-2.4.1.jar -text
+tools/fop-0.20.5/lib/xercesImpl-2.2.1.jar -text
+tools/fop-0.20.5/lib/xml-apis.jar -text
 tools/jdepend-2.2/lib/jdepend.jar -text
 tools/junit-3.7/junit.jar -text
 tools/junit-3.8.1/junit.jar -text
