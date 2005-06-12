@@ -195,6 +195,11 @@ build/javadocs
 build/junit*.properties
 build/test.zargo
 build/tests
+documentation/cookbook/cookbook.fo
+documentation/docbook-setup/docbook-xsl-1.66.1
+documentation/manual/argomanual.fo
+documentation/quick-guide/quickguide.fo
+modules/classfile/argouml.log
 modules/cpp/*.zargo
 modules/cpp/src/org/argouml/language/cpp/reveng/CPPLexer.java
 modules/cpp/src/org/argouml/language/cpp/reveng/CPPParser.java
@@ -209,8 +214,12 @@ modules/idl/src/org/argouml/uml/reveng/idl/IDLLexer.txt
 modules/idl/src/org/argouml/uml/reveng/idl/IDLParser.java
 modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.java
 modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.txt
+modules/junit/argouml.log
+modules/menutest/argouml.log
+modules/php/argouml.log
 src/model/build
 src_new/Alittlebitofeverything2.zargo
+src_new/argouml.log.1
 src_new/build-reports.xml
 src_new/jcoverage.ser
 src_new/org/argouml/language/java/generator/JavaLexer.java
