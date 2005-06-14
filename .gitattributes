@@ -468,7 +468,6 @@ modules/cpp/testprojects/GeneratorTester28.zargo -text
 modules/cpp/testprojects/GeneratorTester30.zargo -text
 modules/csharp/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/i18n/build.bat -text svneol=unset#application/octet-stream
-modules/i18n/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/idl/README -text svneol=unset#application/octet-stream
 modules/idl/src/org/argouml/uml/reveng/idl/idl_modified.g -text svneol=unset#application/octet-stream
 modules/idl/src/org/manifest.mf -text svneol=unset#application/octet-stream
