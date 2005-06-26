@@ -744,13 +744,6 @@ tests/testmodels/Empty.zargo -text
 tests/testmodels/EmptyProject0161.zargo -text
 tests/testmodels/GUITestPropertyPanels.zargo -text
 tests/testmodels/Garbage.zargo -text
-tools/ant-1.4.1/lib/ant.jar -text
-tools/ant-1.4.1/lib/crimson.jar -text
-tools/ant-1.4.1/lib/jaxp.jar -text
-tools/ant-1.4.1/lib/xalan-2.0.0.jar -text
-tools/ant-1.4.1/lib/xalanj1compat.jar -text
-tools/ant-1.4.1/lib/xerces-1.2.3.jar -text
-tools/ant-1.4.1/optional.jar -text
 tools/ant-1.6.2/lib/ant-launcher.jar -text
 tools/ant-1.6.2/lib/ant.jar -text
 tools/ant-1.6.2/libopt/ant-junit.jar -text
