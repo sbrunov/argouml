@@ -469,7 +469,6 @@ modules/idl/README -text svneol=unset#application/octet-stream
 modules/idl/src/org/argouml/uml/reveng/idl/idl_modified.g -text svneol=unset#application/octet-stream
 modules/idl/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/jscheme/lib/jscheme.jar -text
-modules/junit/lib/junit-3.7.jar -text
 modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/junit/testmodels/Alittlebitofeverything.zargo -text
 modules/junit/testmodels/Empty.zargo -text
