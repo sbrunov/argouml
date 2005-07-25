@@ -34,10 +34,6 @@ modules/cpp/build
 modules/cpp/build.properties
 modules/cpp/local-*.bat
 modules/cpp/local-*.sh
-modules/csharp/build
-modules/csharp/build.properties
-modules/csharp/local-*.bat
-modules/csharp/local-*.sh
 modules/dummylanguage/build
 modules/dummylanguage/build.properties
 modules/dummylanguage/local-*.bat
