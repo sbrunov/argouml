@@ -458,6 +458,7 @@ lib/nsuml-0.4.20_modified.jar -text
 lib/ocl-argo-1.1.jar -text
 lib/swidgets-0.1.1.jar -text
 lib/toolbar-1.0.jar -text
+lib/toolbar-1.1.0.jar -text
 modules/cpp/doc/ArgoUML.zargo -text
 modules/cpp/lib/commons-io-1.0.jar -text
 modules/cpp/lib/easymock-1.1.jar -text
