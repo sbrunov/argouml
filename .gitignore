@@ -178,6 +178,7 @@ src_new/test.zargo
 !/\#
 /.fbprefs
 /.fbwarnings
+/.settings
 /DIST
 /bin
 build/*.jar
