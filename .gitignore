@@ -92,7 +92,6 @@ src_new/org/argouml/language/java/cognitive/*.class
 src_new/org/argouml/language/java/cognitive/critics/*.class
 src_new/org/argouml/language/java/generator/*.class
 src_new/org/argouml/language/java/ui/*.class
-src_new/org/argouml/language/ui/*.class
 src_new/org/argouml/language/uml/*.class
 src_new/org/argouml/language/uml/generator/*.class
 src_new/org/argouml/model/*.class
@@ -221,6 +220,7 @@ src_new/Alittlebitofeverything2.zargo
 src_new/argouml.log.1
 src_new/build-reports.xml
 src_new/jcoverage.ser
+src_new/org/argouml/application/notation/ui/*.class
 src_new/org/argouml/language/java/generator/JavaLexer.java
 src_new/org/argouml/language/java/generator/JavaRecognizer.java
 src_new/org/argouml/language/java/generator/JavaTokenTypes.java
