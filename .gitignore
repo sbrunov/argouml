@@ -73,7 +73,6 @@ src_new/org/argouml/application/configuration/*.class
 src_new/org/argouml/application/events/*.class
 src_new/org/argouml/application/helpers/*.class
 src_new/org/argouml/application/modules/*.class
-src_new/org/argouml/application/notation/*.class
 src_new/org/argouml/application/projectrepair/*.class
 src_new/org/argouml/application/security/*.class
 src_new/org/argouml/cognitive/*.class
@@ -220,11 +219,12 @@ src_new/Alittlebitofeverything2.zargo
 src_new/argouml.log.1
 src_new/build-reports.xml
 src_new/jcoverage.ser
-src_new/org/argouml/application/notation/ui/*.class
 src_new/org/argouml/language/java/generator/JavaLexer.java
 src_new/org/argouml/language/java/generator/JavaRecognizer.java
 src_new/org/argouml/language/java/generator/JavaTokenTypes.java
 src_new/org/argouml/language/java/generator/JavaTokenTypes.txt
+src_new/org/argouml/notation/*.class
+src_new/org/argouml/notation/ui/*.class
 src_new/org/argouml/uml/reveng/java/JavaLexer.java
 src_new/org/argouml/uml/reveng/java/JavaRecognizer.java
 src_new/org/argouml/uml/reveng/java/JavaTokenTypes.java
