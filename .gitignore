@@ -231,6 +231,7 @@ src_new/org/argouml/uml/reveng/java/JavaTokenTypes.java
 src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt
 src_new/reporting.properties
 src_new/test.xmi
+src_new/tests/testmodels/01-02-15.xml
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 tools/lib/JimiProClasses.zip
 www/images/Thumbs.db
