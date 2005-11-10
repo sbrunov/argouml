@@ -3,6 +3,7 @@ documentation/cookbook/components.zargo -text
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/issueprocess.zargo -text
 documentation/cookbook/layers.zargo -text
+documentation/cookbook/notation.zargo -text
 documentation/images/callouts/1.png -text
 documentation/images/callouts/10.png -text
 documentation/images/callouts/2.png -text
@@ -31,6 +32,8 @@ documentation/images/cookbook/eventsafterpump.gif -text
 documentation/images/cookbook/eventsbeforepump.gif -text
 documentation/images/cookbook/explorer-architecture.gif -text
 documentation/images/cookbook/multieditorpane.gif -text
+documentation/images/cookbook/notation1.png -text
+documentation/images/cookbook/notation2.png -text
 documentation/images/cookbook/small.gif -text
 documentation/images/examples/example1.gif -text
 documentation/images/examples/example2.gif -text
