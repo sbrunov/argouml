@@ -480,6 +480,7 @@ modules/php/src/org/argouml/Images/PHPNotation.gif -text
 src_new/bin/ArgoUML.ico -text
 src_new/bin/appbund/GenericJavaApp.icns -text
 src_new/bin/appbund/JavaApplicationStub -text
+src_new/org/argouml/Images/Abstraction.gif -text
 src_new/org/argouml/Images/ActionState.gif -text
 src_new/org/argouml/Images/Activity.gif -text
 src_new/org/argouml/Images/ActivityDiagram.gif -text
