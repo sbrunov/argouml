@@ -179,19 +179,6 @@ src_new/test.zargo
 /.settings
 /DIST
 /bin
-build/*.jar
-build/*.log
-build/README.txt
-build/api
-build/argouml.sh
-build/build.properties
-build/classes
-build/documentation
-build/ext
-build/javadocs
-build/junit*.properties
-build/test.zargo
-build/tests
 documentation/cookbook/cookbook.fo
 documentation/docbook-setup/docbook-xsl-1.66.1
 documentation/manual/argomanual.fo
@@ -234,5 +221,3 @@ src_new/test.xmi
 src_new/tests/testmodels/01-02-15.xml
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 tools/lib/JimiProClasses.zip
-www/images/Thumbs.db
-www/images/shirts/Thumbs.db
