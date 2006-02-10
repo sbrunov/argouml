@@ -1527,7 +1527,9 @@ www/images/wrap_text_to_make_it_easier_to_read.png -text
 www/members/20020802_report.tar.gz -text
 www/models/addisonwesley/UMLDistilled.zargo -text
 www/models/log4j/log4j.zargo -text
+www/models/omg/uml13-in-uml14.zargo -text
 www/models/omg/uml13.zargo -text
+www/models/omg/uml14-in-uml14.zargo -text
 www/models/omg/uml14.zargo -text
 www/models/oreilly/nutshell4.zargo -text
 www/newsite/faq/images/example1.gif -text
