@@ -191,6 +191,7 @@ build/junit*.properties
 build/test.zargo
 build/tests
 documentation/cookbook/cookbook.fo
+documentation/docbook-setup/docbook-xsl
 documentation/docbook-setup/docbook-xsl-1.66.1
 documentation/manual/argomanual.fo
 documentation/quick-guide/quickguide.fo
