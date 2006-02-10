@@ -94,8 +94,6 @@ src_new/org/argouml/language/java/ui/*.class
 src_new/org/argouml/language/uml/*.class
 src_new/org/argouml/language/uml/generator/*.class
 src_new/org/argouml/model/*.class
-src_new/org/argouml/model/uml/*.class
-src_new/org/argouml/model/uml/doc-files/*.class
 src_new/org/argouml/ocl/*.class
 src_new/org/argouml/ocl/ui/*.class
 src_new/org/argouml/pattern/*.class
