@@ -220,8 +220,10 @@ modules/junit/argouml.log
 modules/menutest/argouml.log
 modules/php/argouml.log
 src/model/build
+src/model/build-eclipse
 src_new/Alittlebitofeverything2.zargo
 src_new/argouml.log.1
+src_new/build-eclipse
 src_new/build-reports.xml
 src_new/jcoverage.ser
 src_new/org/argouml/language/java/generator/JavaLexer.java
@@ -237,6 +239,7 @@ src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt
 src_new/reporting.properties
 src_new/test.xmi
 src_new/tests/testmodels/01-02-15.xml
+tests/build-eclipse
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 tools/lib/JimiProClasses.zip
 www/images/Thumbs.db
