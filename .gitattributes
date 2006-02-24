@@ -471,7 +471,7 @@ lib/commons-logging-1.0.2.jar -text
 lib/gef-0.11.3M3.jar -text
 lib/log4j-1.2.6.jar -text
 lib/ocl-argo-1.1.jar -text
-lib/swidgets-0.1.3.jar -text
+lib/swidgets-0.1.4.jar -text
 lib/toolbar-1.2.jar -text
 modules/cpp/doc/ArgoUML.zargo -text
 modules/cpp/doc/CppUMLProfile.zargo -text
