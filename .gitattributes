@@ -762,8 +762,6 @@ tests/testmodels/Garbage.zargo -text
 tools/ant-1.6.2/lib/ant-launcher.jar -text
 tools/ant-1.6.2/lib/ant.jar -text
 tools/ant-1.6.2/libopt/ant-junit.jar -text
-tools/checkstyle-3.0/checkstyle-all-3.0.jar -text
-tools/checkstyle-3.0/indent030226.jar -text
 tools/checkstyle-3.3/checkstyle-all-3.3.jar -text
 tools/checkstyle/checkclipse.filefilters -text svneol=unset#application/octet-stream
 tools/fop-0.20.5/build/fop.jar -text
