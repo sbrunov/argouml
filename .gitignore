@@ -221,6 +221,7 @@ modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.txt
 modules/junit/argouml.log
 modules/menutest/argouml.log
 modules/php/argouml.log
+src/model-mdr/bin
 src/model/build
 src/model/build-eclipse
 src_new/Alittlebitofeverything2.zargo
