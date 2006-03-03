@@ -221,7 +221,13 @@ modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.txt
 modules/junit/argouml.log
 modules/menutest/argouml.log
 modules/php/argouml.log
+src/model-mdr/argouml.log
 src/model-mdr/bin
+src/model-mdr/build
+src/model-mdr/build-eclipse
+src/model-mdr/tests/testmodels/01-12-02.xml
+src/model-mdr/tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
+src/model-mdr/tests/testmodels/Model.dtd
 src/model/build
 src/model/build-eclipse
 src_new/Alittlebitofeverything2.zargo
