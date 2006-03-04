@@ -198,6 +198,7 @@ documentation/docbook-setup/docbook-xsl-1.66.1
 documentation/manual/argomanual.fo
 documentation/quick-guide/quickguide.fo
 modules/classfile/argouml.log
+modules/classfile/build-eclipse
 modules/classfile/src/org/argouml/uml/reveng/classfile/ClassfileParser.java
 modules/classfile/src/org/argouml/uml/reveng/classfile/ClassfileTokenTypes.java
 modules/classfile/src/org/argouml/uml/reveng/classfile/ClassfileTokenTypes.txt
@@ -205,11 +206,14 @@ modules/classfile/src/org/argouml/uml/reveng/classfile/ClassfileTreeParser.java
 modules/classfile/src/org/argouml/uml/reveng/classfile/ClassfileTreeParserTokenTypes.java
 modules/classfile/src/org/argouml/uml/reveng/classfile/ClassfileTreeParserTokenTypes.txt
 modules/cpp/*.zargo
+modules/cpp/build-eclipse
 modules/cpp/src/org/argouml/language/cpp/reveng/CPPLexer.java
 modules/cpp/src/org/argouml/language/cpp/reveng/CPPParser.java
 modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.java
 modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.txt
+modules/dev/build-eclipse
 modules/idl/build
+modules/idl/build-eclipse
 modules/idl/build.properties
 modules/idl/local-*.bat
 modules/idl/local-*.sh
@@ -221,6 +225,7 @@ modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.txt
 modules/junit/argouml.log
 modules/menutest/argouml.log
 modules/php/argouml.log
+modules/php/build-eclipse
 src/model-mdr/argouml.log
 src/model-mdr/bin
 src/model-mdr/build
