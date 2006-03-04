@@ -237,6 +237,7 @@ src/model/build
 src/model/build-eclipse
 src_new/Alittlebitofeverything2.zargo
 src_new/argouml.log.1
+src_new/build
 src_new/build-eclipse
 src_new/build-reports.xml
 src_new/jcoverage.ser
