@@ -480,7 +480,6 @@ modules/cpp/lib/easymock-1.1.jar -text
 modules/cpp/testprojects/GeneratorTester28.zargo -text
 modules/cpp/testprojects/GeneratorTester30.zargo -text
 modules/cpp/testprojects/testcppgen.zargo svneol=native#unset
-modules/i18n/build.bat -text svneol=unset#application/octet-stream
 modules/idl/README -text svneol=unset#application/octet-stream
 modules/idl/src/org/argouml/uml/reveng/idl/idl_modified.g -text svneol=unset#application/octet-stream
 modules/idl/src/org/manifest.mf -text svneol=unset#application/octet-stream

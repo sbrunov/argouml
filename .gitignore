@@ -38,10 +38,6 @@ modules/dummylanguage/build
 modules/dummylanguage/build.properties
 modules/dummylanguage/local-*.bat
 modules/dummylanguage/local-*.sh
-modules/i18n/build
-modules/i18n/build.properties
-modules/i18n/local-*.bat
-modules/i18n/local-*.sh
 modules/java_rte/build
 modules/java_rte/build.properties
 modules/java_rte/local-*.bat
