@@ -208,16 +208,6 @@ modules/cpp/src/org/argouml/language/cpp/reveng/CPPParser.java
 modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.java
 modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.txt
 modules/dev/build-eclipse
-modules/idl/build
-modules/idl/build-eclipse
-modules/idl/build.properties
-modules/idl/local-*.bat
-modules/idl/local-*.sh
-modules/idl/src/org/argouml/uml/reveng/idl/IDLLexer.java
-modules/idl/src/org/argouml/uml/reveng/idl/IDLLexer.txt
-modules/idl/src/org/argouml/uml/reveng/idl/IDLParser.java
-modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.java
-modules/idl/src/org/argouml/uml/reveng/idl/IDLTokenTypes.txt
 modules/junit/argouml.log
 modules/menutest/argouml.log
 modules/php/argouml.log
