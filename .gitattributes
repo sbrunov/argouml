@@ -497,6 +497,7 @@ src_new/bin/ArgoUML.ico -text
 src_new/bin/appbund/GenericJavaApp.icns -text
 src_new/bin/appbund/JavaApplicationStub -text
 src_new/org/argouml/Images/Abstraction.gif -text
+src_new/org/argouml/Images/ActionExpression.gif -text
 src_new/org/argouml/Images/ActionState.gif -text
 src_new/org/argouml/Images/Activity.gif -text
 src_new/org/argouml/Images/ActivityDiagram.gif -text
@@ -516,6 +517,7 @@ src_new/org/argouml/Images/AssociationInverse.gif -text
 src_new/org/argouml/Images/AssociationRole.gif -text
 src_new/org/argouml/Images/Asynchronous.gif -text
 src_new/org/argouml/Images/Attribute.gif -text
+src_new/org/argouml/Images/BooleanExpression.gif -text
 src_new/org/argouml/Images/Branch.gif -text
 src_new/org/argouml/Images/Broom.gif -text
 src_new/org/argouml/Images/CallAction.gif -text
@@ -555,6 +557,7 @@ src_new/org/argouml/Images/DistributeVerticalSpacing.gif -text
 src_new/org/argouml/Images/Enumeration.gif -text
 src_new/org/argouml/Images/EnumerationLiteral.gif -text
 src_new/org/argouml/Images/Event.gif -text
+src_new/org/argouml/Images/Expression.gif -text
 src_new/org/argouml/Images/Extend.gif -text
 src_new/org/argouml/Images/Extends.gif -text
 src_new/org/argouml/Images/ExtensionPoint.gif -text
@@ -583,6 +586,7 @@ src_new/org/argouml/Images/Instance.gif -text
 src_new/org/argouml/Images/Interaction.gif -text
 src_new/org/argouml/Images/Interface.gif -text
 src_new/org/argouml/Images/InternalTransition.gif -text
+src_new/org/argouml/Images/IterationExpression.gif -text
 src_new/org/argouml/Images/JavaNotation.gif -text
 src_new/org/argouml/Images/Join.gif -text
 src_new/org/argouml/Images/Junction.gif -text
@@ -591,6 +595,7 @@ src_new/org/argouml/Images/Link.gif -text
 src_new/org/argouml/Images/Message.gif -text
 src_new/org/argouml/Images/Method.gif -text
 src_new/org/argouml/Images/Model.gif -text
+src_new/org/argouml/Images/Multiplicity.gif -text
 src_new/org/argouml/Images/Multtrigger.gif -text
 src_new/org/argouml/Images/NavigateBack.gif -text
 src_new/org/argouml/Images/NavigateForward.gif -text
@@ -634,6 +639,7 @@ src_new/org/argouml/Images/PostItD50.gif -text
 src_new/org/argouml/Images/PostItD75.gif -text
 src_new/org/argouml/Images/PostItD99.gif -text
 src_new/org/argouml/Images/PostItMulti.gif -text
+src_new/org/argouml/Images/ProcedureExpression.gif -text
 src_new/org/argouml/Images/Project.gif -text
 src_new/org/argouml/Images/RRect.gif -text
 src_new/org/argouml/Images/Realization.gif -text
@@ -684,6 +690,7 @@ src_new/org/argouml/Images/TagDefinition.gif -text
 src_new/org/argouml/Images/TerminateAction.gif -text
 src_new/org/argouml/Images/Text.gif -text
 src_new/org/argouml/Images/TimeEvent.gif -text
+src_new/org/argouml/Images/TimeExpression.gif -text
 src_new/org/argouml/Images/ToBack.gif -text
 src_new/org/argouml/Images/ToFront.gif -text
 src_new/org/argouml/Images/Trace.gif -text
