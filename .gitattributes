@@ -485,7 +485,6 @@ modules/junit/src/org/manifest.mf -text svneol=unset#application/octet-stream
 modules/junit/testmodels/Alittlebitofeverything.zargo -text
 modules/junit/testmodels/Empty.zargo -text
 modules/junit/testmodels/Garbage.zargo -text
-modules/php/src/org/argouml/Images/PHPNotation.gif -text
 src/model-mdr/lib/jmi.jar -text
 src/model-mdr/lib/jmiutils.jar -text
 src/model-mdr/lib/mdrapi.jar -text

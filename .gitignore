@@ -52,10 +52,6 @@ modules/menutest/build
 modules/menutest/build.properties
 modules/menutest/local-*.bat
 modules/menutest/local-*.sh
-modules/php/build
-modules/php/build.properties
-modules/php/local-*.bat
-modules/php/local-*.sh
 src_new/build.properties
 src_new/org/argouml/Images/*.class
 src_new/org/argouml/application/*.class
@@ -198,8 +194,6 @@ modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.txt
 modules/dev/build-eclipse
 modules/junit/argouml.log
 modules/menutest/argouml.log
-modules/php/argouml.log
-modules/php/build-eclipse
 src/model-mdr/argouml.log
 src/model-mdr/bin
 src/model-mdr/build
