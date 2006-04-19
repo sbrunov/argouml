@@ -26,10 +26,6 @@ lib/*-src-*.jar
 lib/*-src-*.zip
 lib/*-src.jar
 lib/*-src.zip
-modules/dummylanguage/build
-modules/dummylanguage/build.properties
-modules/dummylanguage/local-*.bat
-modules/dummylanguage/local-*.sh
 modules/java_rte/build
 modules/java_rte/build.properties
 modules/java_rte/local-*.bat
