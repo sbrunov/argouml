@@ -26,10 +26,6 @@ lib/*-src-*.jar
 lib/*-src-*.zip
 lib/*-src.jar
 lib/*-src.zip
-modules/cpp/build
-modules/cpp/build.properties
-modules/cpp/local-*.bat
-modules/cpp/local-*.sh
 modules/dummylanguage/build
 modules/dummylanguage/build.properties
 modules/dummylanguage/local-*.bat
@@ -185,12 +181,6 @@ documentation/docbook-setup/docbook-xsl
 documentation/docbook-setup/docbook-xsl-1.66.1
 documentation/manual/argomanual.fo
 documentation/quick-guide/quickguide.fo
-modules/cpp/*.zargo
-modules/cpp/build-eclipse
-modules/cpp/src/org/argouml/language/cpp/reveng/CPPLexer.java
-modules/cpp/src/org/argouml/language/cpp/reveng/CPPParser.java
-modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.java
-modules/cpp/src/org/argouml/language/cpp/reveng/STDCTokenTypes.txt
 modules/dev/build-eclipse
 modules/junit/argouml.log
 modules/menutest/argouml.log
