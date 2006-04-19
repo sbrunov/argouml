@@ -553,6 +553,7 @@ src_new/org/argouml/Images/DistributeHorizontalCenters.gif -text
 src_new/org/argouml/Images/DistributeHorizontalSpacing.gif -text
 src_new/org/argouml/Images/DistributeVerticalCenters.gif -text
 src_new/org/argouml/Images/DistributeVerticalSpacing.gif -text
+src_new/org/argouml/Images/ElementImport.gif -text
 src_new/org/argouml/Images/Enumeration.gif -text
 src_new/org/argouml/Images/EnumerationLiteral.gif -text
 src_new/org/argouml/Images/Event.gif -text
