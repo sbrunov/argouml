@@ -778,6 +778,7 @@ tools/fop-0.20.5/lib/xercesImpl-2.2.1.jar -text
 tools/fop-0.20.5/lib/xml-apis.jar -text
 tools/jdepend-2.2/lib/jdepend.jar -text
 tools/junit-3.8.1/junit.jar -text
+tools/lib/easymock12.jar -text
 tools/lib/javasrc-2001-beta.jar -text
 tools/lib/saxon-6.5.2.jar -text
 www/docs/allegrini_dissertation/tesi_en.pdf -text
