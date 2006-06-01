@@ -770,6 +770,20 @@ tools/ant-1.6.2/lib/ant.jar -text
 tools/ant-1.6.2/libopt/ant-junit.jar -text
 tools/checkstyle-3.3/checkstyle-all-3.3.jar -text
 tools/checkstyle/checkclipse.filefilters -text svneol=unset#application/octet-stream
+tools/classycle/classycle.jar -text
+tools/classycle/images/abstract.png -text
+tools/classycle/images/class.png -text
+tools/classycle/images/inner.png -text
+tools/classycle/images/innerCycleLink.png -text
+tools/classycle/images/innerabstract.png -text
+tools/classycle/images/innerclass.png -text
+tools/classycle/images/innerinterface.png -text
+tools/classycle/images/interface.png -text
+tools/classycle/images/link.png -text
+tools/classycle/images/logo.png -text
+tools/classycle/images/mix.png -text
+tools/classycle/images/mixedCycleLink.png -text
+tools/classycle/images/package.png -text
 tools/fop-0.20.5/build/fop.jar -text
 tools/fop-0.20.5/lib/avalon-framework-cvs-20020806.jar -text
 tools/fop-0.20.5/lib/batik.jar -text

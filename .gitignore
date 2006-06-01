@@ -219,6 +219,7 @@ src_new/test.xmi
 src_new/tests/testmodels/01-02-15.xml
 tests/build-eclipse
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
+tools/classycle/docs
 tools/lib/JimiProClasses.zip
 www/images/Thumbs.db
 www/images/shirts/Thumbs.db
