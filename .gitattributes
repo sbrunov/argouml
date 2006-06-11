@@ -469,7 +469,6 @@ documentation/manual/models/state-artifacts.zargo -text
 lib/antlrall-2.7.2.jar -text
 lib/commons-logging-1.0.2.jar -text
 lib/gef-0.11.3M10.jar -text
-lib/gef-0.11.3M9.jar -text
 lib/log4j-1.2.6.jar -text
 lib/ocl-argo-1.1.jar -text
 lib/swidgets-0.1.4.jar -text
