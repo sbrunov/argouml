@@ -798,6 +798,7 @@ tools/lib/saxon-6.5.2.jar -text
 www/docs/allegrini_dissertation/tesi_en.pdf -text
 www/docs/mmicallef/Presentation.ppt -text
 www/docs/mmicallef/ProjectReport.pdf -text
+www/docs/pichiliani_paper_2006/ArtigoWIE-REVISADO.pdf -text
 www/docs/robbins_dissertation/Disshtml.zip -text
 www/docs/robbins_dissertation/diss.fm -text
 www/docs/robbins_dissertation/diss.pdf -text svneol=unset#application/octet-stream
