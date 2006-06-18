@@ -162,9 +162,11 @@ build/*.log
 build/README.txt
 build/api
 build/argouml.bat
+build/argouml.log.*
 build/argouml.sh
 build/build.properties
 build/classes
+build/classycle
 build/documentation
 build/ext
 build/java
@@ -177,6 +179,7 @@ documentation/docbook-setup/docbook-xsl
 documentation/docbook-setup/docbook-xsl-1.66.1
 documentation/manual/argomanual.fo
 documentation/quick-guide/quickguide.fo
+modules/dev/build
 modules/dev/build-eclipse
 modules/junit/argouml.log
 modules/menutest/argouml.log
