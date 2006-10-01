@@ -53,7 +53,6 @@ src_new/org/argouml/application/configuration/*.class
 src_new/org/argouml/application/events/*.class
 src_new/org/argouml/application/helpers/*.class
 src_new/org/argouml/application/modules/*.class
-src_new/org/argouml/application/projectrepair/*.class
 src_new/org/argouml/application/security/*.class
 src_new/org/argouml/cognitive/*.class
 src_new/org/argouml/cognitive/checklist/*.class
@@ -65,17 +64,11 @@ src_new/org/argouml/doc-files/*.class
 src_new/org/argouml/i18n/*.class
 src_new/org/argouml/kernel/*.class
 src_new/org/argouml/language/*.class
-src_new/org/argouml/language/helpers/*.class
 src_new/org/argouml/language/java/*.class
 src_new/org/argouml/language/java/cognitive/*.class
 src_new/org/argouml/language/java/cognitive/critics/*.class
 src_new/org/argouml/language/java/generator/*.class
-src_new/org/argouml/language/java/ui/*.class
-src_new/org/argouml/language/uml/*.class
-src_new/org/argouml/language/uml/generator/*.class
-src_new/org/argouml/model/*.class
 src_new/org/argouml/ocl/*.class
-src_new/org/argouml/ocl/ui/*.class
 src_new/org/argouml/pattern/*.class
 src_new/org/argouml/pattern/cognitive/*.class
 src_new/org/argouml/pattern/cognitive/critics/*.class
@@ -124,13 +117,6 @@ src_new/org/argouml/util/*.class
 src_new/org/argouml/util/logging/*.class
 src_new/org/argouml/util/osdep/*.class
 src_new/org/argouml/util/osdep/win32/*.class
-src_new/org/argouml/xml/*.class
-src_new/org/argouml/xml/argo/*.class
-src_new/org/argouml/xml/dtd/*.class
-src_new/org/argouml/xml/pgml/*.class
-src_new/org/argouml/xml/xmi/*.class
-src_new/tests/testmodels/01-12-02.xml
-src_new/tests/testmodels/Model.dtd
 tests/testmodels/01-12-02.xml
 tests/testmodels/Model.dtd
 tools/lib/jimi-1.0.jar
@@ -219,7 +205,6 @@ src_new/org/argouml/uml/reveng/java/JavaTokenTypes.java
 src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt
 src_new/reporting.properties
 src_new/test.xmi
-src_new/tests/testmodels/01-02-15.xml
 tests/build-eclipse
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 tools/classycle/docs
