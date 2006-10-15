@@ -605,6 +605,8 @@ src_new/org/argouml/Images/Multtrigger.gif -text
 src_new/org/argouml/Images/NavigateBack.gif -text
 src_new/org/argouml/Images/NavigateForward.gif -text
 src_new/org/argouml/Images/NavigateUp.gif -text
+src_new/org/argouml/Images/NavigateUpNext.gif -text
+src_new/org/argouml/Images/NavigateUpPrevious.gif -text
 src_new/org/argouml/Images/NewExtensionPoint.gif -text
 src_new/org/argouml/Images/NewParameter.gif -text
 src_new/org/argouml/Images/NewPerspective.gif -text
@@ -772,6 +774,8 @@ src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-st
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+src_new/org/argouml/uml/ui/ActionNavigateUpNextDown.java -text
+src_new/org/argouml/uml/ui/ActionNavigateUpPreviousDown.java -text
 tests/testmodels/Alittlebitofeverything.zargo -text
 tests/testmodels/Empty.zargo -text
 tests/testmodels/EmptyProject0161.zargo -text
