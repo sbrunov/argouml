@@ -774,6 +774,7 @@ src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-st
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+src_new/org/argouml/uml/generator/TempFileUtils.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpNextDown.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpPreviousDown.java -text
 tests/testmodels/Alittlebitofeverything.zargo -text
