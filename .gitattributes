@@ -776,6 +776,13 @@ src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-st
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+src_new/org/argouml/swingext/ToolBarUtility.java -text
+src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
+src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java -text
+src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java -text
+src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java -text
+src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
+src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
 src_new/org/argouml/uml/generator/TempFileUtils.java -text
 src_new/org/argouml/uml/reveng/ConfigPanelExtension.java -text
 src_new/org/argouml/uml/reveng/FileImportUtils.java -text
@@ -784,6 +791,7 @@ src_new/org/argouml/uml/reveng/ImportSettings.java -text
 src_new/org/argouml/uml/reveng/ImporterManager.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpNextDown.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpPreviousDown.java -text
+src_new/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
 tests/testmodels/Alittlebitofeverything.zargo -text
 tests/testmodels/Empty.zargo -text
 tests/testmodels/EmptyProject0161.zargo -text
