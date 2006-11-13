@@ -834,6 +834,7 @@ tools/apache-ant-1.6.5/lib/ant-launcher.jar -text
 tools/apache-ant-1.6.5/lib/ant.jar -text
 tools/apache-ant-1.6.5/libopt/ant-junit.jar -text
 tools/apache-ant-1.6.5/welcome.html -text
+tools/bin/modelImplementationGenerator.sh -text
 tools/checkstyle/checkclipse.filefilters -text svneol=unset#application/octet-stream
 tools/classycle/classycle.jar -text
 tools/classycle/images/abstract.png -text
