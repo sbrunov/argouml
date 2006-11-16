@@ -795,6 +795,9 @@ src_new/org/argouml/uml/reveng/FileImportUtils.java -text
 src_new/org/argouml/uml/reveng/ImportInterface.java -text
 src_new/org/argouml/uml/reveng/ImportSettings.java -text
 src_new/org/argouml/uml/reveng/ImporterManager.java -text
+src_new/org/argouml/uml/reveng/Setting.java -text
+src_new/org/argouml/uml/reveng/SettingUniqueSelection.java -text
+src_new/org/argouml/uml/reveng/SettingsTypes.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpNextDown.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpPreviousDown.java -text
 src_new/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java -text
