@@ -780,6 +780,7 @@ src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarB
 src_new/org/argouml/application/api/ProgressMonitor.java -text
 src_new/org/argouml/doc-files/argologo-small.gif -text
 src_new/org/argouml/doc-files/argologo2.gif -text
+src_new/org/argouml/kernel/ProjectTouchMemento.java -text
 src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
