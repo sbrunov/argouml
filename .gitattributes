@@ -798,8 +798,10 @@ src_new/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
 src_new/org/argouml/uml/generator/TempFileUtils.java -text
 src_new/org/argouml/uml/reveng/ConfigPanelExtension.java -text
 src_new/org/argouml/uml/reveng/FileImportUtils.java -text
+src_new/org/argouml/uml/reveng/ImportCommon.java -text
 src_new/org/argouml/uml/reveng/ImportInterface.java -text
 src_new/org/argouml/uml/reveng/ImportSettings.java -text
+src_new/org/argouml/uml/reveng/ImportSettingsInternal.java -text
 src_new/org/argouml/uml/reveng/ImporterManager.java -text
 src_new/org/argouml/uml/reveng/Setting.java -text
 src_new/org/argouml/uml/reveng/SettingUniqueSelection.java -text
