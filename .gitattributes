@@ -812,6 +812,7 @@ src_new/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java
 src_new/org/argouml/uml/ui/behavior/common_behavior/PropPanelActionSequence.java -text
 src_new/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
 tests/.settings/de.mvmsoft.checkclipse.prefs -text
+tests/Model[!!-~]all[!!-~]tests.launch -text
 tests/org/argouml/uml/notation/uml/TestCallStateNotationUml.java -text
 tests/testmodels/Alittlebitofeverything.zargo -text
 tests/testmodels/Empty.zargo -text
