@@ -34,12 +34,6 @@ modules/jscheme/build
 modules/jscheme/build.properties
 modules/jscheme/local-*.bat
 modules/jscheme/local-*.sh
-modules/junit/build
-modules/junit/build.properties
-modules/junit/local-*.bat
-modules/junit/local-*.sh
-modules/junit/testmodels/01-12-02.xml
-modules/junit/testmodels/Model.dtd
 modules/menutest/build
 modules/menutest/build.properties
 modules/menutest/local-*.bat
@@ -176,7 +170,6 @@ documentation/manual/argomanual.fo
 documentation/quick-guide/quickguide.fo
 modules/dev/build
 modules/dev/build-eclipse
-modules/junit/argouml.log
 modules/menutest/argouml.log
 src/model-mdr/argouml.log
 src/model-mdr/bin
