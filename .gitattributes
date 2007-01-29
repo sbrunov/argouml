@@ -878,6 +878,7 @@ tools/junit-3.8.2/junit.jar -text
 tools/lib/easymock12.jar -text
 tools/lib/javasrc-2001-beta.jar -text
 tools/lib/saxon-6.5.2.jar -text
+www/alm-process/snippets/page.xml -text
 www/docs/allegrini_dissertation/tesi_en.pdf -text
 www/docs/mmicallef/Presentation.ppt -text
 www/docs/mmicallef/ProjectReport.pdf -text
