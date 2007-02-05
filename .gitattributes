@@ -820,6 +820,10 @@ tests/testmodels/Empty.zargo -text
 tests/testmodels/EmptyProject0161.zargo -text
 tests/testmodels/GUITestPropertyPanels.zargo -text
 tests/testmodels/Garbage.zargo -text
+tests/testmodels/uml14/Alittlebitofeverything.zargo -text
+tests/testmodels/uml14/EmptyProject024.zargo -text
+tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
+tests/testmodels/uml14/SequenceDiagram.zargo -text
 tools/ant-1.6.2/lib/ant-launcher.jar -text
 tools/ant-1.6.2/lib/ant.jar -text
 tools/ant-1.6.2/libopt/ant-junit.jar -text
