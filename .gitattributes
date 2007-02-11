@@ -134,6 +134,8 @@ documentation/images/icons/navigate_forward.gif -text
 documentation/images/icons/navigate_stereotype.gif -text
 documentation/images/icons/navigate_type.gif -text
 documentation/images/icons/navigate_up.gif -text
+documentation/images/icons/navigate_up_next.gif -text
+documentation/images/icons/navigate_up_previous.gif -text
 documentation/images/icons/new.gif -text
 documentation/images/icons/new_constraint.gif -text
 documentation/images/icons/new_to_do_item.gif -text
@@ -233,6 +235,8 @@ documentation/images/prev.png -text
 documentation/images/reference/activity_diagram.gif -text
 documentation/images/reference/build_house.png -text
 documentation/images/reference/class_diagram.gif -text
+documentation/images/reference/classdiagram-datatypes.png -text svneol=unset#image/png
+documentation/images/reference/classdiagram-stereotype-definition.png -text svneol=unset#image/png
 documentation/images/reference/collaboration_diagram.gif -text
 documentation/images/reference/component_diagram.gif -text
 documentation/images/reference/confirm_remove.png -text
@@ -473,6 +477,7 @@ documentation/images/warning.gif -text
 documentation/images/warning.png -text
 documentation/images/warning.tif -text
 documentation/manual/models/Build-House.zargo -text
+documentation/manual/models/ClassDiagram-Datatypes.zargo -text
 documentation/manual/models/The[!!-~]Shapes[!!-~]Project.zargo -text
 documentation/manual/models/classpackages.zargo -text
 documentation/manual/models/critic_model.zargo -text
