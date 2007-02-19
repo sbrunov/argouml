@@ -46,7 +46,6 @@ src_new/org/argouml/application/api/*.class
 src_new/org/argouml/application/configuration/*.class
 src_new/org/argouml/application/events/*.class
 src_new/org/argouml/application/helpers/*.class
-src_new/org/argouml/application/modules/*.class
 src_new/org/argouml/application/security/*.class
 src_new/org/argouml/cognitive/*.class
 src_new/org/argouml/cognitive/checklist/*.class
