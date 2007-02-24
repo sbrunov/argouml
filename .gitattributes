@@ -873,6 +873,7 @@ tools/classycle/images/logo.png -text
 tools/classycle/images/mix.png -text
 tools/classycle/images/mixedCycleLink.png -text
 tools/classycle/images/package.png -text
+tools/eclipse/ArgoUML.launch -text
 tools/fop-0.20.5/build/fop.jar -text
 tools/fop-0.20.5/lib/avalon-framework-cvs-20020806.jar -text
 tools/fop-0.20.5/lib/batik.jar -text
