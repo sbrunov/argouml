@@ -211,6 +211,7 @@ tests/Alittlebitofeverything2.zargo
 tests/build-eclipse
 tests/test.xmi
 tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
+tools/bin/generated
 tools/classycle/docs
 tools/lib/JimiProClasses.zip
 www/images/Thumbs.db
