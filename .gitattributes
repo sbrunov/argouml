@@ -788,12 +788,11 @@ src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarB
 src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateUp.gif -text
 src_new/org/argouml/doc-files/argologo-small.gif -text
 src_new/org/argouml/doc-files/argologo2.gif -text
-src_new/org/argouml/persistence/ProgressMonitor.java -text
 src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
-src_new/org/argouml/swingext/ToolBarUtility.java -text
+src_new/org/argouml/swingext/ProgressMonitor.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustGrid.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustSnap.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
@@ -820,6 +819,7 @@ src_new/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java
 src_new/org/argouml/uml/ui/behavior/common_behavior/PropPanelActionSequence.java -text
 src_new/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
 src_new/org/argouml/uml/ui/foundation/core/PropPanelElementResidence.java -text
+src_new/org/argouml/util/ToolBarUtility.java -text
 tests/.settings/de.mvmsoft.checkclipse.prefs -text
 tests/Model[!!-~]all[!!-~]tests.launch -text
 tests/org/argouml/uml/notation/uml/TestCallStateNotationUml.java -text
