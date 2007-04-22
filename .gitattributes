@@ -883,6 +883,9 @@ tools/fop-0.20.5/lib/xalan-2.4.1.jar -text
 tools/fop-0.20.5/lib/xercesImpl-2.2.1.jar -text
 tools/fop-0.20.5/lib/xml-apis.jar -text
 tools/jdepend-2.2/lib/jdepend.jar -text
+tools/jdepend-2.9/LICENSE -text
+tools/jdepend-2.9/README -text
+tools/jdepend-2.9/lib/jdepend-2.9.jar -text
 tools/junit-3.8.1/junit.jar -text
 tools/junit-3.8.2/README.html -text
 tools/junit-3.8.2/cpl-v10.html -text
