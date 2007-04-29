@@ -792,7 +792,7 @@ src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-st
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
-src_new/org/argouml/swingext/ProgressMonitor.java -text
+src_new/org/argouml/taskmgmt/ProgressMonitor.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustGrid.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustSnap.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
