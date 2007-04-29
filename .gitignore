@@ -43,7 +43,6 @@ src_new/org/argouml/Images/*.class
 src_new/org/argouml/application/*.class
 src_new/org/argouml/application/ArgoVersion.java
 src_new/org/argouml/application/api/*.class
-src_new/org/argouml/application/configuration/*.class
 src_new/org/argouml/application/events/*.class
 src_new/org/argouml/application/helpers/*.class
 src_new/org/argouml/application/security/*.class
