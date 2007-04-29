@@ -194,6 +194,7 @@ src_new/build
 src_new/build-eclipse
 src_new/build-reports.xml
 src_new/jcoverage.ser
+src_new/org/argouml/configuration/*.class
 src_new/org/argouml/doc-files/Thumbs.db
 src_new/org/argouml/language/java/generator/JavaLexer.java
 src_new/org/argouml/language/java/generator/JavaRecognizer.java
