@@ -323,3 +323,16 @@ maurelio1234/argouml/org/argouml/uml/ui/behavior/common_behavior/PropPanelAction
 maurelio1234/argouml/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
 maurelio1234/argouml/org/argouml/uml/ui/foundation/core/PropPanelElementResidence.java -text
 maurelio1234/argouml/org/argouml/util/ToolBarUtility.java -text
+maurelio1234/examples/javabeans/.classpath -text
+maurelio1234/examples/javabeans/.project -text
+maurelio1234/examples/javabeans/.settings/org.eclipse.jdt.ui.prefs -text
+maurelio1234/examples/javabeans/ArgoUML[!!-~]sequence.launch -text
+maurelio1234/examples/javabeans/src/.settings/org.eclipse.jdt.ui.prefs -text
+maurelio1234/examples/javabeans/src/META-INF/MANIFEST.MF -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/cognitive/critics/CrJavaBeanPropertyApplication.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/FigBean.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeans.xmi -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeansFigNodeStrategy.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeansProfileModule.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/ProfileJavaBeans.java -text
+maurelio1234/examples/javabeans/www/index.html -text
