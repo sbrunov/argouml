@@ -330,7 +330,6 @@ maurelio1234/examples/javabeans/ArgoUML[!!-~]sequence.launch -text
 maurelio1234/examples/javabeans/src/.settings/org.eclipse.jdt.ui.prefs -text
 maurelio1234/examples/javabeans/src/META-INF/MANIFEST.MF -text
 maurelio1234/examples/javabeans/src/org/argouml/uml/profile/cognitive/critics/CrJavaBeanPropertyApplication.java -text
-maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/FigBean.java -text
 maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeans.xmi -text
 maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeansFigNodeStrategy.java -text
 maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeansProfileModule.java -text
