@@ -1,4 +1,18 @@
 * text=auto !eol
+b00__1/model-euml/.classpath -text
+b00__1/model-euml/.project -text
+b00__1/model-euml/.settings/org.eclipse.jdt.core.prefs -text
+b00__1/model-euml/.settings/org.eclipse.jdt.ui.prefs -text
+b00__1/model-euml/ArgoUML[!!-~]UML2-EUML[!!-~]debug.launch -text
+b00__1/model-euml/META-INF/MANIFEST.MF -text
+b00__1/model-euml/build.bat -text
+b00__1/model-euml/build.xml -text
+b00__1/model-euml/build2.bat -text
+b00__1/model-euml/lib/org.eclipse.emf.common_2.3.0.v200703080200.jar -text
+b00__1/model-euml/lib/org.eclipse.emf.ecore.xmi_2.3.0.v200703080200.jar -text
+b00__1/model-euml/lib/org.eclipse.emf.ecore_2.3.0.v200703080200.jar -text
+b00__1/model-euml/lib/org.eclipse.uml2.common_1.3.0.v200703011358.jar -text
+b00__1/model-euml/lib/org.eclipse.uml2.uml_2.1.0.v200703011358.jar -text
 maurelio1234/argouml/.settings/de.mvmsoft.checkclipse.prefs -text
 maurelio1234/argouml/bin/ArgoUML.ico -text
 maurelio1234/argouml/ext/profile-javabeans.jar -text
