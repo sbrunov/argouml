@@ -306,6 +306,9 @@ maurelio1234/argouml/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java 
 maurelio1234/argouml/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
 maurelio1234/argouml/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
 maurelio1234/argouml/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
+maurelio1234/argouml/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java -text
+maurelio1234/argouml/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
+maurelio1234/argouml/org/argouml/uml/diagram/ui/ActionStereotypeViewTextual.java -text
 maurelio1234/argouml/org/argouml/uml/diagram/ui/FigProfileIcon.java -text
 maurelio1234/argouml/org/argouml/uml/generator/TempFileUtils.java -text
 maurelio1234/argouml/org/argouml/uml/profile/FigNodeStrategy.java -text
