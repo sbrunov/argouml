@@ -505,6 +505,7 @@ src/model-euml/.classpath -text
 src/model-euml/.project -text
 src/model-euml/.settings/org.eclipse.jdt.core.prefs -text
 src/model-euml/.settings/org.eclipse.jdt.ui.prefs -text
+src/model-euml/ArgoUML[!!-~]Model[!!-~]all[!!-~]tests[!!-~]with[!!-~]eUML.launch -text
 src/model-euml/ArgoUML[!!-~]UML2-EUML[!!-~]debug.launch -text
 src/model-euml/META-INF/MANIFEST.MF -text
 src/model-euml/build.bat -text
