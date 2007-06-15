@@ -3,8 +3,8 @@ b00__1/model-euml/.classpath -text
 b00__1/model-euml/.project -text
 b00__1/model-euml/.settings/org.eclipse.jdt.core.prefs -text
 b00__1/model-euml/.settings/org.eclipse.jdt.ui.prefs -text
-b00__1/model-euml/ArgoUML[!!-~]Model[!!-~]all[!!-~]tests[!!-~]with[!!-~]eUML[!!-~](b00__1).launch -text
-b00__1/model-euml/ArgoUML[!!-~]UML2-EUML[!!-~]debug[!!-~](b00__1).launch -text
+b00__1/model-euml/ArgoUML[!!-~]Model[!!-~]all[!!-~]tests[!!-~]with[!!-~]eUML[!!-~]b00__1.launch -text
+b00__1/model-euml/ArgoUML[!!-~]UML2-EUML[!!-~]debug[!!-~]b00__1.launch -text
 b00__1/model-euml/META-INF/MANIFEST.MF -text
 b00__1/model-euml/build.bat -text
 b00__1/model-euml/build.xml -text
