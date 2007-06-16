@@ -306,6 +306,7 @@ maurelio1234/argouml/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAnd
 maurelio1234/argouml/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateUp.gif -text
 maurelio1234/argouml/org/argouml/doc-files/argologo-small.gif -text
 maurelio1234/argouml/org/argouml/doc-files/argologo2.gif -text
+maurelio1234/argouml/org/argouml/persistence/ProfileConfigurationFilePersister.java -text
 maurelio1234/argouml/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 maurelio1234/argouml/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 maurelio1234/argouml/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
