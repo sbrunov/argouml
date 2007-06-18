@@ -169,6 +169,7 @@ documentation/quick-guide/quickguide.fo
 modules/dev/build
 modules/dev/build-eclipse
 modules/menutest/argouml.log
+src/model-euml/build-eclipse
 src/model-mdr/argouml.log
 src/model-mdr/bin
 src/model-mdr/build
