@@ -719,6 +719,8 @@ maurelio1234/tests/argouml-core-tests/testmodels/uml14/EmptyProject024.zargo -te
 maurelio1234/tests/argouml-core-tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
 maurelio1234/tests/argouml-core-tests/testmodels/uml14/SequenceDiagram.zargo -text
 maurelio1234/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
+maurelio1234/tests/org/argouml/uml/profile/TestProfileConfiguration1.java -text
+maurelio1234/tests/org/argouml/uml/profile/TestProfileConfiguration2.java -text
 maurelio1234/tests/org/argouml/uml/profile/TestProfileManagerImpl.java -text
 maurelio1234/tests/testmodels/uml13/Alittlebitofeverything.zargo -text
 maurelio1234/tests/testmodels/uml13/Empty.zargo -text
