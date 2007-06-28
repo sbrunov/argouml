@@ -187,6 +187,12 @@ maurelio1234/argouml/reporting.properties
 maurelio1234/argouml/test.xmi
 maurelio1234/argouml/test.zargo
 maurelio1234/tests/Alittlebitofeverything2.zargo
+maurelio1234/tests/argouml-core-tests/Alittlebitofeverything2.zargo
+maurelio1234/tests/argouml-core-tests/build-eclipse
+maurelio1234/tests/argouml-core-tests/test.xmi
+maurelio1234/tests/argouml-core-tests/testmodels/01-12-02.xml
+maurelio1234/tests/argouml-core-tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
+maurelio1234/tests/argouml-core-tests/testmodels/Model.dtd
 maurelio1234/tests/build-eclipse
 maurelio1234/tests/test.xmi
 maurelio1234/tests/testmodels/01-12-02.xml
