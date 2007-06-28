@@ -701,3 +701,15 @@ maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/ProfileJav
 maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/bean.GIF -text
 maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/event.gif -text
 maurelio1234/examples/javabeans/www/index.html -text
+maurelio1234/tests/.settings/de.mvmsoft.checkclipse.prefs -text
+maurelio1234/tests/Model[!!-~]all[!!-~]tests.launch -text
+maurelio1234/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
+maurelio1234/tests/testmodels/uml13/Alittlebitofeverything.zargo -text
+maurelio1234/tests/testmodels/uml13/Empty.zargo -text
+maurelio1234/tests/testmodels/uml13/EmptyProject0161.zargo -text
+maurelio1234/tests/testmodels/uml13/GUITestPropertyPanels.zargo -text
+maurelio1234/tests/testmodels/uml13/Garbage.zargo -text
+maurelio1234/tests/testmodels/uml14/Alittlebitofeverything.zargo -text
+maurelio1234/tests/testmodels/uml14/EmptyProject024.zargo -text
+maurelio1234/tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
+maurelio1234/tests/testmodels/uml14/SequenceDiagram.zargo -text
