@@ -325,8 +325,6 @@ maurelio1234/src_new/org/argouml/application/StartCritics.java -text
 maurelio1234/src_new/org/argouml/application/api/Argo.java -text
 maurelio1234/src_new/org/argouml/application/api/ArgoEventListener.java -text
 maurelio1234/src_new/org/argouml/application/api/CommandLineInterface.java -text
-maurelio1234/src_new/org/argouml/application/api/GUISettingsTabInterface.java -text
-maurelio1234/src_new/org/argouml/application/api/InitSubsystem.java -text
 maurelio1234/src_new/org/argouml/application/api/build.properties -text
 maurelio1234/src_new/org/argouml/application/api/package.html -text
 maurelio1234/src_new/org/argouml/application/api/plugin.properties -text
@@ -349,10 +347,6 @@ maurelio1234/src_new/org/argouml/application/security/ArgoAwtExceptionHandler.ja
 maurelio1234/src_new/org/argouml/application/security/package.html -text
 maurelio1234/src_new/org/argouml/argo.ini -text
 maurelio1234/src_new/org/argouml/cognitive/AbstractCognitiveTranslator.java -text
-maurelio1234/src_new/org/argouml/cognitive/Agency.java -text
-maurelio1234/src_new/org/argouml/cognitive/CompoundCritic.java -text
-maurelio1234/src_new/org/argouml/cognitive/ControlMech.java -text
-maurelio1234/src_new/org/argouml/cognitive/Critic.java -text
 maurelio1234/src_new/org/argouml/cognitive/Decision.java -text
 maurelio1234/src_new/org/argouml/cognitive/DecisionModel.java -text
 maurelio1234/src_new/org/argouml/cognitive/Designer.java -text
@@ -364,7 +358,6 @@ maurelio1234/src_new/org/argouml/cognitive/ListSet.java -text
 maurelio1234/src_new/org/argouml/cognitive/Offender.java -text
 maurelio1234/src_new/org/argouml/cognitive/Poster.java -text
 maurelio1234/src_new/org/argouml/cognitive/ResolvedCritic.java -text
-maurelio1234/src_new/org/argouml/cognitive/StandardCM.java -text
 maurelio1234/src_new/org/argouml/cognitive/ToDoItem.java -text
 maurelio1234/src_new/org/argouml/cognitive/ToDoList.java -text
 maurelio1234/src_new/org/argouml/cognitive/ToDoListEvent.java -text
@@ -386,7 +379,6 @@ maurelio1234/src_new/org/argouml/cognitive/critics/ui/CriticBrowserDialog.java -
 maurelio1234/src_new/org/argouml/cognitive/critics/ui/package.html -text
 maurelio1234/src_new/org/argouml/cognitive/package.html -text
 maurelio1234/src_new/org/argouml/cognitive/ui/AbstractGoList.java -text
-maurelio1234/src_new/org/argouml/cognitive/ui/ActionGoToCritique.java -text
 maurelio1234/src_new/org/argouml/cognitive/ui/ActionNewToDoItem.java -text
 maurelio1234/src_new/org/argouml/cognitive/ui/ActionResolve.java -text
 maurelio1234/src_new/org/argouml/cognitive/ui/ActionSnooze.java -text
@@ -436,22 +428,6 @@ maurelio1234/src_new/org/argouml/default.xmi -text
 maurelio1234/src_new/org/argouml/defaultold.xml -text
 maurelio1234/src_new/org/argouml/doc-files/argologo-small.gif -text
 maurelio1234/src_new/org/argouml/doc-files/argologo2.gif -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigCircle.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigInk.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigLine.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigPoly.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigRRect.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigRect.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigSpline.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoFigText.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigCircle.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigInk.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigLine.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigPoly.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigRRect.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigRect.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigSpline.java -text
-maurelio1234/src_new/org/argouml/gefext/ArgoModeCreateFigText.java -text
 maurelio1234/src_new/org/argouml/i18n/Translator.java -text
 maurelio1234/src_new/org/argouml/i18n/UMLResourceBundle.properties -text
 maurelio1234/src_new/org/argouml/i18n/aboutbox.properties -text
@@ -485,8 +461,6 @@ maurelio1234/src_new/org/argouml/kernel/UndoEnabler.java -text
 maurelio1234/src_new/org/argouml/kernel/package.html -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrMultipleInheritance.java -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrMultipleRealization.java -text
-maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrReservedNameJava.java -text
-maurelio1234/src_new/org/argouml/language/java/cognitive/critics/InitJavaCritics.java -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/package.html -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/package.html -text
 maurelio1234/src_new/org/argouml/language/java/generator/AnonymousClassCodePiece.java -text
@@ -515,12 +489,10 @@ maurelio1234/src_new/org/argouml/language/java/generator/package.html -text
 maurelio1234/src_new/org/argouml/language/java/package.html -text
 maurelio1234/src_new/org/argouml/language/package.html -text
 maurelio1234/src_new/org/argouml/language/ui/LanguageComboBox.java -text
-maurelio1234/src_new/org/argouml/moduleloader/InitModuleLoader.java -text
 maurelio1234/src_new/org/argouml/moduleloader/ModuleInterface.java -text
 maurelio1234/src_new/org/argouml/moduleloader/ModuleLoader2.java -text
 maurelio1234/src_new/org/argouml/moduleloader/SettingsTabModules.java -text
 maurelio1234/src_new/org/argouml/moduleloader/package.html -text
-maurelio1234/src_new/org/argouml/notation/InitNotation.java -text
 maurelio1234/src_new/org/argouml/notation/InitNotationJava.java -text
 maurelio1234/src_new/org/argouml/notation/InitNotationUml.java -text
 maurelio1234/src_new/org/argouml/notation/Notation.java -text
@@ -573,7 +545,6 @@ maurelio1234/src_new/org/argouml/notation/providers/uml/OperationNotationUml.jav
 maurelio1234/src_new/org/argouml/notation/providers/uml/StateBodyNotationUml.java -text
 maurelio1234/src_new/org/argouml/notation/providers/uml/TransitionNotationUml.java -text
 maurelio1234/src_new/org/argouml/notation/ui/ActionNotation.java -text
-maurelio1234/src_new/org/argouml/notation/ui/InitNotationUI.java -text
 maurelio1234/src_new/org/argouml/notation/ui/NotationComboBox.java -text
 maurelio1234/src_new/org/argouml/notation/ui/SettingsTabNotation.java -text
 maurelio1234/src_new/org/argouml/notation/ui/package.html -text
@@ -586,11 +557,9 @@ maurelio1234/src_new/org/argouml/ocl/package.html -text
 maurelio1234/src_new/org/argouml/overview-api.html -text
 maurelio1234/src_new/org/argouml/overview-argo.html -text
 maurelio1234/src_new/org/argouml/package.html -text
-maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrConsiderFacade.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrConsiderSingleton.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrSingletonViolatedMissingStaticAttr.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrSingletonViolatedOnlyPrivateConstructors.java -text
-maurelio1234/src_new/org/argouml/pattern/cognitive/critics/InitPatternCritics.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/package.html -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/package.html -text
 maurelio1234/src_new/org/argouml/pattern/package.html -text
@@ -680,7 +649,6 @@ maurelio1234/src_new/org/argouml/ui/AbstractArgoJPanel.java -text
 maurelio1234/src_new/org/argouml/ui/ActionExportXMI.java -text
 maurelio1234/src_new/org/argouml/ui/ActionImportXMI.java -text
 maurelio1234/src_new/org/argouml/ui/ActionProjectSettings.java -text
-maurelio1234/src_new/org/argouml/ui/ActionSetMode.java -text
 maurelio1234/src_new/org/argouml/ui/ActionSettings.java -text
 maurelio1234/src_new/org/argouml/ui/ArgoFrame.java -text
 maurelio1234/src_new/org/argouml/ui/ArgoJMenu.java -text
@@ -693,9 +661,7 @@ maurelio1234/src_new/org/argouml/ui/DisplayTextTree.java -text
 maurelio1234/src_new/org/argouml/ui/ExceptionDialog.java -text
 maurelio1234/src_new/org/argouml/ui/FindDialog.java -text
 maurelio1234/src_new/org/argouml/ui/GUI.java -text
-maurelio1234/src_new/org/argouml/ui/GUISettingsTabInterface.java -text
 maurelio1234/src_new/org/argouml/ui/GotoDialog.java -text
-maurelio1234/src_new/org/argouml/ui/GraphChangeAdapter.java -text
 maurelio1234/src_new/org/argouml/ui/HelpListener.java -text
 maurelio1234/src_new/org/argouml/ui/JasonsBigTheme.java -text
 maurelio1234/src_new/org/argouml/ui/JasonsHugeTheme.java -text
@@ -716,7 +682,6 @@ maurelio1234/src_new/org/argouml/ui/SettingsTabAppearance.java -text
 maurelio1234/src_new/org/argouml/ui/SettingsTabEnvironment.java -text
 maurelio1234/src_new/org/argouml/ui/SettingsTabLayout.java -text
 maurelio1234/src_new/org/argouml/ui/SettingsTabPreferences.java -text
-maurelio1234/src_new/org/argouml/ui/SettingsTabShortcuts.java -text
 maurelio1234/src_new/org/argouml/ui/SettingsTabUser.java -text
 maurelio1234/src_new/org/argouml/ui/ShadowComboBox.java -text
 maurelio1234/src_new/org/argouml/ui/SplashPanel.java -text
@@ -758,12 +723,10 @@ maurelio1234/src_new/org/argouml/ui/cmd/ActionSystemInfo.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/CmdSetPreferredSize.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/GenericArgoMenuBar.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/InitMenusLater.java -text
-maurelio1234/src_new/org/argouml/ui/cmd/InitUiCmdSubsystem.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/LastRecentlyUsedMenuList.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/NavigateTargetBackAction.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/NavigateTargetForwardAction.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/PrintManager.java -text
-maurelio1234/src_new/org/argouml/ui/cmd/SettingsTabShortcuts.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/ShortcutChangedEvent.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/ShortcutChangedListener.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/ShortcutField.java -text
@@ -782,7 +745,6 @@ maurelio1234/src_new/org/argouml/ui/explorer/PerspectiveComboBox.java -text
 maurelio1234/src_new/org/argouml/ui/explorer/PerspectiveConfigurator.java -text
 maurelio1234/src_new/org/argouml/ui/explorer/PerspectiveManager.java -text
 maurelio1234/src_new/org/argouml/ui/explorer/PerspectiveManagerListener.java -text
-maurelio1234/src_new/org/argouml/ui/explorer/Relocatable.java -text
 maurelio1234/src_new/org/argouml/ui/explorer/TreeModelUMLEventListener.java -text
 maurelio1234/src_new/org/argouml/ui/explorer/TypeThenNameOrder.java -text
 maurelio1234/src_new/org/argouml/ui/explorer/WeakExplorerNode.java -text
@@ -876,7 +838,6 @@ maurelio1234/src_new/org/argouml/ui/targetmanager/TargetManager.java -text
 maurelio1234/src_new/org/argouml/ui/targetmanager/TargettableModelView.java -text
 maurelio1234/src_new/org/argouml/ui/targetmanager/package.html -text
 maurelio1234/src_new/org/argouml/uml/ChildGenRelated.java -text
-maurelio1234/src_new/org/argouml/uml/CommentEdge.java -text
 maurelio1234/src_new/org/argouml/uml/DocumentationManager.java -text
 maurelio1234/src_new/org/argouml/uml/GenAncestorClasses.java -text
 maurelio1234/src_new/org/argouml/uml/GenCompositeClasses.java -text
@@ -914,7 +875,6 @@ maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrCompInstanceWithoutNode
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrComponentInstanceWithoutClassifier.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrComponentWithoutNode.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrConflictingComposites.java -text
-maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrConsiderFacade.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrConstructorNeeded.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrCrossNamespaceAssoc.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrDisambigClassName.java -text
@@ -997,8 +957,6 @@ maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrUtilityViolated.java -t
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrWrongDepEnds.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrWrongLinkEnds.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/CrZeroLengthEdge.java -text
-maurelio1234/src_new/org/argouml/uml/cognitive/critics/Init.java -text
-maurelio1234/src_new/org/argouml/uml/cognitive/critics/InitCognitiveCritics.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/UMLWizard.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/WizAddConstructor.java -text
 maurelio1234/src_new/org/argouml/uml/cognitive/critics/WizAddInstanceVariable.java -text
@@ -1015,9 +973,7 @@ maurelio1234/src_new/org/argouml/uml/cognitive/critics/package.html -text
 maurelio1234/src_new/org/argouml/uml/cognitive/package.html -text
 maurelio1234/src_new/org/argouml/uml/diagram/ArgoDiagram.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/DiagramFactory.java -text
-maurelio1234/src_new/org/argouml/uml/diagram/GraphChangeAdapter.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ProjectMemberDiagram.java -text
-maurelio1234/src_new/org/argouml/uml/diagram/Relocatable.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/UMLMutableGraphSupport.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/UmlDiagramRenderer.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/activity/ActivityDiagramGraphModel.java -text
@@ -1202,8 +1158,6 @@ maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionSetAddAssociationClassMode
 maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionSetAddAssociationEndMode.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionSetAddAssociationMode.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionSetAddCommentLinkMode.java -text
-maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionSetAddMessageMode.java -text
-maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionSetMode.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
@@ -1280,7 +1234,6 @@ maurelio1234/src_new/org/argouml/uml/diagram/ui/SelectionNodeClarifiers2.java -t
 maurelio1234/src_new/org/argouml/uml/diagram/ui/SelectionRerouteEdge.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/StereotypeContainer.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/StereotypeUtility.java -text
-maurelio1234/src_new/org/argouml/uml/diagram/ui/StylePanelFigAssociationClass.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/StylePanelFigMessage.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/TabDiagram.java -text
 maurelio1234/src_new/org/argouml/uml/diagram/ui/UMLDiagram.java -text
