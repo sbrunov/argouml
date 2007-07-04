@@ -485,6 +485,8 @@ maurelio1234/src_new/org/argouml/kernel/UndoEnabler.java -text
 maurelio1234/src_new/org/argouml/kernel/package.html -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrMultipleInheritance.java -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrMultipleRealization.java -text
+maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrReservedNameJava.java -text
+maurelio1234/src_new/org/argouml/language/java/cognitive/critics/InitJavaCritics.java -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/package.html -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/package.html -text
 maurelio1234/src_new/org/argouml/language/java/generator/AnonymousClassCodePiece.java -text
@@ -584,9 +586,11 @@ maurelio1234/src_new/org/argouml/ocl/package.html -text
 maurelio1234/src_new/org/argouml/overview-api.html -text
 maurelio1234/src_new/org/argouml/overview-argo.html -text
 maurelio1234/src_new/org/argouml/package.html -text
+maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrConsiderFacade.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrConsiderSingleton.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrSingletonViolatedMissingStaticAttr.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/CrSingletonViolatedOnlyPrivateConstructors.java -text
+maurelio1234/src_new/org/argouml/pattern/cognitive/critics/InitPatternCritics.java -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/critics/package.html -text
 maurelio1234/src_new/org/argouml/pattern/cognitive/package.html -text
 maurelio1234/src_new/org/argouml/pattern/package.html -text
@@ -754,10 +758,12 @@ maurelio1234/src_new/org/argouml/ui/cmd/ActionSystemInfo.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/CmdSetPreferredSize.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/GenericArgoMenuBar.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/InitMenusLater.java -text
+maurelio1234/src_new/org/argouml/ui/cmd/InitUiCmdSubsystem.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/LastRecentlyUsedMenuList.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/NavigateTargetBackAction.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/NavigateTargetForwardAction.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/PrintManager.java -text
+maurelio1234/src_new/org/argouml/ui/cmd/SettingsTabShortcuts.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/ShortcutChangedEvent.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/ShortcutChangedListener.java -text
 maurelio1234/src_new/org/argouml/ui/cmd/ShortcutField.java -text
