@@ -844,9 +844,6 @@ maurelio1234/src_new/org/argouml/uml/GenCompositeClasses.java -text
 maurelio1234/src_new/org/argouml/uml/GenDescendantClasses.java -text
 maurelio1234/src_new/org/argouml/uml/PredicateFind.java -text
 maurelio1234/src_new/org/argouml/uml/PredicateNotInTrash.java -text
-maurelio1234/src_new/org/argouml/uml/Profile.java -text
-maurelio1234/src_new/org/argouml/uml/ProfileException.java -text
-maurelio1234/src_new/org/argouml/uml/ProfileJava.java -text
 maurelio1234/src_new/org/argouml/uml/ProjectMemberModel.java -text
 maurelio1234/src_new/org/argouml/uml/TMResults.java -text
 maurelio1234/src_new/org/argouml/uml/UUIDHelper.java -text
