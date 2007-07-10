@@ -320,7 +320,6 @@ maurelio1234/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAnd
 maurelio1234/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateBack.gif -text
 maurelio1234/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateForward.gif -text
 maurelio1234/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateUp.gif -text
-maurelio1234/src_new/org/argouml/application/ArgoVersion.java -text
 maurelio1234/src_new/org/argouml/application/Main.java -text
 maurelio1234/src_new/org/argouml/application/StartCritics.java -text
 maurelio1234/src_new/org/argouml/application/api/Argo.java -text
@@ -474,10 +473,6 @@ maurelio1234/src_new/org/argouml/language/java/generator/CodePieceCollector.java
 maurelio1234/src_new/org/argouml/language/java/generator/CompositeCodePiece.java -text
 maurelio1234/src_new/org/argouml/language/java/generator/GeneratorJava.java -text
 maurelio1234/src_new/org/argouml/language/java/generator/InterfaceCodePiece.java -text
-maurelio1234/src_new/org/argouml/language/java/generator/JavaLexer.java -text
-maurelio1234/src_new/org/argouml/language/java/generator/JavaRecognizer.java -text
-maurelio1234/src_new/org/argouml/language/java/generator/JavaTokenTypes.java -text
-maurelio1234/src_new/org/argouml/language/java/generator/JavaTokenTypes.txt -text
 maurelio1234/src_new/org/argouml/language/java/generator/JavaUML.java -text
 maurelio1234/src_new/org/argouml/language/java/generator/NamedCodePiece.java -text
 maurelio1234/src_new/org/argouml/language/java/generator/OperationCodePiece.java -text
