@@ -439,16 +439,6 @@ maurelio1234/src_new/org/argouml/i18n/package.html -text
 maurelio1234/src_new/org/argouml/i18n/parsing.properties -text
 maurelio1234/src_new/org/argouml/i18n/statusmsg.properties -text
 maurelio1234/src_new/org/argouml/i18n/tab.properties -text
-maurelio1234/src_new/org/argouml/kernel/AbstractProjectMember.java -text
-maurelio1234/src_new/org/argouml/kernel/DelayedChangeNotify.java -text
-maurelio1234/src_new/org/argouml/kernel/DelayedVChangeListener.java -text
-maurelio1234/src_new/org/argouml/kernel/MemberList.java -text
-maurelio1234/src_new/org/argouml/kernel/Project.java -text
-maurelio1234/src_new/org/argouml/kernel/ProjectManager.java -text
-maurelio1234/src_new/org/argouml/kernel/ProjectMember.java -text
-maurelio1234/src_new/org/argouml/kernel/ProjectSettings.java -text
-maurelio1234/src_new/org/argouml/kernel/UndoEnabler.java -text
-maurelio1234/src_new/org/argouml/kernel/package.html -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrMultipleInheritance.java -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/CrMultipleRealization.java -text
 maurelio1234/src_new/org/argouml/language/java/cognitive/critics/package.html -text
