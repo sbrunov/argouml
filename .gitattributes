@@ -1281,10 +1281,6 @@ maurelio1234/src_new/org/argouml/uml/reveng/java/ClassifierContext.java -text
 maurelio1234/src_new/org/argouml/uml/reveng/java/ClassifierNotFoundException.java -text
 maurelio1234/src_new/org/argouml/uml/reveng/java/Context.java -text
 maurelio1234/src_new/org/argouml/uml/reveng/java/JavaImport.java -text
-maurelio1234/src_new/org/argouml/uml/reveng/java/JavaLexer.java -text
-maurelio1234/src_new/org/argouml/uml/reveng/java/JavaRecognizer.java -text
-maurelio1234/src_new/org/argouml/uml/reveng/java/JavaTokenTypes.java -text
-maurelio1234/src_new/org/argouml/uml/reveng/java/JavaTokenTypes.txt -text
 maurelio1234/src_new/org/argouml/uml/reveng/java/Modeller.java -text
 maurelio1234/src_new/org/argouml/uml/reveng/java/OuterClassifierContext.java -text
 maurelio1234/src_new/org/argouml/uml/reveng/java/PackageContext.java -text
