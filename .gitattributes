@@ -316,6 +316,9 @@ maurelio1234/src_new/org/argouml/doc-files/argologo2.gif -text
 maurelio1234/src_new/org/argouml/resource/default.lcf -text
 maurelio1234/src_new/org/argouml/resource/default_console.lcf -text
 maurelio1234/src_new/org/argouml/resource/info_console.lcf -text
+maurelio1234/src_new/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
+maurelio1234/src_new/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
+maurelio1234/src_new/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
 maurelio1234/tests/.settings/de.mvmsoft.checkclipse.prefs -text
 maurelio1234/tests/Model[!!-~]all[!!-~]tests.launch -text
 maurelio1234/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
