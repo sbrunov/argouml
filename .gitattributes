@@ -11,9 +11,14 @@ b00__1/model-euml/build.bat -text
 b00__1/model-euml/build.xml -text
 b00__1/model-euml/build2.bat -text
 b00__1/model-euml/lib/org.eclipse.emf.common_2.3.0.v200703080200.jar -text
+b00__1/model-euml/lib/org.eclipse.emf.ecore.change_2.3.0.v200706262000.jar -text
 b00__1/model-euml/lib/org.eclipse.emf.ecore.xmi_2.3.0.v200703080200.jar -text
 b00__1/model-euml/lib/org.eclipse.emf.ecore_2.3.0.v200703080200.jar -text
+b00__1/model-euml/lib/org.eclipse.emf.edit_2.3.0.v200706262000.jar -text
+b00__1/model-euml/lib/org.eclipse.emf.mapping.ecore2xml_2.3.0.v200706262000.jar -text
+b00__1/model-euml/lib/org.eclipse.uml2.common.edit_1.3.0.v200706251652.jar -text
 b00__1/model-euml/lib/org.eclipse.uml2.common_1.3.0.v200703011358.jar -text
+b00__1/model-euml/lib/org.eclipse.uml2.uml.resources_2.1.0.v200706251652.jar -text
 b00__1/model-euml/lib/org.eclipse.uml2.uml_2.1.0.v200703011358.jar -text
 b00__1/model-euml/src/manifest.mf -text
 b00__1/model-euml/src/org/argouml/model/metamodels/uml211/0README.TXT -text
