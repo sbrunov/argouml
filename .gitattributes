@@ -502,6 +502,7 @@ modules/dev/src/org/argouml/uml/diagram/sequence/CallerListNodeBuilder.java -tex
 modules/jscheme/lib/jscheme.jar -text
 src/model-euml/.classpath -text
 src/model-euml/.project -text
+src/model-euml/.settings/de.mvmsoft.checkclipse.prefs -text
 src/model-euml/.settings/org.eclipse.jdt.core.prefs -text
 src/model-euml/.settings/org.eclipse.jdt.ui.prefs -text
 src/model-euml/ArgoUML[!!-~]Model[!!-~]all[!!-~]tests[!!-~]with[!!-~]eUML.launch -text
