@@ -38,6 +38,16 @@ maurelio1234/examples/javabeans/.classpath -text
 maurelio1234/examples/javabeans/.project -text
 maurelio1234/examples/javabeans/.settings/org.eclipse.jdt.ui.prefs -text
 maurelio1234/examples/javabeans/ArgoUML[!!-~]sequence.launch -text
+maurelio1234/examples/javabeans/src/.settings/org.eclipse.jdt.ui.prefs -text
+maurelio1234/examples/javabeans/src/META-INF/MANIFEST.MF -text
+maurelio1234/examples/javabeans/src/org/argouml/i18n/beansprofile.properties -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/cognitive/critics/CrJavaBeanPropertyApplication.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeans.xmi -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeansFigNodeStrategy.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeansProfileModule.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/ProfileJavaBeans.java -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/bean.GIF -text
+maurelio1234/examples/javabeans/src/org/argouml/uml/profile/javabeans/event.gif -text
 maurelio1234/examples/javabeans/www/index.html -text
 maurelio1234/src_new/bin/ArgoUML.ico -text
 maurelio1234/src_new/ext/javabeans.jar -text
