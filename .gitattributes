@@ -1058,6 +1058,7 @@ tools/classycle/images/package.png -text
 tools/eclipse/ArgoUML.launch -text
 tools/eclipse/argoeclipse_projectset.psf -text
 tools/eclipse/argoprint_projectset.psf -text
+tools/eclipse/argouml-sequence.psf -text
 tools/fop-0.20.5/build/fop.jar -text
 tools/fop-0.20.5/lib/avalon-framework-cvs-20020806.jar -text
 tools/fop-0.20.5/lib/batik.jar -text
