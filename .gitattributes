@@ -622,6 +622,7 @@ maurelio1234/branch2/src/model/.settings/de.mvmsoft.checkclipse.prefs -text
 maurelio1234/branch2/src/model/src/org/argouml/model/XmiException.java -text
 maurelio1234/branch2/src_new/.settings/de.mvmsoft.checkclipse.prefs -text
 maurelio1234/branch2/src_new/bin/ArgoUML.ico -text
+maurelio1234/branch2/src_new/ext/javabeans.jar -text
 maurelio1234/branch2/src_new/org/argouml/Images/Abstraction.gif -text
 maurelio1234/branch2/src_new/org/argouml/Images/ActionExpression.gif -text
 maurelio1234/branch2/src_new/org/argouml/Images/ActionSequence.gif -text
@@ -896,15 +897,27 @@ maurelio1234/branch2/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/Meta
 maurelio1234/branch2/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateForward.gif -text
 maurelio1234/branch2/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateUp.gif -text
 maurelio1234/branch2/src_new/org/argouml/application/api/Predicate.java -text
+maurelio1234/branch2/src_new/org/argouml/default-cpp.xmi -text
+maurelio1234/branch2/src_new/org/argouml/default-java.xmi -text
+maurelio1234/branch2/src_new/org/argouml/default-uml14.xmi -text
 maurelio1234/branch2/src_new/org/argouml/doc-files/argologo-small.gif -text
 maurelio1234/branch2/src_new/org/argouml/doc-files/argologo2.gif -text
+maurelio1234/branch2/src_new/org/argouml/persistence/ProfileConfigurationFilePersister.java -text
 maurelio1234/branch2/src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 maurelio1234/branch2/src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 maurelio1234/branch2/src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 maurelio1234/branch2/src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
 maurelio1234/branch2/src_new/org/argouml/taskmgmt/ProgressMonitor.java -text
+maurelio1234/branch2/src_new/org/argouml/ui/ProfileSelectionTab.java -text
+maurelio1234/branch2/src_new/org/argouml/ui/ProjectSettingsTabProfile.java -text
+maurelio1234/branch2/src_new/org/argouml/ui/SettingsTabProfile.java -text
 maurelio1234/branch2/src_new/org/argouml/ui/cmd/ActionAdjustGrid.java -text
 maurelio1234/branch2/src_new/org/argouml/ui/cmd/ActionAdjustSnap.java -text
+maurelio1234/branch2/src_new/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
+maurelio1234/branch2/src_new/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
+maurelio1234/branch2/src_new/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
+maurelio1234/branch2/src_new/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/cognitive/critics/CrProfile.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java -text
@@ -912,7 +925,30 @@ maurelio1234/branch2/src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEve
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionAddStereotype.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewTextual.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/FigProfileIcon.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/generator/TempFileUtils.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/FigNodeStrategy.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/FileModelLoader.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/FormatingStrategy.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/JavaFormatingStrategy.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/Profile.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileConfiguration.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileCpp.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileException.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileJava.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileManager.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileManagerImpl.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileModelLoader.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileUML.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ResourceModelLoader.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/StreamModelLoader.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/UserDefinedProfile.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ZipModelLoader.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/reveng/ConfigPanelExtension.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/reveng/FileImportUtils.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/reveng/ImportCommon.java -text
