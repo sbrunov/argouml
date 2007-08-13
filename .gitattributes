@@ -969,6 +969,10 @@ maurelio1234/branch2/src_new/org/argouml/util/ToolBarUtility.java -text
 maurelio1234/branch2/tests/.settings/de.mvmsoft.checkclipse.prefs -text
 maurelio1234/branch2/tests/Model[!!-~]all[!!-~]tests.launch -text
 maurelio1234/branch2/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
+maurelio1234/branch2/tests/org/argouml/uml/profile/TestProfileConfiguration1.java -text
+maurelio1234/branch2/tests/org/argouml/uml/profile/TestProfileConfiguration2.java -text
+maurelio1234/branch2/tests/org/argouml/uml/profile/TestProfileJava.java -text
+maurelio1234/branch2/tests/org/argouml/uml/profile/TestProfileManagerImpl.java -text
 maurelio1234/branch2/tests/testmodels/uml13/Alittlebitofeverything.zargo -text
 maurelio1234/branch2/tests/testmodels/uml13/Empty.zargo -text
 maurelio1234/branch2/tests/testmodels/uml13/EmptyProject0161.zargo -text
