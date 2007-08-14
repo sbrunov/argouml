@@ -1060,10 +1060,12 @@ maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewSmal
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewTextual.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/diagram/ui/FigProfileIcon.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/generator/TempFileUtils.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/DefaultTypeStrategy.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/profile/FigNodeStrategy.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/profile/FileModelLoader.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/profile/FormatingStrategy.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/profile/JavaFormatingStrategy.java -text
+maurelio1234/branch2/src_new/org/argouml/uml/profile/ModelUtils.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/profile/Profile.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileConfiguration.java -text
 maurelio1234/branch2/src_new/org/argouml/uml/profile/ProfileCpp.java -text
