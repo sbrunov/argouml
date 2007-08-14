@@ -869,6 +869,7 @@ tests/testmodels/uml13/Garbage.zargo -text
 tests/testmodels/uml14/Alittlebitofeverything.zargo -text
 tests/testmodels/uml14/EmptyProject024.zargo -text
 tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
+tests/testmodels/uml14/LinkedProfile.zargo -text
 tests/testmodels/uml14/SequenceDiagram.zargo -text
 tools/apache-ant-1.6.5/KEYS -text
 tools/apache-ant-1.6.5/LICENSE -text
