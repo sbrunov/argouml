@@ -1112,6 +1112,7 @@ maurelio1234/branch2/tests/testmodels/uml13/Garbage.zargo -text
 maurelio1234/branch2/tests/testmodels/uml14/Alittlebitofeverything.zargo -text
 maurelio1234/branch2/tests/testmodels/uml14/EmptyProject024.zargo -text
 maurelio1234/branch2/tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
+maurelio1234/branch2/tests/testmodels/uml14/LinkedProfile.zargo -text
 maurelio1234/branch2/tests/testmodels/uml14/SequenceDiagram.zargo -text
 maurelio1234/branch2/tools/apache-ant-1.6.5/KEYS -text
 maurelio1234/branch2/tools/apache-ant-1.6.5/LICENSE -text
