@@ -162,6 +162,582 @@ b00__1/model-euml/src/org/argouml/model/metamodels/uml211/L3.merged.cmof -text
 b00__1/model-euml/src/org/argouml/model/metamodels/uml211/LM.cmof -text
 b00__1/model-euml/src/org/argouml/model/metamodels/uml211/LM.merged.cmof -text
 b00__1/model-euml/src/org/argouml/model/metamodels/uml211/Superstructure.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/.classpath -text
+b00__1/tags/gsoc2007_deadline/model-euml/.project -text
+b00__1/tags/gsoc2007_deadline/model-euml/.settings/de.mvmsoft.checkclipse.prefs -text
+b00__1/tags/gsoc2007_deadline/model-euml/.settings/org.eclipse.jdt.core.prefs -text
+b00__1/tags/gsoc2007_deadline/model-euml/.settings/org.eclipse.jdt.ui.prefs -text
+b00__1/tags/gsoc2007_deadline/model-euml/ArgoUML[!!-~]Model[!!-~]all[!!-~]tests[!!-~]with[!!-~]eUML[!!-~]b00__1.launch -text
+b00__1/tags/gsoc2007_deadline/model-euml/ArgoUML[!!-~]UML2-EUML[!!-~]debug[!!-~]b00__1.launch -text
+b00__1/tags/gsoc2007_deadline/model-euml/META-INF/MANIFEST.MF -text
+b00__1/tags/gsoc2007_deadline/model-euml/build.bat -text
+b00__1/tags/gsoc2007_deadline/model-euml/build.xml -text
+b00__1/tags/gsoc2007_deadline/model-euml/build2.bat -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.common_2.3.0.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.ecore.change.edit_2.3.0.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.ecore.change_2.3.0.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.ecore.edit_2.3.0.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.ecore.xmi_2.3.1.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.ecore_2.3.1.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.edit_2.3.1.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.mapping.ecore2xml_2.3.0.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.mapping_2.3.0.v200708072030.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/META-INF/MANIFEST.MF -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/about.ini -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/about.mappings -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/modeling32.png -text svneol=unset#image/png
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ant_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ant_2.3.0.v200708072030/ant_tasks/emf.ant.taskssrc.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ant_2.3.0.v200708072030/examples/jetemitter/complex.javajet -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ant_2.3.0.v200708072030/examples/jetemitter/medium.javajet -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ant_2.3.0.v200708072030/examples/jetemitter/simple.javajet -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ant_2.3.0.v200708072030/readme.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ant_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen.ecore.ui_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen.ecore.ui_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen.ecore_2.3.1.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen.ecore_2.3.1.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen.ui_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen.ui_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.codegen_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.common.ui_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.common.ui_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.common_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.common_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.converter_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.converter_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.change.edit_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.change.edit_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.change_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.change_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.edit_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.edit_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.editor_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.editor_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.xmi_2.3.1.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore.xmi_2.3.1.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore_2.3.1.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.ecore_2.3.1.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.edit.ui_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.edit.ui_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.edit_2.3.1.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.edit_2.3.1.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.exporter_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.exporter_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.ecore_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.ecore_2.3.0.v200708072030/ant_tasks/importer.ecore.taskssrc.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.ecore_2.3.0.v200708072030/examples/library/build/codeGen.bat -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.ecore_2.3.0.v200708072030/examples/library/model/library.ecore -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.ecore_2.3.0.v200708072030/readme.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.ecore_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.java_2.3.1.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.java_2.3.1.v200708072030/ant_tasks/importer.java.taskssrc.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.java_2.3.1.v200708072030/examples/library/.classpath -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.java_2.3.1.v200708072030/examples/library/.project -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.java_2.3.1.v200708072030/examples/library/build/codeGen.bat -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.java_2.3.1.v200708072030/readme.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.java_2.3.1.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.rose_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.rose_2.3.0.v200708072030/ant_tasks/importer.rose.taskssrc.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.rose_2.3.0.v200708072030/examples/library/build/codeGen.bat -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.rose_2.3.0.v200708072030/examples/library/model/library.mdl -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.rose_2.3.0.v200708072030/readme.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer.rose_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.importer_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2ecore.editor_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2ecore.editor_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2ecore_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2ecore_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2xml.ui_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2xml.ui_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2xml_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ecore2xml_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ui_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping.ui_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping_2.3.0.v200708072030/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/emf/org.eclipse.emf.source_2.3.1.v200708072030/src/org.eclipse.emf.mapping_2.3.0.v200708072030/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.common.edit_1.3.0.v200706251652.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.common_1.3.1.v200707311200.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/META-INF/MANIFEST.MF -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/about.ini -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/about.mappings -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/modeling32.png -text svneol=unset#image/png
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.codegen.ecore.ui_1.3.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.codegen.ecore.ui_1.3.0.v200706251652/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.codegen.ecore_1.3.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.codegen.ecore_1.3.0.v200706251652/model/GenModel.mdl -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.codegen.ecore_1.3.0.v200706251652/model/org.eclipse.uml2.codegen.ecore.GenModel.cat -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.codegen.ecore_1.3.0.v200706251652/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.common.edit_1.3.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.common.edit_1.3.0.v200706251652/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.common_1.3.1.v200707311200/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.common_1.3.1.v200707311200/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.exporter_2.1.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.exporter_2.1.0.v200706251652/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.importer_2.1.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.importer_2.1.0.v200706251652/ant_tasks/uml2.uml.ecore.importer.taskssrc.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.importer_2.1.0.v200706251652/examples/library/build/codeGen.bat -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.importer_2.1.0.v200706251652/examples/library/model/library.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.importer_2.1.0.v200706251652/readme.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.ecore.importer_2.1.0.v200706251652/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.edit_2.1.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.edit_2.1.0.v200706251652/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.editor_2.1.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.editor_2.1.0.v200706251652/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml.resources_2.1.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/10536.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/10537.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/Ecore.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/Infrastructure.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/L0.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/L1.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/L2.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/L3.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/LM.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/Superstructure.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/UML.merged.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/UML.uml -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/model/UML2_2_UML.ecore2ecore -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/src.zip -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/templates/Header.javajetinc -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/templates/Header.propertiesjetinc -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2.uml_2.1.1.v200707311200/templates/Header.xmljetinc -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.source_2.1.1.v200707311200/src/org.eclipse.uml2_2.1.0.v200706251652/about.html -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.uml.edit_2.1.0.v200706251652.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.uml.resources_2.1.0.v200706251652.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/lib/uml2/org.eclipse.uml2.uml_2.1.1.v200707311200.jar -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/manifest.mf -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/0README.TXT -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/Infrastructure.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L0.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L0.merged.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L1.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L1.merged.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L2.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L2.merged.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L3.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/L3.merged.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/LM.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/LM.merged.cmof -text
+b00__1/tags/gsoc2007_deadline/model-euml/src/org/argouml/model/metamodels/uml211/Superstructure.cmof -text
+b00__1/tags/gsoc2007_deadline/model/.checkclipse -text
+b00__1/tags/gsoc2007_deadline/model/.classpath -text
+b00__1/tags/gsoc2007_deadline/model/.project -text
+b00__1/tags/gsoc2007_deadline/model/.settings/de.mvmsoft.checkclipse.prefs -text
+b00__1/tags/gsoc2007_deadline/model/.settings/org.eclipse.jdt.core.prefs -text
+b00__1/tags/gsoc2007_deadline/model/.settings/org.eclipse.jdt.ui.prefs -text
+b00__1/tags/gsoc2007_deadline/model/META-INF/MANIFEST.MF -text
+b00__1/tags/gsoc2007_deadline/model/src/org/argouml/model/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/.checkclipse -text
+b00__1/tags/gsoc2007_deadline/src_new/.classpath -text
+b00__1/tags/gsoc2007_deadline/src_new/.externalToolBuilders/argouml[!!-~]version[!!-~]and[!!-~]parsers.launch -text
+b00__1/tags/gsoc2007_deadline/src_new/.project -text
+b00__1/tags/gsoc2007_deadline/src_new/.settings/de.mvmsoft.checkclipse.prefs -text
+b00__1/tags/gsoc2007_deadline/src_new/.settings/org.eclipse.jdt.core.prefs -text
+b00__1/tags/gsoc2007_deadline/src_new/.settings/org.eclipse.jdt.ui.prefs -text
+b00__1/tags/gsoc2007_deadline/src_new/META-INF/MANIFEST.MF -text
+b00__1/tags/gsoc2007_deadline/src_new/bin/ArgoUML.ico -text
+b00__1/tags/gsoc2007_deadline/src_new/bin/argouml.bat -text
+b00__1/tags/gsoc2007_deadline/src_new/build.bat -text
+b00__1/tags/gsoc2007_deadline/src_new/build2.bat -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Abstraction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ActionExpression.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ActionSequence.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ActionState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Activity.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ActivityDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ActivityGraph.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Actor.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Add.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AddAttribute.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AddInternalTransition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AddMessage.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AddOperation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ArgoIcon.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Argument.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Association.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AssociationClass.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AssociationEnd.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AssociationEndRole.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AssociationInverse.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/AssociationRole.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Asynchronous.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Attribute.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/BooleanExpression.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Branch.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Broom.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CallAction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CallEvent.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CallState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ChangeEvent.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Choice.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Circle.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Class.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ClassDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ClassifierInState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ClassifierRole.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Collaboration.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CollaborationDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ComboNav.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Comment.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CommentLink.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Communication.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Component.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ComponentInstance.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CompositeAggregation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CompositeState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ConfigurePerspectives.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Constraint.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/CreateAction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DataType.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Decision.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DeepHistory.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Dependency.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DependencyRight.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DeploymentDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DestroyAction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DistributeHorizontalCenters.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DistributeHorizontalSpacing.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DistributeVerticalCenters.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/DistributeVerticalSpacing.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ElementImport.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ElementResidence.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Enumeration.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/EnumerationLiteral.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Event.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Exception.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Expression.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Extend.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Extends.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ExtensionPoint.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Favorites.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/FinalState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Find.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/FixItBack.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/FixItFinish.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/FixItNext.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Flat.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Flow.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Fork.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Generalization.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Guard.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Hierarchical.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Hush.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/HushCritic.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Importsources.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Include.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Inheritance.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/InheritanceInverse.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Initial.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/InnerClass.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/InputOutput.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Instance.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Interaction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Interface.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/InternalTransition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/IterationExpression.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/JavaNotation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Join.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Junction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Line.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Link.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/LinkEnd.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Message.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Method.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Model.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Multiplicity.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Multtrigger.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NavigateBack.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NavigateForward.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NavigateUp.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NavigateUpNext.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NavigateUpPrevious.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NewExtensionPoint.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NewParameter.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NewPerspective.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NewReception.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NewToDoItem.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Node.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NodeInstance.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NodeOne.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NodeTwo.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Note.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NudgeDown.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NudgeLeft.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NudgeRight.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/NudgeUp.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ObjDelete.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Object.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ObjectFlowState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/OpenProject.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Operation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Package.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ParallelTransition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Parameter.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Partition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Pattern.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Permission.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Polygon.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostIt0.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostIt100.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostIt25.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostIt50.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostIt75.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostIt99.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostItD0.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostItD100.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostItD25.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostItD50.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostItD75.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostItD99.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/PostItMulti.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ProcedureExpression.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Project.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/RRect.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Realization.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Reception.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Rectangle.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Recursion.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/RedDelete.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Refinement.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ResolveItem.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/RetMessage.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ReturnAction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SaveProject.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Select.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SelfAssociation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Self_del.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SendAction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SendEmailToExpert.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SequenceContract.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SequenceDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SequenceExpand.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ShallowHistory.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Signal.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SignalEvent.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SignalReceiving.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SignalSending.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SimpleState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SnoozeCritic.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Splash.png -text svneol=unset#image/png
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Spline.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Start.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/State.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StateDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StateMachine.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Stereotype.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Stimulus.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StimulusCall.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StimulusCreate.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StimulusDestroy.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StimulusReturn.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StimulusSend.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/StubState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SubactivityState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SubmachineState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Subsystem.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/SynchState.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Synchronous.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/TagDefinition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/TaggedValue.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/TerminateAction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Text.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/TimeEvent.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/TimeExpression.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ToBack.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/ToFront.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Trace.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Transition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/TransitionDown.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Trigger.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/UmlNotation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/UninterpretedAction.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Usage.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/UseCase.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/UseCaseDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Uses.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/Wiz.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/NavConfig.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/ActivityDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/ClassDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/CollaborationDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/DeploymentDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/Diagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/SequenceDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/StateDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/diagrams/UseCaseDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Aggregation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Association.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Class.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Composition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Dependency.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/DropDown.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Generalization.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Interface.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewAttribute.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewNote.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewOperation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Package.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Permission.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Realization.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/UniAggregation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/UniAssociation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/UniComposition.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Usage.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/AboutArgoUML.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/AddConcurrentRegion.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Copy.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Cut.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Delete.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/DeleteConcurrentRegion.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/DeleteFromDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/DeleteFromModel.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Find.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/ImportSources.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/New.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/OpenProject.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/PageSetup.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Paste.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Print.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Properties.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Redo.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/RemoveFromDiagram.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/SaveProject.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/SaveProjectAs.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Settings.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/SystemInformation.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Undo.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/ZoomIn.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/ZoomOut.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/ZoomReset.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateBack.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateForward.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateUp.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/application/api/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/application/events/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/application/helpers/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/application/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/application/security/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/argo.ini -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/cognitive/checklist/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/cognitive/checklist/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/cognitive/critics/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/cognitive/critics/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/cognitive/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/cognitive/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/configuration/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/default.xmi -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/doc-files/argologo-small.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/doc-files/argologo2.gif -text svneol=unset#image/gif
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/i18n/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/kernel/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/language/java/cognitive/critics/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/language/java/cognitive/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/language/java/generator/README -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/language/java/generator/java.g -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/language/java/generator/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/language/java/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/language/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/moduleloader/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/notation/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/notation/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/ocl/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/overview-api.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/overview-argo.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/pattern/cognitive/critics/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/pattern/cognitive/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/pattern/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/PGML.tee -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/argo.dtd -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/argo.tee -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/config.dtd -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/hist.dtd -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/log.dtd -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/pgml.dtd -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/registry.xsd -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/todo.dtd -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/todo.tee -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/upgrades/upgrade2.xsl -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/upgrades/upgrade3.xsl -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/upgrades/upgrade4.xsl -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/persistence/upgrades/upgrade5.xsl -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/config.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/critics.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/default.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/default_console.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/error.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/error_console.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/event.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/full.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/full_console.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/info_console.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/mdr.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/model.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/modeleventpump.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/module.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/notation.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/notation_plugin.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/security.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/resource/warn_console.lcf -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/swingext/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/ui/cmd/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/ui/explorer/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/ui/explorer/rules/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/ui/targetmanager/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/cognitive/checklist/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/cognitive/critics/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/cognitive/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/activity/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/activity/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/collaboration/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/collaboration/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/deployment/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/deployment/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/layout/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/sequence/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/sequence/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/state/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/state/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/static_structure/layout/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/static_structure/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/static_structure/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/use_case/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/diagram/use_case/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/generator/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/generator/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/reveng/java/java.g -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/reveng/java/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/reveng/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/behavior/activity_graphs/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/behavior/collaborations/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/behavior/common_behavior/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/behavior/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/behavior/state_machines/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/behavior/use_cases/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/foundation/core/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/foundation/extension_mechanisms/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/foundation/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/model_management/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/ui/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/uml/util/namespace/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/util/logging/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/util/osdep/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/util/osdep/win32/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/org/argouml/util/package.html -text
+b00__1/tags/gsoc2007_deadline/src_new/templates/ArgoVersion.template -text
+b00__1/tags/gsoc2007_deadline/src_new/templates/manifest.template -text
 b00__1/tests/.checkclipse -text
 b00__1/tests/.classpath -text
 b00__1/tests/.project -text
