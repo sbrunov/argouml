@@ -563,6 +563,13 @@ src_new/org/argouml/Images/AddAttribute.gif -text
 src_new/org/argouml/Images/AddInternalTransition.gif -text
 src_new/org/argouml/Images/AddMessage.gif -text
 src_new/org/argouml/Images/AddOperation.gif -text
+src_new/org/argouml/Images/AlignBottoms.gif -text
+src_new/org/argouml/Images/AlignHorizontalCenters.gif -text
+src_new/org/argouml/Images/AlignLefts.gif -text
+src_new/org/argouml/Images/AlignRights.gif -text
+src_new/org/argouml/Images/AlignToGrid.gif -text
+src_new/org/argouml/Images/AlignTops.gif -text
+src_new/org/argouml/Images/AlignVerticalCenters.gif -text
 src_new/org/argouml/Images/ArgoIcon.gif -text
 src_new/org/argouml/Images/Argument.gif -text
 src_new/org/argouml/Images/Association.gif -text
@@ -573,6 +580,7 @@ src_new/org/argouml/Images/AssociationInverse.gif -text
 src_new/org/argouml/Images/AssociationRole.gif -text
 src_new/org/argouml/Images/Asynchronous.gif -text
 src_new/org/argouml/Images/Attribute.gif -text
+src_new/org/argouml/Images/Backward.gif -text
 src_new/org/argouml/Images/BooleanExpression.gif -text
 src_new/org/argouml/Images/Branch.gif -text
 src_new/org/argouml/Images/Broom.gif -text
@@ -629,6 +637,7 @@ src_new/org/argouml/Images/FixItNext.gif -text
 src_new/org/argouml/Images/Flat.gif -text
 src_new/org/argouml/Images/Flow.gif -text
 src_new/org/argouml/Images/Fork.gif -text
+src_new/org/argouml/Images/Forward.gif -text
 src_new/org/argouml/Images/Generalization.gif -text
 src_new/org/argouml/Images/Guard.gif -text
 src_new/org/argouml/Images/Hierarchical.gif -text
