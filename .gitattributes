@@ -510,16 +510,7 @@ src/model-euml/ArgoUML[!!-~]UML2-EUML[!!-~]debug.launch -text
 src/model-euml/META-INF/MANIFEST.MF -text
 src/model-euml/build.bat -text
 src/model-euml/build2.bat -text
-src/model-euml/lib/org.eclipse.emf.common_2.3.0.v200703080200.jar -text
-src/model-euml/lib/org.eclipse.emf.ecore.change_2.3.0.v200706262000.jar -text
-src/model-euml/lib/org.eclipse.emf.ecore.xmi_2.3.0.v200703080200.jar -text
-src/model-euml/lib/org.eclipse.emf.ecore_2.3.0.v200703080200.jar -text
-src/model-euml/lib/org.eclipse.emf.edit_2.3.0.v200706262000.jar -text
-src/model-euml/lib/org.eclipse.emf.mapping.ecore2xml_2.3.0.v200706262000.jar -text
-src/model-euml/lib/org.eclipse.uml2.common.edit_1.3.0.v200706251652.jar -text
-src/model-euml/lib/org.eclipse.uml2.common_1.3.0.v200703011358.jar -text
-src/model-euml/lib/org.eclipse.uml2.uml.resources_2.1.0.v200706251652.jar -text
-src/model-euml/lib/org.eclipse.uml2.uml_2.1.0.v200703011358.jar -text
+src/model-euml/lib/eUML[!!-~]required[!!-~]plugins.txt -text
 src/model-euml/src/manifest.mf -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/0README.TXT -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/Infrastructure.cmof -text
