@@ -547,6 +547,8 @@ src/model-mdr/src/org/argouml/model/mdr/profiles/andromda-profile-32-noextension
 src/model-mdr/tools/lib/mdrant-patched.jar -text
 src/model-mdr/tools/lib/mdrant.jar -text
 src/model/.settings/de.mvmsoft.checkclipse.prefs -text
+src/model/src/org/argouml/model/CommandStack.java -text
+src/model/src/org/argouml/model/DefaultCommandStack.java -text
 src/model/src/org/argouml/model/XmiException.java -text
 src_new/.settings/de.mvmsoft.checkclipse.prefs -text
 src_new/bin/ArgoUML.ico -text
