@@ -526,6 +526,9 @@ src/model-euml/lib/uml2/org.eclipse.uml2.uml.edit_2.1.0.v200706251652.jar -text
 src/model-euml/lib/uml2/org.eclipse.uml2.uml.resources_2.1.0.v200706251652.jar -text
 src/model-euml/lib/uml2/org.eclipse.uml2.uml_2.1.1.v200707311200.jar -text
 src/model-euml/src/manifest.mf -text
+src/model-euml/src/org/argouml/model/euml/ChangeCommand.java -text
+src/model-euml/src/org/argouml/model/euml/CommandStackImpl.java -text
+src/model-euml/src/org/argouml/model/euml/UMLUtil.java -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/0README.TXT -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/Infrastructure.cmof -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/L0.cmof -text
