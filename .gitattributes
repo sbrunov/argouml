@@ -728,6 +728,7 @@ src_new/org/argouml/Images/Reception.gif -text
 src_new/org/argouml/Images/Rectangle.gif -text
 src_new/org/argouml/Images/Recursion.gif -text
 src_new/org/argouml/Images/RedDelete.gif -text
+src_new/org/argouml/Images/Redo.gif -text
 src_new/org/argouml/Images/Refinement.gif -text
 src_new/org/argouml/Images/ResolveItem.gif -text
 src_new/org/argouml/Images/RetMessage.gif -text
@@ -780,6 +781,7 @@ src_new/org/argouml/Images/Transition.gif -text
 src_new/org/argouml/Images/TransitionDown.gif -text
 src_new/org/argouml/Images/Trigger.gif -text
 src_new/org/argouml/Images/UmlNotation.gif -text
+src_new/org/argouml/Images/Undo.gif -text
 src_new/org/argouml/Images/UninterpretedAction.gif -text
 src_new/org/argouml/Images/Usage.gif -text
 src_new/org/argouml/Images/UseCase.gif -text
