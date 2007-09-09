@@ -849,6 +849,7 @@ src_new/org/argouml/application/api/Predicate.java -text
 src_new/org/argouml/application/events/ArgoDiagramAppearanceEventListener.java -text svneol=native#unset
 src_new/org/argouml/doc-files/argologo-small.gif -text
 src_new/org/argouml/doc-files/argologo2.gif -text
+src_new/org/argouml/kernel/Command.java -text svneol=native#unset
 src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
