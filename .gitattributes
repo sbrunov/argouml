@@ -553,7 +553,6 @@ src/model-mdr/src/org/argouml/model/mdr/profiles/README.txt -text
 src/model-mdr/src/org/argouml/model/mdr/profiles/andromda-profile-31.xmi -text
 src/model-mdr/src/org/argouml/model/mdr/profiles/andromda-profile-32-noextensions.xmi -text
 src/model-mdr/tools/lib/mdrant-patched.jar -text
-src/model-mdr/tools/lib/mdrant.jar -text
 src/model/.settings/de.mvmsoft.checkclipse.prefs -text
 src/model/src/org/argouml/model/CommandStack.java -text
 src/model/src/org/argouml/model/DefaultCommandStack.java -text
