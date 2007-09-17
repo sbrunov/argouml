@@ -895,6 +895,7 @@ tests/testmodels/uml14/EmptyProject024.zargo -text
 tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
 tests/testmodels/uml14/LinkedProfile.zargo -text
 tests/testmodels/uml14/SequenceDiagram.zargo -text
+tests/testmodels/uml14/i18n.zargo -text
 tools/apache-ant-1.7.0/INSTALL -text
 tools/apache-ant-1.7.0/KEYS -text
 tools/apache-ant-1.7.0/LICENSE -text
