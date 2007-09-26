@@ -846,6 +846,7 @@ src_new/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarB
 src_new/org/argouml/application/SubsystemUtility.java -text
 src_new/org/argouml/application/api/Predicate.java -text
 src_new/org/argouml/application/events/ArgoDiagramAppearanceEventListener.java -text svneol=native#unset
+src_new/org/argouml/default-cpp.xmi -text
 src_new/org/argouml/default-java.xmi -text
 src_new/org/argouml/default-uml14.xmi -text
 src_new/org/argouml/doc-files/argologo-small.gif -text
