@@ -863,6 +863,7 @@ src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
 src_new/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
+src_new/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
 src_new/org/argouml/uml/diagram/ui/FigProfileIcon.java -text
 src_new/org/argouml/uml/generator/TempFileUtils.java -text
 src_new/org/argouml/uml/profile/DefaultTypeStrategy.java -text
