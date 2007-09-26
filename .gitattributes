@@ -856,6 +856,7 @@ src_new/org/argouml/taskmgmt/ProgressMonitor.java -text
 src_new/org/argouml/ui/SettingsTabProfile.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustGrid.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustSnap.java -text
+src_new/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java -text
