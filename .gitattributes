@@ -857,11 +857,16 @@ src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/taskmgmt/ProgressMonitor.java -text
+src_new/org/argouml/ui/ProfileSelectionTab.java -text
 src_new/org/argouml/ui/ProjectSettingsTabProfile.java -text
 src_new/org/argouml/ui/SettingsTabProfile.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustGrid.java -text
 src_new/org/argouml/ui/cmd/ActionAdjustSnap.java -text
 src_new/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
+src_new/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
+src_new/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
+src_new/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
+src_new/org/argouml/uml/cognitive/critics/CrProfile.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java -text
@@ -869,6 +874,7 @@ src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
 src_new/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
 src_new/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
+src_new/org/argouml/uml/diagram/ui/ActionAddStereotype.java -text
 src_new/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
 src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java -text
 src_new/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
