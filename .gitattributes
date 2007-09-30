@@ -1409,6 +1409,10 @@ www/newsite/faq/images/example3.gif -text
 www/newsite/fullshapes.gif -text
 www/newsite/images/argologo_small_lines.gif -text
 www/proposals/installation/settings.jpg -text
+www/proposals/license/index.html -text
+www/proposals/license/javalic.txt -text
+www/proposals/license/textlic.txt -text
+www/proposals/license/xmllic.txt -text
 www/proposals/sequencediagrams/index.html -text
 www/proposals/uml_profiles/AllProfiles.gif -text
 www/proposals/uml_profiles/profile.zargo -text
