@@ -1113,6 +1113,9 @@ tools/classycle/images/logo.png -text
 tools/classycle/images/mix.png -text
 tools/classycle/images/mixedCycleLink.png -text
 tools/classycle/images/package.png -text
+tools/cruisecontrol/build-argouml.xml -text
+tools/cruisecontrol/config.xml -text
+tools/cruisecontrol/emailmap.properties -text
 tools/eclipse/ArgoUML.launch -text
 tools/eclipse/argoeclipse_projectset.psf -text
 tools/eclipse/argoprint_projectset.psf -text
