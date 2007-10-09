@@ -1077,6 +1077,27 @@ tools/apache-ant-1.7.0/lib/ant.jar -text
 tools/apache-ant-1.7.0/lib/xercesImpl.jar -text
 tools/apache-ant-1.7.0/lib/xml-apis.jar -text
 tools/bin/modelImplementationGenerator.sh -text
+tools/checkstyle-4.3/LICENSE -text
+tools/checkstyle-4.3/LICENSE.apache -text
+tools/checkstyle-4.3/LICENSE.apache20 -text
+tools/checkstyle-4.3/README -text
+tools/checkstyle-4.3/RIGHTS.antlr -text
+tools/checkstyle-4.3/antlr.jar -text
+tools/checkstyle-4.3/build.xml -text
+tools/checkstyle-4.3/checkstyle-4.3.jar -text
+tools/checkstyle-4.3/checkstyle-all-4.3.jar -text
+tools/checkstyle-4.3/checkstyle-optional-4.3.jar -text
+tools/checkstyle-4.3/checkstyle_checks.xml -text
+tools/checkstyle-4.3/commons-beanutils-core.jar -text
+tools/checkstyle-4.3/commons-cli.jar -text
+tools/checkstyle-4.3/commons-collections.jar -text
+tools/checkstyle-4.3/commons-logging.jar -text
+tools/checkstyle-4.3/import-control.xml -text
+tools/checkstyle-4.3/java.header -text
+tools/checkstyle-4.3/pom-optional.xml -text
+tools/checkstyle-4.3/pom.xml -text
+tools/checkstyle-4.3/sun_checks.xml -text
+tools/checkstyle-4.3/suppressions.xml -text
 tools/checkstyle/checkclipse.filefilters -text svneol=unset#application/octet-stream
 tools/classycle/classycle.jar -text
 tools/classycle/images/abstract.png -text
