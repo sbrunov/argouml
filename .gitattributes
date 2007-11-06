@@ -852,6 +852,22 @@ src_new/org/argouml/default-uml14.xmi -text
 src_new/org/argouml/doc-files/argologo-small.gif -text
 src_new/org/argouml/doc-files/argologo2.gif -text
 src_new/org/argouml/persistence/ProfileConfigurationFilePersister.java -text
+src_new/org/argouml/profile/DefaultTypeStrategy.java -text
+src_new/org/argouml/profile/FigNodeStrategy.java -text
+src_new/org/argouml/profile/FormatingStrategy.java -text
+src_new/org/argouml/profile/Profile.java -text
+src_new/org/argouml/profile/ProfileException.java -text
+src_new/org/argouml/profile/ProfileManager.java -text
+src_new/org/argouml/profile/internal/FileModelLoader.java -text
+src_new/org/argouml/profile/internal/JavaFormatingStrategy.java -text
+src_new/org/argouml/profile/internal/ModelUtils.java -text
+src_new/org/argouml/profile/internal/ProfileJava.java -text
+src_new/org/argouml/profile/internal/ProfileManagerImpl.java -text
+src_new/org/argouml/profile/internal/ProfileModelLoader.java -text
+src_new/org/argouml/profile/internal/ProfileUML.java -text
+src_new/org/argouml/profile/internal/ResourceModelLoader.java -text
+src_new/org/argouml/profile/internal/StreamModelLoader.java -text
+src_new/org/argouml/profile/internal/UserDefinedProfile.java -text
 src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
