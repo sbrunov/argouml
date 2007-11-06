@@ -868,6 +868,7 @@ src_new/org/argouml/profile/internal/ProfileUML.java -text
 src_new/org/argouml/profile/internal/ResourceModelLoader.java -text
 src_new/org/argouml/profile/internal/StreamModelLoader.java -text
 src_new/org/argouml/profile/internal/UserDefinedProfile.java -text
+src_new/org/argouml/profile/package.html -text
 src_new/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src_new/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
