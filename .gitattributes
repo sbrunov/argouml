@@ -1180,6 +1180,8 @@ tools/pmd-4.0/etc/xslt/wz-pmd-report.xslt -text
 tools/pmd-4.0/lib/asm-3.0.jar -text
 tools/pmd-4.0/lib/jaxen-1.1.jar -text
 tools/pmd-4.0/lib/pmd-4.0.jar -text
+www/bios/linus.html -text
+www/bios/linus.jpg -text svneol=unset#image/jpeg
 www/docs/allegrini_dissertation/tesi_en.pdf -text
 www/docs/max_talanov_2007/index.html -text
 www/docs/max_talanov_2007/intro.net.pdf -text
