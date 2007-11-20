@@ -927,6 +927,7 @@ src_new/org/argouml/uml/reveng/Setting.java -text
 src_new/org/argouml/uml/reveng/SettingUniqueSelection.java -text
 src_new/org/argouml/uml/reveng/SettingsTypes.java -text
 src_new/org/argouml/uml/reveng/java/ParameterDeclaration.java -text
+src_new/org/argouml/uml/ui/AbstractActionAddModelElement2.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpNextDown.java -text
 src_new/org/argouml/uml/ui/ActionNavigateUpPreviousDown.java -text
 src_new/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java -text
