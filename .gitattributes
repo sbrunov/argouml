@@ -938,6 +938,7 @@ src_new/org/argouml/util/SingleElementIterator.java -text
 src_new/org/argouml/util/ToolBarUtility.java -text
 tests/.settings/de.mvmsoft.checkclipse.prefs -text
 tests/Model[!!-~]all[!!-~]tests.launch -text
+tests/org/argouml/kernel/TestProjectWithProfiles.java -text
 tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
 tests/org/argouml/profile/internal/package.html -text
 tests/org/argouml/profile/package.html -text
