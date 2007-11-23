@@ -108,7 +108,6 @@ src_new/org/argouml/uml/ui/model_management/*.class
 src_new/org/argouml/util/*.class
 src_new/org/argouml/util/logging/*.class
 src_new/org/argouml/util/osdep/*.class
-src_new/org/argouml/util/osdep/win32/*.class
 tests/testmodels/01-12-02.xml
 tests/testmodels/Model.dtd
 tools/lib/jimi-1.0.jar
