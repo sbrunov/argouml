@@ -12,8 +12,6 @@ documentation/cookbook/*.hs
 documentation/cookbook/*.jhm
 documentation/docbook-setup/*.zip
 documentation/docbook-setup/docbook-xsl-1.60.1
-documentation/faq/*.hs
-documentation/faq/*.jhm
 documentation/local-*.bat
 documentation/local-*.sh
 documentation/manual/*.hs

@@ -1,5 +1,4 @@
 * text=auto !eol
-documentation/cookbook/components.zargo -text
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/issueprocess.zargo -text
 documentation/cookbook/layers.zargo -text
