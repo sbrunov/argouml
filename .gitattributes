@@ -494,6 +494,7 @@ lib/javadocs/j2se150/package-list -text
 lib/log4j-1.2.6.jar -text
 lib/ocl-argo-1.1.jar -text
 lib/swidgets-0.1.4.jar -text
+lib/toolbar-1.4.1-20071227.jar -text
 lib/toolbar-1.4.jar -text
 modules/dev/.settings/de.mvmsoft.checkclipse.prefs -text
 modules/dev/ArgoUML[!!-~]dev.launch -text
