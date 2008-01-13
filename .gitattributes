@@ -1,483 +1,295 @@
 * text=auto !eol
 documentation/cookbook/cookbook.zargo -text
+documentation/cookbook/images/callouts/1.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/10.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/2.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/3.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/4.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/5.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/6.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/7.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/8.png -text svneol=unset#image/png
+documentation/cookbook/images/callouts/9.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/Application.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/ComponentDiagram.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/IssueBigPicture.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/Languages.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/Layer0.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/Layer2.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/Layer3.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/critics.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/dependency-persistence.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/eventsafterpump.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/eventsbeforepump.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/explorer-architecture.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/external.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/multieditorpane.gif -text svneol=unset#image/gif
+documentation/cookbook/images/cookbook/notation1.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/notation2.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/notation3.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/subsystem-ui.png -text svneol=unset#image/png
+documentation/cookbook/images/examples/example1.gif -text svneol=unset#image/gif
+documentation/cookbook/images/examples/example2.gif -text svneol=unset#image/gif
+documentation/cookbook/images/examples/example3.gif -text svneol=unset#image/gif
+documentation/cookbook/images/note.png -text svneol=unset#image/png
+documentation/cookbook/images/screenshots/argocogcriticsreduced.png -text svneol=unset#image/png
+documentation/cookbook/images/tip.png -text svneol=unset#image/png
+documentation/cookbook/images/warning.png -text svneol=unset#image/png
 documentation/cookbook/issueprocess.zargo -text
 documentation/cookbook/layers.zargo -text
 documentation/cookbook/notation.zargo -text
-documentation/images/argouml.svg -text
-documentation/images/callouts/1.png -text
-documentation/images/callouts/10.png -text
-documentation/images/callouts/2.png -text
-documentation/images/callouts/3.png -text
-documentation/images/callouts/4.png -text
-documentation/images/callouts/5.png -text
-documentation/images/callouts/6.png -text
-documentation/images/callouts/7.png -text
-documentation/images/callouts/8.png -text
-documentation/images/callouts/9.png -text
-documentation/images/caution.gif -text
-documentation/images/caution.png -text
-documentation/images/caution.tif -text
-documentation/images/cookbook/Application.gif -text
-documentation/images/cookbook/ComponentDiagram.gif -text
-documentation/images/cookbook/IssueBigPicture.gif -text
-documentation/images/cookbook/Languages.gif -text
-documentation/images/cookbook/Layer0.gif -text
-documentation/images/cookbook/Layer1.gif -text
-documentation/images/cookbook/Layer2.gif -text
-documentation/images/cookbook/Layer3.gif -text
-documentation/images/cookbook/big.gif -text
-documentation/images/cookbook/classes-navigatortree.gif -text
-documentation/images/cookbook/critics.gif -text
-documentation/images/cookbook/dependency-persistence.png -text svneol=unset#image/png
-documentation/images/cookbook/eventsafterpump.gif -text
-documentation/images/cookbook/eventsbeforepump.gif -text
-documentation/images/cookbook/explorer-architecture.gif -text
-documentation/images/cookbook/external.png -text svneol=unset#image/png
-documentation/images/cookbook/multieditorpane.gif -text
-documentation/images/cookbook/notation1.png -text
-documentation/images/cookbook/notation2.png -text
-documentation/images/cookbook/notation3.png -text svneol=unset#image/png
-documentation/images/cookbook/small.gif -text
-documentation/images/cookbook/subsystem-ui.png -text svneol=unset#image/png
-documentation/images/examples/example1.gif -text
-documentation/images/examples/example2.gif -text
-documentation/images/examples/example3.gif -text
-documentation/images/home.png -text
-documentation/images/icons/action_state.gif -text
-documentation/images/icons/activity_diagram.gif -text
-documentation/images/icons/actor.gif -text
-documentation/images/icons/aggregation_plain.gif -text
-documentation/images/icons/align_bottoms.gif -text
-documentation/images/icons/align_horizontal_centers.gif -text
-documentation/images/icons/align_lefts.gif -text
-documentation/images/icons/align_rights.gif -text
-documentation/images/icons/align_to_grid.gif -text
-documentation/images/icons/align_tops.gif -text
-documentation/images/icons/align_vertical_centers.gif -text
-documentation/images/icons/association.gif -text
-documentation/images/icons/association_end.gif -text
-documentation/images/icons/association_end_role.gif -text
-documentation/images/icons/association_plain.gif -text
-documentation/images/icons/association_role.gif -text
-documentation/images/icons/associationclass.gif -text
-documentation/images/icons/attribute.gif -text
-documentation/images/icons/backward.gif -text
-documentation/images/icons/branch.gif -text
-documentation/images/icons/broom.gif -text
-documentation/images/icons/call_action.gif -text
-documentation/images/icons/call_event.gif -text
-documentation/images/icons/callstate.gif -text
-documentation/images/icons/cancel_edit_constraint.gif -text
-documentation/images/icons/check_constraint.gif -text
-documentation/images/icons/circle.gif -text
-documentation/images/icons/class.gif -text
-documentation/images/icons/class_diagram.gif -text
-documentation/images/icons/classifier_role.gif -text
-documentation/images/icons/classifierrole.gif -text
-documentation/images/icons/classifierrole_sd.gif -text
-documentation/images/icons/collaboration_diagram.gif -text
-documentation/images/icons/commentlink.gif -text
-documentation/images/icons/component.gif -text
-documentation/images/icons/component_instance.gif -text
-documentation/images/icons/composite_state.gif -text
-documentation/images/icons/composition_plain.gif -text
-documentation/images/icons/concurrent_region.gif -text
-documentation/images/icons/configure_constraints.gif -text
-documentation/images/icons/constraints_left.gif -text
-documentation/images/icons/constraints_right.gif -text
-documentation/images/icons/copy.gif -text
-documentation/images/icons/create_action.gif -text
-documentation/images/icons/cut.gif -text
-documentation/images/icons/datatype.gif -text
-documentation/images/icons/deep_history.gif -text
-documentation/images/icons/delete_constraint.gif -text
-documentation/images/icons/delete_from_model.gif -text
-documentation/images/icons/dependency.gif -text
-documentation/images/icons/deployment_diagram.gif -text
-documentation/images/icons/destroy_action.gif -text
-documentation/images/icons/details_files.gif -text
-documentation/images/icons/distribute_horizontal_centers.gif -text
-documentation/images/icons/distribute_horizontal_spacing.gif -text
-documentation/images/icons/distribute_vertical_centers.gif -text
-documentation/images/icons/distribute_vertical_spacing.gif -text
-documentation/images/icons/edit_constraint.gif -text
-documentation/images/icons/enumeration.gif -text
-documentation/images/icons/enumeration_literal.gif -text
-documentation/images/icons/extend.gif -text
-documentation/images/icons/extension_point.gif -text
-documentation/images/icons/final_state.gif -text
-documentation/images/icons/find.gif -text
-documentation/images/icons/flat.gif -text
-documentation/images/icons/folder.gif -text
-documentation/images/icons/fork.gif -text
-documentation/images/icons/forward.gif -text
-documentation/images/icons/generalization.gif -text
-documentation/images/icons/guard.gif -text
-documentation/images/icons/hierarchical.gif -text
-documentation/images/icons/hierarchy_closed.gif -text
-documentation/images/icons/hierarchy_open.gif -text
-documentation/images/icons/home.gif -text
-documentation/images/icons/import_sources.gif -text
-documentation/images/icons/include.gif -text
-documentation/images/icons/initial_state.gif -text
-documentation/images/icons/ink.gif -text
-documentation/images/icons/inner_class.gif -text
-documentation/images/icons/interface.gif -text
-documentation/images/icons/java_notation.gif -text
-documentation/images/icons/join.gif -text
-documentation/images/icons/junction.gif -text
-documentation/images/icons/line.gif -text
-documentation/images/icons/link.gif -text
-documentation/images/icons/list_files.gif -text
-documentation/images/icons/message.gif -text
-documentation/images/icons/nav_config.gif -text
-documentation/images/icons/navigate_back.gif -text
-documentation/images/icons/navigate_forward.gif -text
-documentation/images/icons/navigate_stereotype.gif -text
-documentation/images/icons/navigate_type.gif -text
-documentation/images/icons/navigate_up.gif -text
-documentation/images/icons/navigate_up_next.gif -text
-documentation/images/icons/navigate_up_previous.gif -text
-documentation/images/icons/new.gif -text
-documentation/images/icons/new_constraint.gif -text
-documentation/images/icons/new_to_do_item.gif -text
-documentation/images/icons/node.gif -text
-documentation/images/icons/node_instance.gif -text
-documentation/images/icons/note.gif -text
-documentation/images/icons/nudge_down.gif -text
-documentation/images/icons/nudge_left.gif -text
-documentation/images/icons/nudge_right.gif -text
-documentation/images/icons/nudge_up.gif -text
-documentation/images/icons/object.gif -text
-documentation/images/icons/objectflowstate.gif -text
-documentation/images/icons/open_project.gif -text
-documentation/images/icons/operation.gif -text
-documentation/images/icons/package.gif -text
-documentation/images/icons/page_setup.gif -text
-documentation/images/icons/parameter.gif -text
-documentation/images/icons/paste.gif -text
-documentation/images/icons/permission.gif -text
-documentation/images/icons/polygon.gif -text
-documentation/images/icons/print.gif -text
-documentation/images/icons/property_delete.gif -text
-documentation/images/icons/realization.gif -text
-documentation/images/icons/reception.gif -text
-documentation/images/icons/rectangle.gif -text
-documentation/images/icons/redo.gif -text
-documentation/images/icons/remove_from_diagram.gif -text
-documentation/images/icons/resolve_item.gif -text
-documentation/images/icons/return_action.gif -text
-documentation/images/icons/rounded_rectangle.gif -text
-documentation/images/icons/save_project.gif -text
-documentation/images/icons/save_project_as.gif -text
-documentation/images/icons/select.gif -text
-documentation/images/icons/send_email.gif -text
-documentation/images/icons/sequence_contract.gif -text
-documentation/images/icons/sequence_diagram.gif -text
-documentation/images/icons/sequence_expand.gif -text
-documentation/images/icons/settings.gif -text
-documentation/images/icons/shallow_history.gif -text
-documentation/images/icons/signal.gif -text
-documentation/images/icons/snooze_critic.gif -text
-documentation/images/icons/spline.gif -text
-documentation/images/icons/state.gif -text
-documentation/images/icons/state_diagram.gif -text
-documentation/images/icons/stereotype.gif -text
-documentation/images/icons/stimulus_call.gif -text
-documentation/images/icons/stimulus_create.gif -text
-documentation/images/icons/stimulus_destroy.gif -text
-documentation/images/icons/stimulus_return.gif -text
-documentation/images/icons/stimulus_send.gif -text
-documentation/images/icons/stubstate.gif -text
-documentation/images/icons/submachinestate.gif -text
-documentation/images/icons/synchstate.gif -text
-documentation/images/icons/tag_definition.gif -text
-documentation/images/icons/text.gif -text
-documentation/images/icons/to_back.gif -text
-documentation/images/icons/to_front.gif -text
-documentation/images/icons/transition.gif -text
-documentation/images/icons/uml_notation.gif -text
-documentation/images/icons/undo.gif -text
-documentation/images/icons/up_directory.gif -text
-documentation/images/icons/usage.gif -text
-documentation/images/icons/use_case.gif -text
-documentation/images/icons/use_case_diagram.gif -text
-documentation/images/icons/zoom.gif -text
-documentation/images/important.gif -text
-documentation/images/important.png -text
-documentation/images/important.tif -text
-documentation/images/navigation/Copy[!!-~]of[!!-~]ico_favorites.gif -text
-documentation/images/navigation/Copy[!!-~]of[!!-~]ico_favorites_over.gif -text
-documentation/images/navigation/caution.gif -text
-documentation/images/navigation/ico_back.gif -text
-documentation/images/navigation/ico_back_over.gif -text
-documentation/images/navigation/ico_favorites.gif -text
-documentation/images/navigation/ico_favorites_over.gif -text
-documentation/images/navigation/ico_forward.gif -text
-documentation/images/navigation/ico_forward_over.gif -text
-documentation/images/navigation/ico_home.gif -text
-documentation/images/navigation/ico_home_over.gif -text
-documentation/images/navigation/ico_mail.gif -text
-documentation/images/navigation/ico_mail_over.gif -text
-documentation/images/navigation/ico_ol.gif -text
-documentation/images/navigation/ico_ol2.gif -text
-documentation/images/navigation/ico_owa.gif -text
-documentation/images/navigation/ico_owa2.gif -text
-documentation/images/navigation/ico_print.gif -text
-documentation/images/navigation/ico_print_over.gif -text
-documentation/images/navigation/important.gif -text
-documentation/images/navigation/new_tiny.gif -text
-documentation/images/navigation/tip.gif -text
-documentation/images/navigation/warning.gif -text
-documentation/images/next.png -text
-documentation/images/note.gif -text
-documentation/images/note.png -text
-documentation/images/note.tif -text
-documentation/images/prev.png -text
-documentation/images/reference/activity_diagram.gif -text
-documentation/images/reference/build_house.png -text
-documentation/images/reference/class_diagram.gif -text
-documentation/images/reference/classdiagram-datatypes.png -text svneol=unset#image/png
-documentation/images/reference/classdiagram-stereotype-definition.png -text svneol=unset#image/png
-documentation/images/reference/collaboration_diagram.gif -text
-documentation/images/reference/component_diagram.gif -text
-documentation/images/reference/confirm_remove.png -text
-documentation/images/reference/deployment_diagram.gif -text
-documentation/images/reference/details_constraint_editor.png -text
-documentation/images/reference/details_constraints.png -text
-documentation/images/reference/details_constraints_dialog.png -text
-documentation/images/reference/details_documentation.png -text
-documentation/images/reference/details_new_to_do.png -text
-documentation/images/reference/details_pane.png -text
-documentation/images/reference/details_properties.png -text
-documentation/images/reference/details_resolve_to_do.png -text
-documentation/images/reference/details_source.png -text
-documentation/images/reference/details_source_cpp.png -text
-documentation/images/reference/details_style.png -text
-documentation/images/reference/details_style_colorpicker1.png -text
-documentation/images/reference/details_style_colorpicker2.png -text
-documentation/images/reference/details_style_colorpicker3.png -text
-documentation/images/reference/details_to_do.png -text
-documentation/images/reference/details_wizard.png -text
-documentation/images/reference/detpane_checklist.png -text
-documentation/images/reference/detpane_stereotype.png -text
-documentation/images/reference/discriminator_example.gif -text
-documentation/images/reference/edit_add_class_diagram.png -text
-documentation/images/reference/edit_association_tools.png -text
-documentation/images/reference/edit_broom1.png -text
-documentation/images/reference/edit_broom2.png -text
-documentation/images/reference/edit_broom3.png -text
-documentation/images/reference/edit_broom4.png -text
-documentation/images/reference/edit_graphical_tools.png -text
-documentation/images/reference/edit_selection_action_buttons1.png -text
-documentation/images/reference/edit_selection_action_buttons2.png -text
-documentation/images/reference/edit_selection_action_buttons3.png -text
-documentation/images/reference/edit_selection_action_buttons4.png -text
-documentation/images/reference/edit_selection_action_buttons5.png -text
-documentation/images/reference/edit_selection_action_buttons6.png -text
-documentation/images/reference/editing_pane.png -text
-documentation/images/reference/entclasshier.gif -text
-documentation/images/reference/gui_overview.png -text
-documentation/images/reference/menu_browse_critics.png -text
-documentation/images/reference/menu_buttons_on_selection.png -text
-documentation/images/reference/menu_design_goals.png -text
-documentation/images/reference/menu_design_issues.png -text
-documentation/images/reference/menu_diagram_exceeds_page.png -text
-documentation/images/reference/menu_dialog_confirm_new.png -text
-documentation/images/reference/menu_export_xmi.png -text
-documentation/images/reference/menu_find.png -text
-documentation/images/reference/menu_generate_dialog.png -text
-documentation/images/reference/menu_goto_diagram.png -text
-documentation/images/reference/menu_help.png -text
-documentation/images/reference/menu_help_system_info.png -text
-documentation/images/reference/menu_import_sources.png -text
-documentation/images/reference/menu_import_xmi.png -text
-documentation/images/reference/menu_open_project.png -text
-documentation/images/reference/menu_revert_to_saved.png -text
-documentation/images/reference/menu_save_changes.png -text
-documentation/images/reference/menu_settings.png -text
-documentation/images/reference/menu_settings_appearance.png -text
-documentation/images/reference/menu_settings_cpp.png -text
-documentation/images/reference/menu_settings_environment.png -text
-documentation/images/reference/menu_settings_notations.png -text
-documentation/images/reference/menu_settings_user.png -text
-documentation/images/reference/message_add_predecessors.png -text
-documentation/images/reference/navigator_pane.png -text
-documentation/images/reference/navigator_pane_panes.png -text
-documentation/images/reference/navigator_pane_perspectives.png -text
-documentation/images/reference/notation_association.png -text
-documentation/images/reference/notation_java.png -text
-documentation/images/reference/notation_uml.png -text
-documentation/images/reference/package_diagram.gif -text
-documentation/images/reference/properties-notations.gif -text
-documentation/images/reference/properties-user.gif -text
-documentation/images/reference/sequence_diagram.gif -text
-documentation/images/reference/signal_add_classifierrole_base.png -text
-documentation/images/reference/signal_add_context.png -text
-documentation/images/reference/signal_add_specification.png -text
-documentation/images/reference/solid_line.png -text
-documentation/images/reference/state_diagram.gif -text
-documentation/images/reference/state_diagram_artifacts1.png -text
-documentation/images/reference/todo_pane.png -text
-documentation/images/reference/toolbar_zoom_slider.png -text
-documentation/images/reference/use_case_diagram.gif -text
-documentation/images/reference/wavy_line.png -text
-documentation/images/screenshots/DetailsPaneScreen.gif -text
-documentation/images/screenshots/DiagramEditorScreen.gif -text
-documentation/images/screenshots/FileChooseDialog.gif -text
-documentation/images/screenshots/FolderDropdown.gif -text
-documentation/images/screenshots/FolderUpIcon.gif -text
-documentation/images/screenshots/FoldersPresentationIcon.gif -text
-documentation/images/screenshots/HomeFolderIcon.gif -text
-documentation/images/screenshots/LookatCriticsAdvice.gif -text
-documentation/images/screenshots/NavigatorPaneScreen.gif -text
-documentation/images/screenshots/NewFolderIcon.gif -text
-documentation/images/screenshots/Ports.png -text
-documentation/images/screenshots/ProjectSavedScreen.gif -text
-documentation/images/screenshots/RenamingTopPackage.gif -text
-documentation/images/screenshots/SaveAsCommand.gif -text
-documentation/images/screenshots/StartupScreen.gif -text
-documentation/images/screenshots/ToDoPaneScreen.gif -text
-documentation/images/screenshots/TreeFolderCloseIcon.gif -text
-documentation/images/screenshots/TreeFolderOpenIcon.gif -text
-documentation/images/screenshots/after[!!-~]import[!!-~]of[!!-~]mainargojava.png -text
-documentation/images/screenshots/anon_link_but_they_have_values.png -text
-documentation/images/screenshots/argoapi.png -text
-documentation/images/screenshots/argobadredrawinusecase.png -text
-documentation/images/screenshots/argocogchklist.png -text
-documentation/images/screenshots/argocogcritics.png -text
-documentation/images/screenshots/argocogcriticsreduced.png -text
-documentation/images/screenshots/argoconfig.png -text
-documentation/images/screenshots/argocritics.png -text
-documentation/images/screenshots/argogeneralizationbug.png -text
-documentation/images/screenshots/argokernel.png -text
-documentation/images/screenshots/argomain.png -text
-documentation/images/screenshots/argoocl.png -text
-documentation/images/screenshots/argopatterncritics.png -text
-documentation/images/screenshots/argoreveng.png -text
-documentation/images/screenshots/argoui.png -text
-documentation/images/screenshots/argoumlumls.png -text
-documentation/images/screenshots/argoutil.png -text
-documentation/images/screenshots/argowebpage.png -text
-documentation/images/screenshots/artifacts_created_erroneously.png -text
-documentation/images/screenshots/assc_not_easy_to_work_zith.png -text
-documentation/images/screenshots/assciaton[!!-~]links[!!-~]poorly[!!-~]matched.png -text
-documentation/images/screenshots/bad_class_diagram.png -text
-documentation/images/screenshots/badredraw.png -text
-documentation/images/screenshots/badredraw1.png -text
-documentation/images/screenshots/badredrawinnavpane.png -text
-documentation/images/screenshots/badredrawinnavpane1.png -text
-documentation/images/screenshots/badscrollmanifold.png -text
-documentation/images/screenshots/build[!!-~]error.jpg -text
-documentation/images/screenshots/cannot[!!-~]access[!!-~]end[!!-~]data.png -text
-documentation/images/screenshots/cannot[!!-~]save[!!-~]graphics.png -text
-documentation/images/screenshots/cannotremovediagram.png -text
-documentation/images/screenshots/cant[!!-~]select[!!-~]arrows[!!-~]on[!!-~]object[!!-~]in[!!-~]seq.png -text
-documentation/images/screenshots/cant_turn_off_multiple_email.png -text
-documentation/images/screenshots/chooseargomain.png -text
-documentation/images/screenshots/class_diagram_name[!!-~]does[!!-~]not[!!-~]appear[!!-~]in[!!-~]top[!!-~]right[!!-~]corner.png -text
-documentation/images/screenshots/collaborationerror.png -text
-documentation/images/screenshots/collaborationerrorbadredraw.png -text
-documentation/images/screenshots/collaborationerrorbadredrawaftersave.png -text
-documentation/images/screenshots/collaborationerrormult.png -text
-documentation/images/screenshots/compileprojectnetbeans.png -text
-documentation/images/screenshots/configsysforenvironmental[!!-~]space.png -text
-documentation/images/screenshots/confusing[!!-~]link[!!-~]names.png -text
-documentation/images/screenshots/constraint[!!-~]name[!!-~]does[!!-~]not[!!-~]appear.png -text
-documentation/images/screenshots/dbl_clicking_works_here.png -text
-documentation/images/screenshots/dead_help.png -text
-documentation/images/screenshots/delete[!!-~]does[!!-~]not[!!-~]work.png -text
-documentation/images/screenshots/dev_argo_email.png -text
-documentation/images/screenshots/diagramconnections.png -text
-documentation/images/screenshots/different_object_name.png -text
-documentation/images/screenshots/does[!!-~]not[!!-~]show[!!-~]diagram[!!-~]name[!!-~]dependably.png -text
-documentation/images/screenshots/does_not_show_atts.png -text
-documentation/images/screenshots/doesnt_show_attributes.png -text
-documentation/images/screenshots/ioexception.png -text
-documentation/images/screenshots/javeerrorafterclickingdebug.png -text
-documentation/images/screenshots/javeerrorafterclickingdebug1.png -text
-documentation/images/screenshots/javeerrorafterclickingdebug11.png -text
-documentation/images/screenshots/javeerrorafterclickingdebug111.png -text
-documentation/images/screenshots/jcvs111.png -text
-documentation/images/screenshots/jcvs2.png -text
-documentation/images/screenshots/little_number_in_corner.png -text
-documentation/images/screenshots/misnamed[!!-~]operation[!!-~]creates[!!-~]new[!!-~]class.png -text
-documentation/images/screenshots/mountexistingnetbeans.png -text
-documentation/images/screenshots/named[!!-~]link[!!-~]does[!!-~]not[!!-~]show[!!-~]connections.png -text
-documentation/images/screenshots/navigat_where.png -text
-documentation/images/screenshots/netbeanargo.png -text
-documentation/images/screenshots/netbeanfileexplorer.png -text
-documentation/images/screenshots/netbeanscvs1.png -text
-documentation/images/screenshots/netbeanscvs2.png -text
-documentation/images/screenshots/nice_to[!!-~]have[!!-~]a[!!-~]go[!!-~]to[!!-~]option[!!-~]here.png -text
-documentation/images/screenshots/no[!!-~]way[!!-~]to[!!-~]attacn[!!-~]notes[!!-~]to[!!-~]the[!!-~]classess.png -text
-documentation/images/screenshots/no_right_click_functions.png -text
-documentation/images/screenshots/objectcannotbemodified.png -text
-documentation/images/screenshots/possible[!!-~]to[!!-~]add[!!-~].or.[!!-~]message.png -text
-documentation/images/screenshots/removeerroronusecase.png -text
-documentation/images/screenshots/roll_over_description.png -text
-documentation/images/screenshots/rt_click_not_dependable.png -text
-documentation/images/screenshots/save[!!-~]space[!!-~]in[!!-~]work[!!-~]area.png -text
-documentation/images/screenshots/searchwindow_errors.png -text
-documentation/images/screenshots/send_email.png -text
-documentation/images/screenshots/svg3test.png -text
-documentation/images/screenshots/svgbaddraw.png -text
-documentation/images/screenshots/svgokdraw.png -text
-documentation/images/screenshots/turn_off_link.jpg -text
-documentation/images/screenshots/twopackagenodisplay.png -text
-documentation/images/screenshots/use[!!-~]case[!!-~]object[!!-~]behavior.jpg -text
-documentation/images/screenshots/use[!!-~]case[!!-~]still[!!-~]in[!!-~]nav[!!-~]pane[!!-~]after[!!-~]deletion.png -text
-documentation/images/screenshots/very_difficult_to_select_asscitions.png -text
-documentation/images/screenshots/what_are_those_red[!!-~]_lines.png -text
-documentation/images/screenshots/wheres[!!-~]the[!!-~]loop[!!-~]for[!!-~]the[!!-~]sequence.png -text
-documentation/images/screenshots/why[!!-~]is[!!-~]there[!!-~]a[!!-~]void[!!-~]class[!!-~]from[!!-~]a[!!-~]misnamed.png -text
-documentation/images/screenshots/wincvs.gif -text
-documentation/images/screenshots/wincvs1.gif -text
-documentation/images/screenshots/wincvs12preftab.png -text
-documentation/images/screenshots/wrap_text_to_make_it_easier_to_read.png -text
-documentation/images/tip.gif -text
-documentation/images/tip.png -text
-documentation/images/tip.tif -text
-documentation/images/tobeprovided.png -text
-documentation/images/toc-blank.png -text
-documentation/images/toc-minus.png -text
-documentation/images/toc-plus.png -text
-documentation/images/tutorial/atm_use_case_diagram_basic.gif -text
-documentation/images/tutorial/atm_use_case_diagram_extend.gif -text
-documentation/images/tutorial/atm_use_case_diagram_include.gif -text
-documentation/images/tutorial/atm_use_case_diagram_multiplicity.gif -text
-documentation/images/tutorial/atm_use_case_diagram_navigation.gif -text
-documentation/images/tutorial/critrevname.gif -text
-documentation/images/tutorial/critstart.gif -text
-documentation/images/tutorial/critwiz.gif -text
-documentation/images/tutorial/detailsoverview.gif -text
-documentation/images/tutorial/editoverview.gif -text
-documentation/images/tutorial/exploreroverview.gif -text
-documentation/images/tutorial/filechoose.gif -text
-documentation/images/tutorial/generalize.gif -text
-documentation/images/tutorial/guifolderdropdown.gif -text
-documentation/images/tutorial/guifolderspresentationicon.gif -text
-documentation/images/tutorial/guifolderupicon.gif -text
-documentation/images/tutorial/guihomefoldericon.gif -text
-documentation/images/tutorial/guinewfoldericon.gif -text
-documentation/images/tutorial/guioverview.gif -text
-documentation/images/tutorial/guitreefoldercloseicon.gif -text
-documentation/images/tutorial/guitreefolderopenicon.gif -text
-documentation/images/tutorial/if.gif -text
-documentation/images/tutorial/ifgen.gif -text
-documentation/images/tutorial/iftool.gif -text
-documentation/images/tutorial/iterative.png -text
-documentation/images/tutorial/langprob01.png -text
-documentation/images/tutorial/langprob02.png -text
-documentation/images/tutorial/saveas.gif -text
-documentation/images/tutorial/startup.gif -text
-documentation/images/tutorial/todooverview.gif -text
-documentation/images/tutorial/waterfall.png -text
-documentation/images/tutorial/waterfallsteps.png -text
-documentation/images/up.png -text
-documentation/images/warning.gif -text
-documentation/images/warning.png -text
-documentation/images/warning.tif -text
+documentation/manual/images/caution.png -text svneol=unset#image/png
+documentation/manual/images/icons/action_state.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/activity_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/actor.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/aggregation_plain.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/align_bottoms.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/align_horizontal_centers.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/align_lefts.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/align_rights.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/align_to_grid.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/align_tops.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/align_vertical_centers.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/association.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/association_end.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/association_end_role.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/association_plain.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/associationclass.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/attribute.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/backward.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/branch.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/broom.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/call_action.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/call_event.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/callstate.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/cancel_edit_constraint.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/check_constraint.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/circle.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/class.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/class_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/classifier_role.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/classifierrole_sd.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/collaboration_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/commentlink.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/component.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/component_instance.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/composite_state.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/composition_plain.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/concurrent_region.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/configure_constraints.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/constraints_left.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/constraints_right.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/create_action.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/datatype.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/deep_history.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/delete_constraint.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/delete_from_model.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/dependency.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/deployment_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/destroy_action.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/distribute_horizontal_centers.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/distribute_horizontal_spacing.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/distribute_vertical_centers.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/distribute_vertical_spacing.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/edit_constraint.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/enumeration.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/enumeration_literal.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/extend.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/extension_point.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/final_state.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/find.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/fork.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/forward.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/generalization.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/guard.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/hierarchy_closed.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/hierarchy_open.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/import_sources.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/include.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/initial_state.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/ink.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/inner_class.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/interface.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/java_notation.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/join.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/junction.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/line.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/link.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/message.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/nav_config.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/navigate_back.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/navigate_forward.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/navigate_stereotype.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/navigate_up.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/navigate_up_next.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/navigate_up_previous.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/new.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/new_constraint.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/new_to_do_item.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/node.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/node_instance.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/note.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/object.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/objectflowstate.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/open_project.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/operation.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/package.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/page_setup.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/parameter.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/permission.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/polygon.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/print.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/property_delete.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/realization.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/reception.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/rectangle.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/remove_from_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/resolve_item.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/return_action.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/rounded_rectangle.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/save_project.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/save_project_as.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/select.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/sequence_contract.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/sequence_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/sequence_expand.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/settings.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/shallow_history.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/signal.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/snooze_critic.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/spline.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/state.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/state_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/stereotype.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/stubstate.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/submachinestate.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/synchstate.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/tag_definition.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/text.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/to_back.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/to_front.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/transition.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/uml_notation.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/usage.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/use_case.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/use_case_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/zoom.gif -text svneol=unset#image/gif
+documentation/manual/images/important.png -text svneol=unset#image/png
+documentation/manual/images/note.png -text svneol=unset#image/png
+documentation/manual/images/reference/activity_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/build_house.png -text svneol=unset#image/png
+documentation/manual/images/reference/class_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/classdiagram-datatypes.png -text svneol=unset#image/png
+documentation/manual/images/reference/classdiagram-stereotype-definition.png -text svneol=unset#image/png
+documentation/manual/images/reference/collaboration_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/component_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/confirm_remove.png -text svneol=unset#image/png
+documentation/manual/images/reference/deployment_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/details_constraint_editor.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_constraints.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_constraints_dialog.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_documentation.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_new_to_do.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_pane.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_properties.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_resolve_to_do.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_source.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_source_cpp.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_style.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_style_colorpicker1.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_style_colorpicker2.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_style_colorpicker3.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_to_do.png -text svneol=unset#image/png
+documentation/manual/images/reference/details_wizard.png -text svneol=unset#image/png
+documentation/manual/images/reference/detpane_checklist.png -text svneol=unset#image/png
+documentation/manual/images/reference/detpane_stereotype.png -text svneol=unset#image/png
+documentation/manual/images/reference/discriminator_example.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/edit_add_class_diagram.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_association_tools.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_broom1.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_broom2.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_broom3.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_broom4.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_graphical_tools.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_selection_action_buttons1.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_selection_action_buttons2.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_selection_action_buttons3.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_selection_action_buttons4.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_selection_action_buttons5.png -text svneol=unset#image/png
+documentation/manual/images/reference/edit_selection_action_buttons6.png -text svneol=unset#image/png
+documentation/manual/images/reference/editing_pane.png -text svneol=unset#image/png
+documentation/manual/images/reference/entclasshier.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/gui_overview.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_browse_critics.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_design_goals.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_design_issues.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_diagram_exceeds_page.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_dialog_confirm_new.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_export_xmi.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_find.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_generate_dialog.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_goto_diagram.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_help.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_help_system_info.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_import_sources.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_import_xmi.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_open_project.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_revert_to_saved.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_save_changes.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_settings.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_settings_appearance.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_settings_cpp.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_settings_environment.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_settings_notations.png -text svneol=unset#image/png
+documentation/manual/images/reference/menu_settings_user.png -text svneol=unset#image/png
+documentation/manual/images/reference/message_add_predecessors.png -text svneol=unset#image/png
+documentation/manual/images/reference/navigator_pane.png -text svneol=unset#image/png
+documentation/manual/images/reference/navigator_pane_perspectives.png -text svneol=unset#image/png
+documentation/manual/images/reference/notation_association.png -text svneol=unset#image/png
+documentation/manual/images/reference/notation_java.png -text svneol=unset#image/png
+documentation/manual/images/reference/notation_uml.png -text svneol=unset#image/png
+documentation/manual/images/reference/package_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/properties-notations.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/properties-user.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/sequence_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/signal_add_classifierrole_base.png -text svneol=unset#image/png
+documentation/manual/images/reference/signal_add_context.png -text svneol=unset#image/png
+documentation/manual/images/reference/signal_add_specification.png -text svneol=unset#image/png
+documentation/manual/images/reference/solid_line.png -text svneol=unset#image/png
+documentation/manual/images/reference/state_diagram_artifacts1.png -text svneol=unset#image/png
+documentation/manual/images/reference/todo_pane.png -text svneol=unset#image/png
+documentation/manual/images/reference/toolbar_zoom_slider.png -text svneol=unset#image/png
+documentation/manual/images/reference/use_case_diagram.gif -text svneol=unset#image/gif
+documentation/manual/images/reference/wavy_line.png -text svneol=unset#image/png
+documentation/manual/images/tip.png -text svneol=unset#image/png
+documentation/manual/images/tutorial/atm_use_case_diagram_basic.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/atm_use_case_diagram_extend.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/atm_use_case_diagram_include.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/atm_use_case_diagram_multiplicity.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/atm_use_case_diagram_navigation.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/critrevname.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/critstart.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/critwiz.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/filechoose.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/generalize.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/guifolderdropdown.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/guifolderspresentationicon.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/guifolderupicon.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/guihomefoldericon.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/guinewfoldericon.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/guitreefoldercloseicon.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/guitreefolderopenicon.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/if.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/ifgen.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/iftool.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/iterative.png -text svneol=unset#image/png
+documentation/manual/images/tutorial/langprob01.png -text svneol=unset#image/png
+documentation/manual/images/tutorial/langprob02.png -text svneol=unset#image/png
+documentation/manual/images/tutorial/saveas.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/startup.gif -text svneol=unset#image/gif
+documentation/manual/images/tutorial/waterfall.png -text svneol=unset#image/png
+documentation/manual/images/tutorial/waterfallsteps.png -text svneol=unset#image/png
+documentation/manual/images/warning.png -text svneol=unset#image/png
 documentation/manual/models/Build-House.zargo -text
 documentation/manual/models/ClassDiagram-Datatypes.zargo -text
 documentation/manual/models/The[!!-~]Shapes[!!-~]Project.zargo -text
@@ -487,6 +299,8 @@ documentation/manual/models/diagrams.zargo -text
 documentation/manual/models/discriminator_example.zargo -text
 documentation/manual/models/requirements_tutorial.zargo -text
 documentation/manual/models/state-artifacts.zargo -text
+documentation/quick-guide/images/tip.png -text svneol=unset#image/png
+documentation/quick-guide/images/warning.png -text svneol=unset#image/png
 lib/antlrall-2.7.2.jar -text
 lib/commons-logging-1.0.2.jar -text
 lib/gef-0.12.4BETA.jar -text

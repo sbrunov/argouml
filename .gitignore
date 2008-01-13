@@ -16,8 +16,6 @@ documentation/local-*.bat
 documentation/local-*.sh
 documentation/manual/*.hs
 documentation/manual/*.jhm
-documentation/manual/images
-documentation/manual/imglist.txt
 documentation/quick-guide/*.hs
 documentation/quick-guide/*.jhm
 lib/*-src-*.jar
@@ -152,15 +150,6 @@ build/tests
 documentation/cookbook/cookbook.fo
 documentation/docbook-setup/docbook-xsl
 documentation/docbook-setup/docbook-xsl-1.66.1
-documentation/images/Thumbs.db
-documentation/images/callouts/Thumbs.db
-documentation/images/cookbook/Thumbs.db
-documentation/images/examples/Thumbs.db
-documentation/images/icons/Thumbs.db
-documentation/images/navigation/Thumbs.db
-documentation/images/reference/Thumbs.db
-documentation/images/screenshots/Thumbs.db
-documentation/images/tutorial/Thumbs.db
 documentation/manual/argomanual.fo
 documentation/quick-guide/quickguide.fo
 modules/dev/build
