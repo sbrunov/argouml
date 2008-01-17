@@ -477,6 +477,10 @@ branch1/documentation/images/up.png -text
 branch1/documentation/images/warning.gif -text
 branch1/documentation/images/warning.png -text
 branch1/documentation/images/warning.tif -text
+branch1/documentation/manual/appendix.case-study.xml -text
+branch1/documentation/manual/appendix.cpp-module.xml -text
+branch1/documentation/manual/chapter.introduction.xml -text
+branch1/documentation/manual/glossary.xml -text
 branch1/documentation/manual/models/Build-House.zargo -text
 branch1/documentation/manual/models/ClassDiagram-Datatypes.zargo -text
 branch1/documentation/manual/models/The[!!-~]Shapes[!!-~]Project.zargo -text
@@ -486,6 +490,10 @@ branch1/documentation/manual/models/diagrams.zargo -text
 branch1/documentation/manual/models/discriminator_example.zargo -text
 branch1/documentation/manual/models/requirements_tutorial.zargo -text
 branch1/documentation/manual/models/state-artifacts.zargo -text
+branch1/documentation/manual/part.model-reference.xml -text
+branch1/documentation/manual/part.tutorial.xml -text
+branch1/documentation/manual/part.ui-reference.xml -text
+branch1/documentation/manual/preface.xml -text
 branch1/lib/antlrall-2.7.2.jar -text
 branch1/lib/commons-logging-1.0.2.jar -text
 branch1/lib/gef-0.12.4M4.jar -text
