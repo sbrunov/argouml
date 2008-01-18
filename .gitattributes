@@ -1,4 +1,5 @@
 * text=auto !eol
+branch1/documentation/build-docbook5.xml -text
 branch1/documentation/cookbook/cookbook.zargo -text
 branch1/documentation/cookbook/issueprocess.zargo -text
 branch1/documentation/cookbook/layers.zargo -text
