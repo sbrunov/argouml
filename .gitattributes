@@ -364,6 +364,7 @@ src/model-mdr/lib/mof.jar -text
 src/model-mdr/lib/nbmdr.jar -text
 src/model-mdr/lib/openide-util.jar -text
 src/model-mdr/src/org/argouml/model/mdr/CollectionHelper.java -text
+src/model-mdr/tests/testmodels/test.xmi -text
 src/model-mdr/tools/lib/mdrant-patched.jar -text
 src/model/.settings/de.mvmsoft.checkclipse.prefs -text
 src/model/src/org/argouml/model/CommandStack.java -text
