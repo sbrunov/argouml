@@ -120,7 +120,6 @@ tools/lib/jimi-1.0.jar
 /\#
 /\#
 /\#
-modules/kaos/build
 src_new/*.log
 src_new/junit*.properties
 src_new/test.zargo
