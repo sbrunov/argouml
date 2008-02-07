@@ -917,9 +917,6 @@ tools/cruisecontrol/build-argouml.xml -text
 tools/cruisecontrol/config.xml -text
 tools/cruisecontrol/emailmap.properties -text
 tools/eclipse/ArgoUML.launch -text
-tools/eclipse/argoeclipse_projectset.psf -text
-tools/eclipse/argoprint_projectset.psf -text
-tools/eclipse/argouml-sequence.psf -text
 tools/fop-0.20.5/build/fop.jar -text
 tools/fop-0.20.5/lib/avalon-framework-cvs-20020806.jar -text
 tools/fop-0.20.5/lib/batik.jar -text
@@ -1266,6 +1263,9 @@ www/proposals/installation/settings.jpg -text
 www/proposals/sequencediagrams/index.html -text
 www/proposals/uml_profiles/AllProfiles.gif -text
 www/proposals/uml_profiles/profile.zargo -text
+www/psf/argoeclipse_projectset.psf -text
+www/psf/argoprint_projectset.psf -text
+www/psf/argouml-sequence.psf -text
 www/tours/Image1.gif -text svneol=unset#application/octet-stream
 www/tours/about.gif -text
 www/tours/aboutversion.gif -text
