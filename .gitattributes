@@ -682,6 +682,9 @@ src/app/tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
 src/app/tests/testmodels/uml14/LinkedProfile.zargo -text
 src/app/tests/testmodels/uml14/SequenceDiagram.zargo -text
 src/app/tests/testmodels/uml14/i18n.zargo -text
+src/infra/.classpath -text
+src/infra/.project -text
+src/infra/META-INF/MANIFEST.MF -text
 src/infra/lib/log4j-1.2.6.jar -text
 src/model-euml/.classpath -text
 src/model-euml/.project -text
