@@ -917,7 +917,6 @@ tools/classycle/images/package.png -text
 tools/cruisecontrol/build-argouml.xml -text
 tools/cruisecontrol/config.xml -text
 tools/cruisecontrol/emailmap.properties -text
-tools/eclipse/ArgoUML.launch -text
 tools/fop-0.20.5/build/fop.jar -text
 tools/fop-0.20.5/lib/avalon-framework-cvs-20020806.jar -text
 tools/fop-0.20.5/lib/batik.jar -text
