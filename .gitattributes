@@ -306,6 +306,11 @@ modules/dev/ArgoUML[!!-~]dev.launch -text
 modules/dev/src/org/argouml/dev/CallerListNodeBuilder.java -text
 modules/dev/src/org/argouml/dev/EventPumpInspectorPanel.java -text
 modules/jscheme/lib/jscheme.jar -text
+src/app/.classpath -text
+src/app/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
+src/app/.project -text
+src/app/ArgoUML.launch -text
+src/app/META-INF/MANIFEST.MF -text
 src/app/lib/antlrall-2.7.2.jar -text
 src/app/lib/commons-logging-1.0.2.jar -text
 src/app/lib/gef-0.12.4BETA.jar -text
