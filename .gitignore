@@ -169,6 +169,7 @@ src/model-mdr/bin
 src/model-mdr/build
 src/model-mdr/build-eclipse
 src/model-mdr/build/UML14.dtd
+src/model-mdr/build/classes
 src/model-mdr/build/java/javax
 src/model-mdr/build/java/mymdr.btd
 src/model-mdr/build/java/mymdr.btx

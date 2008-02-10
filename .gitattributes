@@ -728,6 +728,7 @@ src/model-euml/src/org/argouml/model/metamodels/uml211/L3.merged.cmof -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/LM.cmof -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/LM.merged.cmof -text
 src/model-euml/src/org/argouml/model/metamodels/uml211/Superstructure.cmof -text
+src/model-mdr/.externalToolBuilders/Generate[!!-~]MDR[!!-~]interfaces[!!-~]\[Builder\].launch -text
 src/model-mdr/lib/jmi.jar -text
 src/model-mdr/lib/jmiutils.jar -text
 src/model-mdr/lib/mdrapi.jar -text
