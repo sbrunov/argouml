@@ -168,6 +168,11 @@ src/model-mdr/argouml.log
 src/model-mdr/bin
 src/model-mdr/build
 src/model-mdr/build-eclipse
+src/model-mdr/build/UML14.dtd
+src/model-mdr/build/java/javax
+src/model-mdr/build/java/mymdr.btd
+src/model-mdr/build/java/mymdr.btx
+src/model-mdr/build/java/org
 src/model-mdr/tests/testmodels/01-12-02.xml
 src/model-mdr/tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 src/model-mdr/tests/testmodels/Model.dtd
