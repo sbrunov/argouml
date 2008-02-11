@@ -1270,6 +1270,10 @@ www/newsite/fullshapes.gif -text
 www/newsite/images/argologo_small_lines.gif -text
 www/proposals/installation/settings.jpg -text
 www/proposals/sequencediagrams/index.html -text
+www/proposals/svgart/argouml.ico -text
+www/proposals/svgart/argouml.png -text svneol=unset#image/png
+www/proposals/svgart/argouml2.svg -text
+www/proposals/svgart/argouml200.png -text svneol=unset#image/png
 www/proposals/uml_profiles/AllProfiles.gif -text
 www/proposals/uml_profiles/profile.zargo -text
 www/psf/argoeclipse_projectset.psf -text
