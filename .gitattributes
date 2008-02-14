@@ -1269,6 +1269,22 @@ www/newsite/faq/images/example2.gif -text
 www/newsite/faq/images/example3.gif -text
 www/newsite/fullshapes.gif -text
 www/newsite/images/argologo_small_lines.gif -text
+www/proposals/iconproposal/about_new1.png -text svneol=unset#image/png
+www/proposals/iconproposal/about_new1_sm.png -text svneol=unset#image/png
+www/proposals/iconproposal/about_old.png -text svneol=unset#image/png
+www/proposals/iconproposal/about_old_sm.png -text svneol=unset#image/png
+www/proposals/iconproposal/app_new1.png -text svneol=unset#image/png
+www/proposals/iconproposal/app_old.png -text svneol=unset#image/png
+www/proposals/iconproposal/favicon_new1.png -text svneol=unset#image/png
+www/proposals/iconproposal/favicon_old.png -text svneol=unset#image/png
+www/proposals/iconproposal/installer_new1.png -text svneol=unset#image/png
+www/proposals/iconproposal/installer_old.png -text svneol=unset#image/png
+www/proposals/iconproposal/manual_new1.png -text svneol=unset#image/png
+www/proposals/iconproposal/manual_old.png -text svneol=unset#image/png
+www/proposals/iconproposal/promo_new1.png -text svneol=unset#image/png
+www/proposals/iconproposal/promo_old.png -text svneol=unset#image/png
+www/proposals/iconproposal/web_new1.png -text svneol=unset#image/png
+www/proposals/iconproposal/web_old.png -text svneol=unset#image/png
 www/proposals/installation/settings.jpg -text
 www/proposals/sequencediagrams/index.html -text
 www/proposals/svgart/argouml.ico -text
