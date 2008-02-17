@@ -1293,6 +1293,7 @@ www/proposals/svgart/argouml2.svg -text
 www/proposals/svgart/argouml200.png -text svneol=unset#image/png
 www/proposals/uml_profiles/AllProfiles.gif -text
 www/proposals/uml_profiles/profile.zargo -text
+www/psf/.project -text
 www/psf/argoeclipse_projectset.psf -text
 www/psf/argoprint_projectset.psf -text
 www/psf/argouml-sequence.psf -text
