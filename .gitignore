@@ -59,6 +59,8 @@ modules/dev/build
 modules/dev/build-eclipse
 modules/menutest/argouml.log
 src/app/build
+src/app/build-eclipse
+src/app/build-eclipse-tests
 src/app/lib/*-src-*.jar
 src/app/lib/*-src-*.zip
 src/app/lib/*-src.jar
