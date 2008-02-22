@@ -1,5 +1,3 @@
-/.classpath
-/.project
 /ArgoUML-*.tar.gz
 /ArgoUML-*.tgz
 /ArgoUML-*.zip
@@ -32,7 +30,6 @@ modules/menutest/local-*.bat
 modules/menutest/local-*.sh
 tools/lib/jimi-1.0.jar
 !/\#
-/.checkclipse
 /\#
 /\#
 /\#
@@ -47,9 +44,9 @@ tools/lib/jimi-1.0.jar
 !/\#
 /.fbprefs
 /.fbwarnings
-/.settings
 /DIST
 /bin
+/build
 documentation/cookbook/cookbook.fo
 documentation/docbook-setup/docbook-xsl
 documentation/docbook-setup/docbook-xsl-1.66.1
