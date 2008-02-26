@@ -47,6 +47,8 @@ tools/lib/jimi-1.0.jar
 /DIST
 /bin
 /build
+documentation/${argouml.eclipse.root}
+documentation/build
 documentation/cookbook/cookbook.fo
 documentation/docbook-setup/docbook-xsl
 documentation/docbook-setup/docbook-xsl-1.66.1

@@ -1,4 +1,6 @@
 * text=auto !eol
+documentation/Documentation[!!-~]defaulthtml.launch -text
+documentation/Documentation[!!-~]pdf.launch -text
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/images/callouts/1.png -text svneol=unset#image/png
 documentation/cookbook/images/callouts/10.png -text svneol=unset#image/png
