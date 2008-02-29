@@ -188,6 +188,7 @@ src/model-mdr/build/mdrapi.jar
 src/model-mdr/build/mof.jar
 src/model-mdr/build/nbmdr.jar
 src/model-mdr/build/openide-util.jar
+src/model-mdr/build/tests
 src/model-mdr/tests/testmodels/01-12-02.xml
 src/model-mdr/tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 src/model-mdr/tests/testmodels/Model.dtd
