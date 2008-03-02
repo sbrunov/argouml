@@ -24,10 +24,6 @@ modules/jscheme/build
 modules/jscheme/build.properties
 modules/jscheme/local-*.bat
 modules/jscheme/local-*.sh
-modules/menutest/build
-modules/menutest/build.properties
-modules/menutest/local-*.bat
-modules/menutest/local-*.sh
 tools/lib/jimi-1.0.jar
 !/\#
 /\#
@@ -61,7 +57,6 @@ documentation/quick-guide/quickguide-generated.xml.prep
 documentation/quick-guide/quickguide.fo
 modules/dev/build
 modules/dev/build-eclipse
-modules/menutest/argouml.log
 src/app/build
 src/app/build-eclipse
 src/app/build-eclipse-tests
