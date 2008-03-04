@@ -1085,6 +1085,7 @@ www/gsoc2007/profiles/tutorial/index_arquivos/image035.jpg -text
 www/gsoc2007/profiles/tutorial/index_arquivos/image036.jpg -text
 www/gsoc2007/profiles/tutorial/index_arquivos/themedata.thmx -text
 www/images/5perc_s.gif -text
+www/images/ArgoUML.ico -text
 www/images/DetailsPaneScreen.gif -text
 www/images/DiagramEditorScreen.gif -text
 www/images/EDCSLogoArch.gif -text
@@ -1121,10 +1122,10 @@ www/images/argoconfig.png -text
 www/images/argocritics.png -text
 www/images/argogeneralizationbug.png -text
 www/images/argokernel.png -text
-www/images/argologo.gif -text
-www/images/argologo2.gif -text
-www/images/argologo_x2.gif -text
-www/images/argologo_x4.gif -text
+www/images/argologo.svg -text
+www/images/argologo100x100.gif -text
+www/images/argologo100x100_on_eeeedd.gif -text
+www/images/argologo200x190.png -text
 www/images/argomain.png -text
 www/images/argoocl.png -text
 www/images/argopatterncritics.png -text
