@@ -2,6 +2,7 @@
 documentation/Documentation[!!-~]defaulthtml.launch -text
 documentation/Documentation[!!-~]pdf.launch -text
 documentation/cookbook/cookbook.zargo -text
+documentation/cookbook/images/argologo200x190_on_ffffff.png -text svneol=unset#image/png
 documentation/cookbook/images/callouts/1.png -text svneol=unset#image/png
 documentation/cookbook/images/callouts/10.png -text svneol=unset#image/png
 documentation/cookbook/images/callouts/2.png -text svneol=unset#image/png
@@ -40,6 +41,9 @@ documentation/cookbook/images/warning.png -text svneol=unset#image/png
 documentation/cookbook/issueprocess.zargo -text
 documentation/cookbook/layers.zargo -text
 documentation/cookbook/notation.zargo -text
+documentation/docbook-setup/titlepage-html.spec.xml -text
+documentation/docbook-setup/titlepage-pdf.spec.xml -text
+documentation/manual/images/argologo200x190_on_ffffff.png -text svneol=unset#image/png
 documentation/manual/images/caution.png -text svneol=unset#image/png
 documentation/manual/images/icons/action_state.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/activity_diagram.gif -text svneol=unset#image/gif
@@ -301,6 +305,7 @@ documentation/manual/models/diagrams.zargo -text
 documentation/manual/models/discriminator_example.zargo -text
 documentation/manual/models/requirements_tutorial.zargo -text
 documentation/manual/models/state-artifacts.zargo -text
+documentation/quick-guide/images/argologo200x190_on_ffffff.png -text svneol=unset#image/png
 documentation/quick-guide/images/tip.png -text svneol=unset#image/png
 documentation/quick-guide/images/warning.png -text svneol=unset#image/png
 modules/dev/.settings/de.mvmsoft.checkclipse.prefs -text
