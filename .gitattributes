@@ -1306,6 +1306,7 @@ www/proposals/uml_profiles/profile.zargo -text
 www/psf/.project -text
 www/psf/argoeclipse_projectset.psf -text
 www/psf/argoprint_projectset.psf -text
+www/psf/argouml-python.psf -text
 www/psf/argouml-sequence.psf -text
 www/tours/Image1.gif -text svneol=unset#application/octet-stream
 www/tours/about.gif -text
