@@ -317,6 +317,8 @@ src/app/.classpath -text
 src/app/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
 src/app/.project -text
 src/app/.settings/de.mvmsoft.checkclipse.prefs -text
+src/app/.settings/org.eclipse.jdt.core.prefs -text
+src/app/.settings/org.eclipse.jdt.ui.prefs -text
 src/app/ArgoUML[!!-~]DEBUG.launch -text
 src/app/ArgoUML.launch -text
 src/app/META-INF/MANIFEST.MF -text
