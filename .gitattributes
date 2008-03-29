@@ -331,6 +331,7 @@ src/app/lib/swidgets-0.1.4.jar -text
 src/app/lib/toolbar-1.4.1-20071227.jar -text
 src/app/src/.settings/de.mvmsoft.checkclipse.prefs -text
 src/app/src/bin/ArgoUML.ico -text
+src/app/src/bin/ArgoUMLdoc.ico -text
 src/app/src/org/argouml/Images/Abstraction.gif -text
 src/app/src/org/argouml/Images/ActionExpression.gif -text
 src/app/src/org/argouml/Images/ActionSequence.gif -text
