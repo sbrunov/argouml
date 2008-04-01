@@ -322,6 +322,7 @@ src/app/.settings/org.eclipse.jdt.ui.prefs -text
 src/app/ArgoUML[!!-~]DEBUG.launch -text
 src/app/ArgoUML.launch -text
 src/app/META-INF/MANIFEST.MF -text
+src/app/lib/antlr-2.7.7.jar -text
 src/app/lib/antlrall-2.7.2.jar -text
 src/app/lib/commons-logging-1.0.2.jar -text
 src/app/lib/gef-0.12.4BETA.jar -text
