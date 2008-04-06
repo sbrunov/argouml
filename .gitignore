@@ -97,7 +97,9 @@ src/app/src/org/argouml/language/java/cognitive/*.class
 src/app/src/org/argouml/language/java/cognitive/critics/*.class
 src/app/src/org/argouml/language/java/generator/*.class
 src/app/src/org/argouml/language/java/generator/JavaLexer.java
+src/app/src/org/argouml/language/java/generator/JavaLexer.smap
 src/app/src/org/argouml/language/java/generator/JavaRecognizer.java
+src/app/src/org/argouml/language/java/generator/JavaRecognizer.smap
 src/app/src/org/argouml/language/java/generator/JavaTokenTypes.java
 src/app/src/org/argouml/language/java/generator/JavaTokenTypes.txt
 src/app/src/org/argouml/notation/*.class
@@ -137,7 +139,9 @@ src/app/src/org/argouml/uml/generator/ui/*.class
 src/app/src/org/argouml/uml/reveng/*.class
 src/app/src/org/argouml/uml/reveng/java/*.class
 src/app/src/org/argouml/uml/reveng/java/JavaLexer.java
+src/app/src/org/argouml/uml/reveng/java/JavaLexer.smap
 src/app/src/org/argouml/uml/reveng/java/JavaRecognizer.java
+src/app/src/org/argouml/uml/reveng/java/JavaRecognizer.smap
 src/app/src/org/argouml/uml/reveng/java/JavaTokenTypes.java
 src/app/src/org/argouml/uml/reveng/java/JavaTokenTypes.txt
 src/app/src/org/argouml/uml/ui/*.class
