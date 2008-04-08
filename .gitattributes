@@ -697,6 +697,15 @@ src/app/tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
 src/app/tests/testmodels/uml14/LinkedProfile.zargo -text
 src/app/tests/testmodels/uml14/SequenceDiagram.zargo -text
 src/app/tests/testmodels/uml14/i18n.zargo -text
+src/argouml-core-diagrams-sequence2/.classpath -text
+src/argouml-core-diagrams-sequence2/.project -text
+src/argouml-core-diagrams-sequence2/.settings/de.mvmsoft.checkclipse.prefs -text
+src/argouml-core-diagrams-sequence2/.settings/org.eclipse.jdt.core.prefs -text
+src/argouml-core-diagrams-sequence2/ArgoUML[!!-~]sequence2[!!-~]tests.launch -text
+src/argouml-core-diagrams-sequence2/ArgoUML[!!-~]sequence2.launch -text
+src/argouml-core-diagrams-sequence2/src/.settings/org.eclipse.jdt.ui.prefs -text
+src/argouml-core-diagrams-sequence2/src/META-INF/MANIFEST.MF -text
+src/argouml-core-diagrams-sequence2/src/org/argouml/Images/buttonbroommessages.gif -text svneol=unset#image/gif
 src/infra/.classpath -text
 src/infra/.project -text
 src/infra/META-INF/MANIFEST.MF -text
