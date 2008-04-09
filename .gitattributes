@@ -708,6 +708,7 @@ src/argouml-core-diagrams-sequence2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-sequence2/src/org/argouml/Images/buttonbroommessages.gif -text svneol=unset#image/gif
 src/infra/.classpath -text
 src/infra/.project -text
+src/infra/.settings/org.eclipse.jdt.core.prefs -text
 src/infra/META-INF/MANIFEST.MF -text
 src/infra/lib/log4j-1.2.6.jar -text
 src/model-euml/.classpath -text
