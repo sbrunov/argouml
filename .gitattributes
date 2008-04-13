@@ -683,6 +683,7 @@ src/app/tests/ArgoUML[!!-~]kernel[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
 src/app/tests/ArgoUML[!!-~]persistence[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
 src/app/tests/ArgoUML[!!-~]profile[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
 src/app/tests/Model[!!-~]all[!!-~]tests.launch -text
+src/app/tests/org/argouml/model/TestUmlFactory.java -text
 src/app/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
 src/app/tests/org/argouml/profile/internal/package.html -text
 src/app/tests/org/argouml/profile/package.html -text
