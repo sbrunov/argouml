@@ -312,6 +312,7 @@ modules/dev/.settings/de.mvmsoft.checkclipse.prefs -text
 modules/dev/ArgoUML[!!-~]dev.launch -text
 modules/dev/src/org/argouml/dev/CallerListNodeBuilder.java -text
 modules/dev/src/org/argouml/dev/EventPumpInspectorPanel.java -text
+modules/dev/src/org/argouml/dev/test/TestPanel.java -text
 modules/jscheme/lib/jscheme.jar -text
 src/app/.classpath -text
 src/app/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
