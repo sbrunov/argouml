@@ -634,6 +634,7 @@ src/app/src/org/argouml/resource/default_console.lcf -text svneol=unset#applicat
 src/app/src/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src/app/src/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
 src/app/src/org/argouml/taskmgmt/ProgressMonitor.java -text
+src/app/src/org/argouml/ui/AbstractArgoJPanel.java -text
 src/app/src/org/argouml/ui/ProfileSelectionTab.java -text
 src/app/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 src/app/src/org/argouml/ui/SettingsTabProfile.java -text
