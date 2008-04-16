@@ -83,6 +83,7 @@ documentation/manual/images/icons/composite_state.gif -text svneol=unset#image/g
 documentation/manual/images/icons/composition_plain.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/concurrent_region.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/configure_constraints.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/configure_perspectives.gif -text
 documentation/manual/images/icons/constraints_left.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/constraints_right.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/create_action.gif -text svneol=unset#image/gif
@@ -145,6 +146,7 @@ documentation/manual/images/icons/parameter.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/permission.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/polygon.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/print.gif -text svneol=unset#image/gif
+documentation/manual/images/icons/properties.gif -text
 documentation/manual/images/icons/property_delete.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/realization.gif -text svneol=unset#image/gif
 documentation/manual/images/icons/reception.gif -text svneol=unset#image/gif
