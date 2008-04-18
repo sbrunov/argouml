@@ -16,10 +16,6 @@ documentation/manual/*.hs
 documentation/manual/*.jhm
 documentation/quick-guide/*.hs
 documentation/quick-guide/*.jhm
-modules/java_rte/build
-modules/java_rte/build.properties
-modules/java_rte/local-*.bat
-modules/java_rte/local-*.sh
 modules/jscheme/build
 modules/jscheme/build.properties
 modules/jscheme/local-*.bat
