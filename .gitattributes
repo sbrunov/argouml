@@ -329,6 +329,7 @@ src/app/lib/antlr-2.7.7.jar -text
 src/app/lib/antlrall-2.7.2.jar -text
 src/app/lib/commons-logging-1.0.2.jar -text
 src/app/lib/gef-0.12.4BETA.jar -text
+src/app/lib/gef-0.12.4BETA2.jar -text
 src/app/lib/javadocs/j2se150/package-list -text
 src/app/lib/ocl-argo-1.1.jar -text
 src/app/lib/swidgets-0.1.4.jar -text
