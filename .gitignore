@@ -189,6 +189,7 @@ src/argouml-core-model-mdr/tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15
 src/argouml-core-model-mdr/tests/testmodels/Model.dtd
 src/argouml-core-model/build
 src/argouml-core-model/build-eclipse
+src/build
 tools/bin/generated
 tools/classycle/docs
 tools/lib/JimiProClasses.zip
