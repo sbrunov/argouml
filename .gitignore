@@ -53,6 +53,7 @@ documentation/quick-guide/quickguide-generated.xml.prep
 documentation/quick-guide/quickguide.fo
 modules/dev/build
 modules/dev/build-eclipse
+src/argouml-app/Alittlebitofeverything2.zargo
 src/argouml-app/build
 src/argouml-app/build-eclipse
 src/argouml-app/build-eclipse-tests
@@ -157,6 +158,8 @@ src/argouml-app/src/org/argouml/util/osdep/*.class
 src/argouml-app/src/reporting.properties
 src/argouml-app/src/test.xmi
 src/argouml-app/src/test.zargo
+src/argouml-app/test.xmi
+src/argouml-app/testSaveProfileModel.xmi
 src/argouml-app/tests/Alittlebitofeverything2.zargo
 src/argouml-app/tests/build-eclipse
 src/argouml-app/tests/test.xmi
