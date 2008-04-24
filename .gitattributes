@@ -954,6 +954,15 @@ tools/classycle/images/logo.png -text
 tools/classycle/images/mix.png -text
 tools/classycle/images/mixedCycleLink.png -text
 tools/classycle/images/package.png -text
+tools/cobertura-1.9/COPYING -text
+tools/cobertura-1.9/COPYRIGHT -text
+tools/cobertura-1.9/ChangeLog -text
+tools/cobertura-1.9/README -text
+tools/cobertura-1.9/cobertura.jar -text
+tools/cobertura-1.9/lib/asm-2.2.1.jar -text
+tools/cobertura-1.9/lib/asm-tree-2.2.1.jar -text
+tools/cobertura-1.9/lib/jakarta-oro-2.0.8.jar -text
+tools/cobertura-1.9/lib/log4j-1.2.9.jar -text
 tools/cruisecontrol/build-argouml.xml -text
 tools/cruisecontrol/config.xml -text
 tools/cruisecontrol/emailmap.properties -text
