@@ -357,6 +357,8 @@ src/argouml-app/src/org/argouml/Images/AlignToGrid.gif -text
 src/argouml-app/src/org/argouml/Images/AlignTops.gif -text
 src/argouml-app/src/org/argouml/Images/AlignVerticalCenters.gif -text
 src/argouml-app/src/org/argouml/Images/ArgoIcon.gif -text
+src/argouml-app/src/org/argouml/Images/ArgoIcon16x16.png -text svneol=unset#image/png
+src/argouml-app/src/org/argouml/Images/ArgoIcon32x32.png -text svneol=unset#image/png
 src/argouml-app/src/org/argouml/Images/Argument.gif -text
 src/argouml-app/src/org/argouml/Images/Association.gif -text
 src/argouml-app/src/org/argouml/Images/AssociationClass.gif -text
