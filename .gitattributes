@@ -627,6 +627,9 @@ src/argouml-app/src/org/argouml/application/api/Predicate.java -text
 src/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 src/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
 src/argouml-app/src/org/argouml/kernel/ProfileConfiguration.java -text
+src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
+src/argouml-app/src/org/argouml/notation/providers/package.html -text
+src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/ProfileConfigurationFilePersister.java -text
 src/argouml-app/src/org/argouml/profile/profiles/README.txt -text
 src/argouml-app/src/org/argouml/profile/profiles/andromda-profile-31.xmi -text
