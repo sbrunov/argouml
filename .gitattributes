@@ -718,6 +718,7 @@ src/argouml-core-diagrams-sequence2/ArgoUML[!!-~]sequence2.launch -text
 src/argouml-core-diagrams-sequence2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-sequence2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-sequence2/src/org/argouml/Images/buttonbroommessages.gif -text svneol=unset#image/gif
+src/argouml-core-diagrams-sequence2/src/org/argouml/proppanel/sequence2/SequenceDiagramPropPanelFactory.java -text
 src/argouml-core-infra/.classpath -text
 src/argouml-core-infra/.project -text
 src/argouml-core-infra/.settings/org.eclipse.jdt.core.prefs -text
