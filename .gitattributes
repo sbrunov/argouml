@@ -328,7 +328,6 @@ src/argouml-app/META-INF/MANIFEST.MF -text
 src/argouml-app/lib/antlr-2.7.7.jar -text
 src/argouml-app/lib/antlrall-2.7.2.jar -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
-src/argouml-app/lib/gef-0.12.4BETA2.jar -text
 src/argouml-app/lib/gef-0.12.4BETA3.jar -text
 src/argouml-app/lib/javadocs/j2se150/package-list -text
 src/argouml-app/lib/ocl-argo-1.1.jar -text
