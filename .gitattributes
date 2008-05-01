@@ -778,6 +778,8 @@ src/argouml-core-model-mdr/tests/org/argouml/resource/info_console.lcf -text
 src/argouml-core-model-mdr/tests/testmodels/test.xmi -text
 src/argouml-core-model-mdr/tools/lib/mdrant-patched.jar -text
 src/argouml-core-model/.settings/de.mvmsoft.checkclipse.prefs -text
+src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
+src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
 src/argouml-core-model/src/org/argouml/model/CommandStack.java -text
 src/argouml-core-model/src/org/argouml/model/DefaultCommandStack.java -text
 src/argouml-core-model/src/org/argouml/model/XmiException.java -text
