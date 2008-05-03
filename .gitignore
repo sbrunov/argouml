@@ -166,6 +166,7 @@ src/argouml-app/tests/test.xmi
 src/argouml-app/tests/testmodels/01-12-02.xml
 src/argouml-app/tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 src/argouml-app/tests/testmodels/Model.dtd
+src/argouml-build/build
 src/argouml-core-infra/build
 src/argouml-core-model-euml/build-eclipse
 src/argouml-core-model-mdr/argouml.log
