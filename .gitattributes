@@ -782,8 +782,6 @@ src/argouml-core-model-mdr/tools/lib/mdrant-patched.jar -text
 src/argouml-core-model/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
 src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
-src/argouml-core-model/src/org/argouml/model/CommandStack.java -text
-src/argouml-core-model/src/org/argouml/model/DefaultCommandStack.java -text
 src/argouml-core-model/src/org/argouml/model/XmiException.java -text
 src/argouml-core-model/tests/testmodels/uml13/argo-Alittlebitofeverything.xmi -text
 tools/apache-ant-1.7.0/INSTALL -text
