@@ -1,6 +1,8 @@
 * text=auto !eol
 documentation/Documentation[!!-~]defaulthtml.launch -text
 documentation/Documentation[!!-~]pdf.launch -text
+documentation/build.bat eol=crlf
+documentation/build.sh eol=lf
 documentation/cookbook/cookbook.zargo -text
 documentation/cookbook/images/argologo200x190_on_ffffff.png -text svneol=unset#image/png
 documentation/cookbook/images/callouts/1.png -text svneol=unset#image/png
@@ -316,7 +318,11 @@ modules/dev/META-INF/MANIFEST.MF -text
 modules/dev/src/org/argouml/dev/CallerListNodeBuilder.java -text
 modules/dev/src/org/argouml/dev/EventPumpInspectorPanel.java -text
 modules/dev/src/org/argouml/dev/test/TestPanel.java -text
+modules/jscheme/build.bat eol=crlf
+modules/jscheme/build.sh eol=lf
 modules/jscheme/lib/jscheme.jar -text
+modules/jscheme/local-ant-clean.bat eol=crlf
+modules/jscheme/local-ant-install.bat eol=crlf
 src/argouml-app/.classpath -text
 src/argouml-app/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
 src/argouml-app/.project -text
@@ -338,6 +344,7 @@ src/argouml-app/src/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-app/src/bin/ArgoUML.ico -text
 src/argouml-app/src/bin/ArgoUMLdoc.ico -text
 src/argouml-app/src/bin/argouml.bat eol=crlf
+src/argouml-app/src/bin/argouml.sh eol=lf
 src/argouml-app/src/org/argouml/Images/Abstraction.gif -text
 src/argouml-app/src/org/argouml/Images/ActionExpression.gif -text
 src/argouml-app/src/org/argouml/Images/ActionSequence.gif -text
@@ -713,6 +720,8 @@ src/argouml-app/tests/testmodels/uml14/LinkedProfile.zargo -text
 src/argouml-app/tests/testmodels/uml14/SequenceDiagram.zargo -text
 src/argouml-app/tests/testmodels/uml14/i18n.zargo -text
 src/argouml-build/.project -text
+src/argouml-build/build.bat eol=crlf
+src/argouml-build/build.sh eol=lf
 src/argouml-core-diagrams-sequence2/.classpath -text
 src/argouml-core-diagrams-sequence2/.project -text
 src/argouml-core-diagrams-sequence2/.settings/de.mvmsoft.checkclipse.prefs -text
@@ -736,8 +745,10 @@ src/argouml-core-model-euml/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-model-euml/ArgoUML[!!-~]Model[!!-~]all[!!-~]tests[!!-~]with[!!-~]eUML.launch -text
 src/argouml-core-model-euml/ArgoUML[!!-~]UML2-EUML[!!-~]debug.launch -text
 src/argouml-core-model-euml/META-INF/MANIFEST.MF -text
-src/argouml-core-model-euml/build.bat -text
-src/argouml-core-model-euml/build2.bat -text
+src/argouml-core-model-euml/build.bat eol=crlf
+src/argouml-core-model-euml/build.sh eol=lf
+src/argouml-core-model-euml/build2.bat eol=crlf
+src/argouml-core-model-euml/build2.sh eol=lf
 src/argouml-core-model-euml/lib/eUML[!!-~]required[!!-~]plugins.txt -text
 src/argouml-core-model-euml/lib/emf/org.eclipse.emf.common_2.3.0.v200708072030.jar -text
 src/argouml-core-model-euml/lib/emf/org.eclipse.emf.ecore.change.edit_2.3.0.v200708072030.jar -text
@@ -771,6 +782,10 @@ src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/LM.cmof -tex
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/LM.merged.cmof -text
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/Superstructure.cmof -text
 src/argouml-core-model-mdr/.externalToolBuilders/Generate[!!-~]MDR[!!-~]interfaces[!!-~]\[Builder\].launch -text
+src/argouml-core-model-mdr/build.bat eol=crlf
+src/argouml-core-model-mdr/build.sh eol=lf
+src/argouml-core-model-mdr/build2.bat eol=crlf
+src/argouml-core-model-mdr/build2.sh eol=lf
 src/argouml-core-model-mdr/lib/jmi.jar -text
 src/argouml-core-model-mdr/lib/jmiutils.jar -text
 src/argouml-core-model-mdr/lib/mdrapi.jar -text
@@ -786,6 +801,8 @@ src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
 src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
 src/argouml-core-model/src/org/argouml/model/XmiException.java -text
 src/argouml-core-model/tests/testmodels/uml13/argo-Alittlebitofeverything.xmi -text
+src/build.bat eol=crlf
+src/build.sh eol=lf
 tools/apache-ant-1.7.0/INSTALL -text
 tools/apache-ant-1.7.0/KEYS -text
 tools/apache-ant-1.7.0/LICENSE -text
@@ -796,15 +813,15 @@ tools/apache-ant-1.7.0/NOTICE -text
 tools/apache-ant-1.7.0/README -text
 tools/apache-ant-1.7.0/WHATSNEW -text
 tools/apache-ant-1.7.0/bin/ant -text
-tools/apache-ant-1.7.0/bin/ant.bat -text
+tools/apache-ant-1.7.0/bin/ant.bat eol=crlf
 tools/apache-ant-1.7.0/bin/ant.cmd -text
 tools/apache-ant-1.7.0/bin/antRun -text
-tools/apache-ant-1.7.0/bin/antRun.bat -text
+tools/apache-ant-1.7.0/bin/antRun.bat eol=crlf
 tools/apache-ant-1.7.0/bin/antRun.pl -text
 tools/apache-ant-1.7.0/bin/antenv.cmd -text
 tools/apache-ant-1.7.0/bin/complete-ant-cmd.pl -text
 tools/apache-ant-1.7.0/bin/envset.cmd -text
-tools/apache-ant-1.7.0/bin/lcp.bat -text
+tools/apache-ant-1.7.0/bin/lcp.bat eol=crlf
 tools/apache-ant-1.7.0/bin/runant.pl -text
 tools/apache-ant-1.7.0/bin/runant.py -text
 tools/apache-ant-1.7.0/bin/runrc.cmd -text
@@ -929,7 +946,10 @@ tools/apache-ant-1.7.0/lib/ant-weblogic.jar -text
 tools/apache-ant-1.7.0/lib/ant.jar -text
 tools/apache-ant-1.7.0/lib/xercesImpl.jar -text
 tools/apache-ant-1.7.0/lib/xml-apis.jar -text
-tools/bin/modelImplementationGenerator.sh -text
+tools/bin/checkstyle-on-changed.sh eol=lf
+tools/bin/generate-mailing-list-list.sh eol=lf
+tools/bin/i18n-find-undeclared-tags.sh eol=lf
+tools/bin/modelImplementationGenerator.sh eol=lf
 tools/checkstyle-4.3/LICENSE -text
 tools/checkstyle-4.3/LICENSE.apache -text
 tools/checkstyle-4.3/LICENSE.apache20 -text
@@ -979,11 +999,15 @@ tools/cruisecontrol/build-argouml.xml -text
 tools/cruisecontrol/config.xml -text
 tools/cruisecontrol/emailmap.properties -text
 tools/fop-0.20.5/build/fop.jar -text
+tools/fop-0.20.5/fop.bat eol=crlf
+tools/fop-0.20.5/fop.sh eol=lf
 tools/fop-0.20.5/lib/avalon-framework-cvs-20020806.jar -text
 tools/fop-0.20.5/lib/batik.jar -text
 tools/fop-0.20.5/lib/xalan-2.4.1.jar -text
 tools/fop-0.20.5/lib/xercesImpl-2.2.1.jar -text
 tools/fop-0.20.5/lib/xml-apis.jar -text
+tools/fop-0.20.5/xalan.bat eol=crlf
+tools/fop-0.20.5/xalan.sh eol=lf
 tools/jdepend-2.9/LICENSE -text
 tools/jdepend-2.9/README -text
 tools/jdepend-2.9/lib/jdepend-2.9.jar -text
@@ -994,13 +1018,13 @@ tools/lib/easymock12.jar -text
 tools/lib/javasrc-2001-beta.jar -text
 tools/lib/saxon-6.5.2.jar -text
 tools/pmd-4.0/bin/build.xml -text
-tools/pmd-4.0/bin/cpd.sh -text
-tools/pmd-4.0/bin/cpdgui.bat -text
-tools/pmd-4.0/bin/cygwin-run.sh -text
-tools/pmd-4.0/bin/designer.bat -text
-tools/pmd-4.0/bin/designer.sh -text
-tools/pmd-4.0/bin/pmd.bat -text
-tools/pmd-4.0/bin/pmd.sh -text
+tools/pmd-4.0/bin/cpd.sh eol=lf
+tools/pmd-4.0/bin/cpdgui.bat eol=crlf
+tools/pmd-4.0/bin/cygwin-run.sh eol=lf
+tools/pmd-4.0/bin/designer.bat eol=crlf
+tools/pmd-4.0/bin/designer.sh eol=lf
+tools/pmd-4.0/bin/pmd.bat eol=crlf
+tools/pmd-4.0/bin/pmd.sh eol=lf
 tools/pmd-4.0/etc/LICENSE.txt -text
 tools/pmd-4.0/etc/changelog.txt -text
 tools/pmd-4.0/etc/xslt/arrow_down.gif -text
