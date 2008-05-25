@@ -636,7 +636,6 @@ src/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 src/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
 src/argouml-app/src/org/argouml/kernel/ProfileConfiguration.java -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
-src/argouml-app/src/org/argouml/notation/providers/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/README.txt -text
