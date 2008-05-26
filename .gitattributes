@@ -638,11 +638,13 @@ src/argouml-app/src/org/argouml/kernel/ProfileConfiguration.java -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
+src/argouml-app/src/org/argouml/profile/internal/ProfileMeta.java -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/README.txt -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-31.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noextensions.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/default-java.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/default-uml14.xmi -text
+src/argouml-app/src/org/argouml/profile/profiles/uml14/metaprofile.xmi -text
 src/argouml-app/src/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
