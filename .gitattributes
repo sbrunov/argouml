@@ -12,7 +12,6 @@ src/argouml-app/lib/antlr-2.7.7.jar -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
 src/argouml-app/lib/gef-0.12.4BETA3.jar -text
 src/argouml-app/lib/javadocs/j2se150/package-list -text
-src/argouml-app/lib/ocl2-argo.jar -text
 src/argouml-app/lib/ocl20codegen-java.jar -text
 src/argouml-app/lib/ocl20jmiapi.jar -text
 src/argouml-app/lib/ocl20jmiimpl.jar -text
