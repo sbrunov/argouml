@@ -649,7 +649,6 @@ src/argouml-app/src/org/argouml/resource/default.lcf -text svneol=unset#applicat
 src/argouml-app/src/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
-src/argouml-app/src/org/argouml/swingext/LabelledLayout.java -text
 src/argouml-app/src/org/argouml/taskmgmt/ProgressMonitor.java -text
 src/argouml-app/src/org/argouml/ui/AbstractArgoJPanel.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateContainedModelElement.java -text
@@ -692,6 +691,7 @@ src/argouml-app/src/org/argouml/uml/reveng/java/ParameterDeclaration.java -text
 src/argouml-app/src/org/argouml/uml/ui/AbstractActionAddModelElement2.java -text
 src/argouml-app/src/org/argouml/uml/ui/ActionNavigateUpNextDown.java -text
 src/argouml-app/src/org/argouml/uml/ui/ActionNavigateUpPreviousDown.java -text
+src/argouml-app/src/org/argouml/uml/ui/LabelledLayout.java -text
 src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java -text
 src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelActionSequence.java -text
 src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
