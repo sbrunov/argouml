@@ -649,6 +649,7 @@ src/argouml-app/src/org/argouml/resource/default.lcf -text svneol=unset#applicat
 src/argouml-app/src/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+src/argouml-app/src/org/argouml/swingext/LabelledLayout.java -text
 src/argouml-app/src/org/argouml/taskmgmt/ProgressMonitor.java -text
 src/argouml-app/src/org/argouml/ui/AbstractArgoJPanel.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateContainedModelElement.java -text
