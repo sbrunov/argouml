@@ -396,3 +396,14 @@ work_argoeclipse1_hudsonb/argouml-app/tests/testmodels/uml14/GUITestPropertyPane
 work_argoeclipse1_hudsonb/argouml-app/tests/testmodels/uml14/LinkedProfile.zargo -text
 work_argoeclipse1_hudsonb/argouml-app/tests/testmodels/uml14/SequenceDiagram.zargo -text
 work_argoeclipse1_hudsonb/argouml-app/tests/testmodels/uml14/i18n.zargo -text
+work_pluginprofileloader_maurelio1234/profile/plugin/ErrorLoadingPluginProfile.java -text
+work_pluginprofileloader_maurelio1234/profile/plugin/PluginProfile.java -text
+work_pluginprofileloader_maurelio1234/profile/plugin/PluginProfileImpl.java -text
+work_pluginprofileloader_maurelio1234/profile/plugin/PluginProfileLoader.java -text
+work_pluginprofileloader_maurelio1234/profile/plugin/PluginProfileLoaderImpl.java -text
+work_pluginprofileloader_maurelio1234/profile/plugin/PluginProfileModule.java -text
+work_pluginprofileloader_maurelio1234/profile/profiles/README.txt -text
+work_pluginprofileloader_maurelio1234/profile/profiles/andromda-profile-31.xmi -text
+work_pluginprofileloader_maurelio1234/profile/profiles/andromda-profile-32-noextensions.xmi -text
+work_pluginprofileloader_maurelio1234/profile/profiles/default-java.xmi -text
+work_pluginprofileloader_maurelio1234/profile/profiles/default-uml14.xmi -text
