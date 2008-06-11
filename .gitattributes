@@ -737,7 +737,6 @@ work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/ActionExportProfil
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
-work_criticsprofiles_maurelio1234/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java -text
