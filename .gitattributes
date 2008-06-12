@@ -669,6 +669,7 @@ src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java 
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
+src/argouml-app/src/org/argouml/uml/diagram/static_structure/ui/FigClassifierBoxWithAttributes.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionAddStereotype.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
