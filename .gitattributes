@@ -663,6 +663,7 @@ src/argouml-app/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfil
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
+src/argouml-app/src/org/argouml/uml/diagram/DiagramFactoryInterface.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java -text
