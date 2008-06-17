@@ -734,6 +734,8 @@ work_criticsprofiles_maurelio1234/src/org/argouml/ui/cmd/ActionAdjustGrid.java -
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/cmd/ActionAdjustSnap.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/cmd/ActionHelp.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/GoProfileToCritics.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
