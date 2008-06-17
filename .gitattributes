@@ -804,3 +804,15 @@ work_pluginprofileloader_maurelio1234/profile/profiles/andromda-profile-31.xmi -
 work_pluginprofileloader_maurelio1234/profile/profiles/andromda-profile-32-noextensions.xmi -text
 work_pluginprofileloader_maurelio1234/profile/profiles/default-java.xmi -text
 work_pluginprofileloader_maurelio1234/profile/profiles/default-uml14.xmi -text
+work_sampleprofiles_maurelio1234/javabeans/.classpath -text
+work_sampleprofiles_maurelio1234/javabeans/.project -text
+work_sampleprofiles_maurelio1234/javabeans/.settings/org.eclipse.jdt.core.prefs -text
+work_sampleprofiles_maurelio1234/javabeans/.settings/org.eclipse.jdt.ui.prefs -text
+work_sampleprofiles_maurelio1234/javabeans/JAVABEANS_JAR.jardesc -text
+work_sampleprofiles_maurelio1234/javabeans/src/.settings/org.eclipse.jdt.ui.prefs -text
+work_sampleprofiles_maurelio1234/javabeans/src/META-INF/MANIFEST.MF -text
+work_sampleprofiles_maurelio1234/javabeans/src/org/argouml/i18n/beansprofile.properties -text
+work_sampleprofiles_maurelio1234/javabeans/src/org/argouml/uml/profile/cognitive/critics/CrJavaBeanPropertyApplication.java -text
+work_sampleprofiles_maurelio1234/javabeans/src/org/argouml/uml/profile/javabeans/JavaBeans.xmi -text
+work_sampleprofiles_maurelio1234/javabeans/src/org/argouml/uml/profile/javabeans/bean.GIF -text
+work_sampleprofiles_maurelio1234/javabeans/src/org/argouml/uml/profile/javabeans/event.gif -text
