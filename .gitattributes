@@ -1376,6 +1376,7 @@ www/proposals/uml_profiles/profile.zargo -text
 www/psf/.project -text
 www/psf/argoeclipse_projectset.psf -text
 www/psf/argoprint_projectset.psf -text
+www/psf/argouml-property-panels-soc08-experimental.psf -text
 www/psf/argouml-python.psf -text
 www/psf/argouml-sequence2.psf -text
 www/support.html -text
