@@ -405,6 +405,8 @@ work_criticsprofiles_maurelio1234/.settings/org.eclipse.jdt.ui.prefs -text
 work_criticsprofiles_maurelio1234/ArgoUML[!!-~]DEBUG.launch -text
 work_criticsprofiles_maurelio1234/ArgoUML.launch -text
 work_criticsprofiles_maurelio1234/META-INF/MANIFEST.MF -text
+work_criticsprofiles_maurelio1234/ext/argouml-wfr.jar -text
+work_criticsprofiles_maurelio1234/ext/jbeans.jar -text
 work_criticsprofiles_maurelio1234/lib/antlr-2.7.7.jar -text
 work_criticsprofiles_maurelio1234/lib/commons-logging-1.0.2.jar -text
 work_criticsprofiles_maurelio1234/lib/gef-0.12.4BETA3.jar -text
@@ -714,6 +716,11 @@ work_criticsprofiles_maurelio1234/src/org/argouml/persistence/upgrades/upgrade6.
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.mine -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.r14801 -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ProfileMeta.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/ComputeTriggers.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/ContextApplicable.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/CrOCL.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/EvaluateInvariant.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/OclInterpreter.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/profiles/uml14/README.txt -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/profiles/uml14/andromda-profile-31.xmi -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noextensions.xmi -text
