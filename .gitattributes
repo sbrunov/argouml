@@ -730,6 +730,7 @@ src/argouml-core-diagrams-sequence2/.project -text
 src/argouml-core-diagrams-sequence2/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-core-diagrams-sequence2/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-core-diagrams-sequence2/ArgoUML[!!-~]sequence2[!!-~]tests.launch -text
+src/argouml-core-diagrams-sequence2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-sequence2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-sequence2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-sequence2/src/org/argouml/Images/buttonbroommessages.gif -text svneol=unset#image/gif
