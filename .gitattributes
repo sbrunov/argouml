@@ -1001,6 +1001,7 @@ tools/cobertura-1.9/lib/log4j-1.2.9.jar -text
 tools/cruisecontrol/build-argouml.xml -text
 tools/cruisecontrol/config.xml -text
 tools/cruisecontrol/emailmap.properties -text
+tools/eclipse/eclipse-user-defined-dictionary -text
 tools/fop-0.20.5/build/fop.jar -text
 tools/fop-0.20.5/fop.bat eol=crlf
 tools/fop-0.20.5/fop.sh eol=lf
