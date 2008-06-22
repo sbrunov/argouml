@@ -687,7 +687,6 @@ src/argouml-app/src/org/argouml/uml/reveng/ImportSettings.java -text
 src/argouml-app/src/org/argouml/uml/reveng/ImportSettingsInternal.java -text
 src/argouml-app/src/org/argouml/uml/reveng/ImporterManager.java -text
 src/argouml-app/src/org/argouml/uml/reveng/Setting.java -text
-src/argouml-app/src/org/argouml/uml/reveng/SettingUniqueSelection.java -text
 src/argouml-app/src/org/argouml/uml/reveng/SettingsTypes.java -text
 src/argouml-app/src/org/argouml/uml/reveng/java/ParameterDeclaration.java -text
 src/argouml-app/src/org/argouml/uml/ui/AbstractActionAddModelElement2.java -text
