@@ -1,6 +1,7 @@
 * text=auto !eol
 argouml-core-propertypanels-scratch/.classpath -text
 argouml-core-propertypanels-scratch/.project -text
+argouml-core-propertypanels-scratch/.settings/de.mvmsoft.checkclipse.prefs -text
 argouml-core-propertypanels-scratch/ArgoUML[!!-~]XML[!!-~]Property[!!-~]Panels.launch -text
 argouml-core-propertypanels-scratch/lib/xerces_2_5_0.jar -text
 argouml-core-propertypanels-scratch/lib/xml-apis.jar -text
