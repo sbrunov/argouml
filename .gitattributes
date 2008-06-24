@@ -32,6 +32,10 @@ documentation/cookbook/images/cookbook/multieditorpane.gif -text svneol=unset#im
 documentation/cookbook/images/cookbook/notation1.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/notation2.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/notation3.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/profile-class-and-some-derived-classes.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/profile-subsystem-initialization.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/profile-subsystem-overview.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/sequence-diagram-of-the-registering-and-unregistering-of-a-profile.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/subsystem-ui.png -text svneol=unset#image/png
 documentation/cookbook/images/examples/example1.gif -text svneol=unset#image/gif
 documentation/cookbook/images/examples/example2.gif -text svneol=unset#image/gif
@@ -43,6 +47,7 @@ documentation/cookbook/images/warning.png -text svneol=unset#image/png
 documentation/cookbook/issueprocess.zargo -text
 documentation/cookbook/layers.zargo -text
 documentation/cookbook/notation.zargo -text
+documentation/cookbook/profile-subsystem.zargo -text
 documentation/docbook-setup/titlepage-html.spec.xml -text
 documentation/docbook-setup/titlepage-pdf.spec.xml -text
 documentation/manual/images/argologo200x190_on_ffffff.png -text svneol=unset#image/png
