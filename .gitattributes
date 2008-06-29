@@ -1,4 +1,16 @@
 * text=auto !eol
+seq2_5130_bszanto/.classpath -text
+seq2_5130_bszanto/.project -text
+seq2_5130_bszanto/.settings/de.mvmsoft.checkclipse.prefs -text
+seq2_5130_bszanto/.settings/org.eclipse.jdt.core.prefs -text
+seq2_5130_bszanto/ArgoUML[!!-~]Sequence2.launch -text
+seq2_5130_bszanto/ArgoUML[!!-~]sequence2[!!-~]tests.launch -text
+seq2_5130_bszanto/META-INF/MANIFEST.MF -text
+seq2_5130_bszanto/src/.settings/org.eclipse.jdt.ui.prefs -text
+seq2_5130_bszanto/src/META-INF/MANIFEST.MF -text
+seq2_5130_bszanto/src/org/argouml/Images/buttonbroommessages.gif -text svneol=unset#image/gif
+seq2_5130_bszanto/src/org/argouml/proppanel/sequence2/SequenceDiagramPropPanelFactory.java -text
+seq2_5130_bszanto/src/org/argouml/uml/diagram/sequence2/ui/SelectionClassifierRole.java -text
 work_argoeclipse1_hudsonb/argouml-app/.classpath -text
 work_argoeclipse1_hudsonb/argouml-app/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
 work_argoeclipse1_hudsonb/argouml-app/.project -text
