@@ -733,6 +733,8 @@ work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/ContextAp
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/CrOCL.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/EvaluateInvariant.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/OclInterpreter.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ui/ProfilePropPanelFactory.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ui/PropPanelCritic.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/profiles/uml14/README.txt -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/profiles/uml14/andromda-profile-31.xmi -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noextensions.xmi -text
