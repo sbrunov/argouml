@@ -681,6 +681,7 @@ src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java 
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeViewTextual.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/FigProfileIcon.java -text
+src/argouml-app/src/org/argouml/uml/diagram/ui/ModeAddToDiagram.java -text
 src/argouml-app/src/org/argouml/uml/generator/TempFileUtils.java -text
 src/argouml-app/src/org/argouml/uml/reveng/ConfigPanelExtension.java -text
 src/argouml-app/src/org/argouml/uml/reveng/FileImportUtils.java -text
