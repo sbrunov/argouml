@@ -1219,7 +1219,10 @@ work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/LambdaEva
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/ModelInterpreter.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/OclInterpreter.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/Bag.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/CollectionsModelInterpreter.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/HashBag.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/ModelAccessModelInterpreter.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/OCLAPIModelInterpreter.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/Uml14ModelInterpreter.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ui/ProfilePropPanelFactory.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ui/PropPanelCritic.java -text
