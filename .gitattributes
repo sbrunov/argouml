@@ -1210,6 +1210,7 @@ work_criticsprofiles_maurelio1234/src/org/argouml/persistence/upgrades/upgrade6.
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.mine -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.r14801 -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ProfileMeta.java -text
+work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/CompositeModelInterpreter.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/ComputeTriggers.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/ContextApplicable.java -text
 work_criticsprofiles_maurelio1234/src/org/argouml/profile/internal/ocl/CrOCL.java -text
