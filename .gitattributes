@@ -1201,6 +1201,8 @@ work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/Images/plaf/javax/swing/pl
 work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateUp.gif -text
 work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/application/SubsystemUtility.java -text
 work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/application/api/Predicate.java -text
+work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/application/events/ArgoProjectEvent.java -text
+work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/application/events/ArgoProjectEventListener.java -text
 work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
 work_argoeclipse1_hudsonb/argouml-app/src/org/argouml/kernel/ProfileConfiguration.java -text
