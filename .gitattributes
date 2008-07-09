@@ -855,6 +855,7 @@ feature2_5139_bszanto/src/org/argouml/uml/ui/LabelledLayout.java -text
 feature2_5139_bszanto/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java -text
 feature2_5139_bszanto/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelActionSequence.java -text
 feature2_5139_bszanto/src/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
+feature2_5139_bszanto/src/org/argouml/uml/ui/foundation/core/ActionMoveUpDown.java -text
 feature2_5139_bszanto/src/org/argouml/uml/ui/foundation/core/PropPanelElementResidence.java -text
 feature2_5139_bszanto/src/org/argouml/util/JavaRuntimeUtility.java -text
 feature2_5139_bszanto/src/org/argouml/util/SingleElementIterator.java -text
