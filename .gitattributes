@@ -1694,6 +1694,7 @@ work_criticsprofiles_maurelio1234/tests/.settings/de.mvmsoft.checkclipse.prefs -
 work_criticsprofiles_maurelio1234/tests/ArgoUML[!!-~]kernel[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
 work_criticsprofiles_maurelio1234/tests/ArgoUML[!!-~]persistence[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
 work_criticsprofiles_maurelio1234/tests/ArgoUML[!!-~]profile[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
+work_criticsprofiles_maurelio1234/tests/ArgoUML[!!-~]profile.internal.ocl[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
 work_criticsprofiles_maurelio1234/tests/Model[!!-~]all[!!-~]tests.launch -text
 work_criticsprofiles_maurelio1234/tests/org/argouml/model/TestUmlFactory.java -text
 work_criticsprofiles_maurelio1234/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
