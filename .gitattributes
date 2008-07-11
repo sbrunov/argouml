@@ -1698,6 +1698,8 @@ work_criticsprofiles_maurelio1234/tests/ArgoUML[!!-~]profile.internal.ocl[!!-~]t
 work_criticsprofiles_maurelio1234/tests/Model[!!-~]all[!!-~]tests.launch -text
 work_criticsprofiles_maurelio1234/tests/org/argouml/model/TestUmlFactory.java -text
 work_criticsprofiles_maurelio1234/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
+work_criticsprofiles_maurelio1234/tests/org/argouml/profile/internal/ocl/TestCrOCL.java -text
+work_criticsprofiles_maurelio1234/tests/org/argouml/profile/internal/ocl/TestCrOCL2.java -text
 work_criticsprofiles_maurelio1234/tests/org/argouml/profile/internal/ocl/TestOclInterpreter.java -text
 work_criticsprofiles_maurelio1234/tests/org/argouml/profile/internal/package.html -text
 work_criticsprofiles_maurelio1234/tests/org/argouml/profile/package.html -text
