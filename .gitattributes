@@ -640,7 +640,6 @@ src/argouml-app/src/org/argouml/application/SubsystemUtility.java -text
 src/argouml-app/src/org/argouml/application/api/Predicate.java -text
 src/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 src/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
-src/argouml-app/src/org/argouml/kernel/ProfileConfiguration.java -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
@@ -664,7 +663,6 @@ src/argouml-app/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java -text
 src/argouml-app/src/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
-src/argouml-app/src/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
 src/argouml-app/src/org/argouml/uml/diagram/DiagramFactoryInterface.java -text
