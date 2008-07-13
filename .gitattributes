@@ -2473,6 +2473,7 @@ work_midterm_maurelio1234/src/org/argouml/ui/explorer/GoProfileToCritics.java -t
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
+work_midterm_maurelio1234/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
 work_midterm_maurelio1234/src/org/argouml/uml/diagram/DiagramFactoryInterface.java -text
 work_midterm_maurelio1234/src/org/argouml/uml/diagram/sequence/ui/ModeContract.java -text
 work_midterm_maurelio1234/src/org/argouml/uml/diagram/sequence/ui/ModeExpand.java -text
