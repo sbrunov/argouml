@@ -338,6 +338,8 @@ src/argouml-app/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-app/ArgoUML[!!-~]DEBUG.launch -text
 src/argouml-app/ArgoUML.launch -text
 src/argouml-app/META-INF/MANIFEST.MF -text
+src/argouml-app/ext/argouml-critics.jar -text
+src/argouml-app/ext/jbeans.jar -text
 src/argouml-app/lib/antlr-2.7.7.jar -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
 src/argouml-app/lib/gef-0.12.4BETA3.jar -text
