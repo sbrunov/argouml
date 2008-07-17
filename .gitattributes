@@ -2438,7 +2438,9 @@ work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/CompositeModelInt
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/ComputeTriggers.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/ContextApplicable.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/CrOCL.java -text
+work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/EvaluateExpression.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/EvaluateInvariant.java -text
+work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/InvalidOclException.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/LambdaEvaluator.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/ModelInterpreter.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/OclInterpreter.java -text
@@ -2446,7 +2448,8 @@ work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/Bag.java -t
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/CollectionsModelInterpreter.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/HashBag.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/ModelAccessModelInterpreter.java -text
-work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/OCLAPIModelInterpreter.java -text
+work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/OclAPIModelInterpreter.java -text
+work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/OclType.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/Uml14ModelInterpreter.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ui/ProfilePropPanelFactory.java -text
 work_midterm_maurelio1234/src/org/argouml/profile/internal/ui/PropPanelCritic.java -text
@@ -2469,8 +2472,8 @@ work_midterm_maurelio1234/src/org/argouml/ui/ProjectSettingsTabProfile.java -tex
 work_midterm_maurelio1234/src/org/argouml/ui/cmd/ActionHelp.java -text
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
-work_midterm_maurelio1234/src/org/argouml/ui/explorer/GoProfileToCritics.java -text
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
+work_midterm_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileToCritics.java -text
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileToModel.java -text
 work_midterm_maurelio1234/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
 work_midterm_maurelio1234/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
