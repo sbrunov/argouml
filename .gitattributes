@@ -1,4 +1,5 @@
 * text=auto !eol
+/build.bat -text
 documentation/Documentation[!!-~]defaulthtml.launch -text
 documentation/Documentation[!!-~]pdf.launch -text
 documentation/build.bat eol=crlf
