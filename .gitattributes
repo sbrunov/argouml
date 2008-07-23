@@ -2519,6 +2519,17 @@ work_issue5029_maurelio1234/tests/testmodels/uml14/GUITestPropertyPanels.zargo -
 work_issue5029_maurelio1234/tests/testmodels/uml14/LinkedProfile.zargo -text
 work_issue5029_maurelio1234/tests/testmodels/uml14/SequenceDiagram.zargo -text
 work_issue5029_maurelio1234/tests/testmodels/uml14/i18n.zargo -text
+work_issue5042_maurelio1234/UserDefinedProfile.java.mine -text
+work_issue5042_maurelio1234/UserDefinedProfile.java.r14801 -text
+work_issue5042_maurelio1234/internal/ProfileMeta.java -text
+work_issue5042_maurelio1234/internal/ui/ProfilePropPanelFactory.java -text
+work_issue5042_maurelio1234/internal/ui/PropPanelCritic.java -text
+work_issue5042_maurelio1234/profiles/uml14/README.txt -text
+work_issue5042_maurelio1234/profiles/uml14/andromda-profile-31.xmi -text
+work_issue5042_maurelio1234/profiles/uml14/andromda-profile-32-noextensions.xmi -text
+work_issue5042_maurelio1234/profiles/uml14/default-java.xmi -text
+work_issue5042_maurelio1234/profiles/uml14/default-uml14.xmi -text
+work_issue5042_maurelio1234/profiles/uml14/metaprofile.xmi -text
 work_midterm_maurelio1234/.classpath -text
 work_midterm_maurelio1234/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
 work_midterm_maurelio1234/.project -text
