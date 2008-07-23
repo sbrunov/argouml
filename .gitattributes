@@ -2120,9 +2120,11 @@ work_issue5029_maurelio1234/.project -text
 work_issue5029_maurelio1234/.settings/de.mvmsoft.checkclipse.prefs -text
 work_issue5029_maurelio1234/.settings/org.eclipse.jdt.core.prefs -text
 work_issue5029_maurelio1234/.settings/org.eclipse.jdt.ui.prefs -text
+work_issue5029_maurelio1234/.settings/org.eclipse.ltk.core.refactoring.prefs -text
 work_issue5029_maurelio1234/ArgoUML[!!-~]DEBUG.launch -text
 work_issue5029_maurelio1234/ArgoUML.launch -text
 work_issue5029_maurelio1234/META-INF/MANIFEST.MF -text
+work_issue5029_maurelio1234/argouml.log -text
 work_issue5029_maurelio1234/lib/antlr-2.7.7.jar -text
 work_issue5029_maurelio1234/lib/commons-logging-1.0.2.jar -text
 work_issue5029_maurelio1234/lib/gef-0.12.4.jar -text
@@ -2428,7 +2430,11 @@ work_issue5029_maurelio1234/src/org/argouml/doc-files/argologo2.gif -text
 work_issue5029_maurelio1234/src/org/argouml/notation/providers/java/package.html -text
 work_issue5029_maurelio1234/src/org/argouml/notation/providers/uml/package.html -text
 work_issue5029_maurelio1234/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
+work_issue5029_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.mine -text
+work_issue5029_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.r14801 -text
 work_issue5029_maurelio1234/src/org/argouml/profile/internal/ProfileMeta.java -text
+work_issue5029_maurelio1234/src/org/argouml/profile/internal/ui/ProfilePropPanelFactory.java -text
+work_issue5029_maurelio1234/src/org/argouml/profile/internal/ui/PropPanelCritic.java -text
 work_issue5029_maurelio1234/src/org/argouml/profile/profiles/uml14/README.txt -text
 work_issue5029_maurelio1234/src/org/argouml/profile/profiles/uml14/andromda-profile-31.xmi -text
 work_issue5029_maurelio1234/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noextensions.xmi -text
@@ -2447,7 +2453,9 @@ work_issue5029_maurelio1234/src/org/argouml/ui/ProfileSelectionTab.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/cmd/ActionHelp.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
+work_issue5029_maurelio1234/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
+work_issue5029_maurelio1234/src/org/argouml/ui/explorer/rules/GoProfileToCritics.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
 work_issue5029_maurelio1234/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
 work_issue5029_maurelio1234/src/org/argouml/uml/diagram/DiagramFactoryInterface.java -text
