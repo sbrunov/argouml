@@ -34,6 +34,7 @@ documentation/cookbook/images/cookbook/notation1.png -text svneol=unset#image/pn
 documentation/cookbook/images/cookbook/notation2.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/notation3.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/profile-class-and-some-derived-classes.png -text svneol=unset#image/png
+documentation/cookbook/images/cookbook/profile-references.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/profile-subsystem-initialization.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/profile-subsystem-overview.png -text svneol=unset#image/png
 documentation/cookbook/images/cookbook/sequence-diagram-of-the-registering-and-unregistering-of-a-profile.png -text svneol=unset#image/png
