@@ -2842,11 +2842,13 @@ work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/CompositeModelI
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/ComputeTriggers.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/ContextApplicable.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/CrOCL.java -text
+work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/DefaultOclEvaluator.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/EvaluateExpression.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/EvaluateInvariant.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/InvalidOclException.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/LambdaEvaluator.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/ModelInterpreter.java -text
+work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/OclExpressionEvaluator.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/OclInterpreter.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/Bag.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/uml14/CollectionsModelInterpreter.java -text
@@ -2929,6 +2931,7 @@ work_issue5042_maurelio1234/tests/org/argouml/model/TestUmlFactory.java -text
 work_issue5042_maurelio1234/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
 work_issue5042_maurelio1234/tests/org/argouml/profile/internal/ocl/TestCrOCL.java -text
 work_issue5042_maurelio1234/tests/org/argouml/profile/internal/ocl/TestCrOCL2.java -text
+work_issue5042_maurelio1234/tests/org/argouml/profile/internal/ocl/TestDefaultOclEvaluator.java -text
 work_issue5042_maurelio1234/tests/org/argouml/profile/internal/ocl/TestOclInterpreter.java -text
 work_issue5042_maurelio1234/tests/org/argouml/profile/internal/package.html -text
 work_issue5042_maurelio1234/tests/org/argouml/profile/package.html -text
