@@ -663,7 +663,6 @@ src/argouml-app/src/org/argouml/taskmgmt/ProgressMonitor.java -text
 src/argouml-app/src/org/argouml/ui/AbstractArgoJPanel.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateContainedModelElement.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateEdgeModelElement.java -text
-src/argouml-app/src/org/argouml/ui/ProfileSelectionTab.java -text
 src/argouml-app/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java -text
 src/argouml-app/src/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
