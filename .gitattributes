@@ -645,6 +645,7 @@ src/argouml-app/src/org/argouml/application/SubsystemUtility.java -text
 src/argouml-app/src/org/argouml/application/api/Predicate.java -text
 src/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 src/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
+src/argouml-app/src/org/argouml/kernel/UmlModelMutator.java -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
