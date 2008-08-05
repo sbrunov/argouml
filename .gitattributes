@@ -2839,6 +2839,7 @@ work_issue5042_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.mine
 work_issue5042_maurelio1234/src/org/argouml/profile/UserDefinedProfile.java.r14801 -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ProfileMeta.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/CompositeModelInterpreter.java -text
+work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/ComputeDesignMaterials.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/ComputeTriggers.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/ContextApplicable.java -text
 work_issue5042_maurelio1234/src/org/argouml/profile/internal/ocl/CrOCL.java -text
