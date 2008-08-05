@@ -2427,6 +2427,7 @@ work_issue5029_maurelio1234/src/org/argouml/application/SubsystemUtility.java -t
 work_issue5029_maurelio1234/src/org/argouml/application/api/Predicate.java -text
 work_issue5029_maurelio1234/src/org/argouml/doc-files/argologo-small.gif -text
 work_issue5029_maurelio1234/src/org/argouml/doc-files/argologo2.gif -text
+work_issue5029_maurelio1234/src/org/argouml/kernel/UmlModelMutator.java -text
 work_issue5029_maurelio1234/src/org/argouml/notation/providers/java/package.html -text
 work_issue5029_maurelio1234/src/org/argouml/notation/providers/uml/package.html -text
 work_issue5029_maurelio1234/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
@@ -2449,7 +2450,6 @@ work_issue5029_maurelio1234/src/org/argouml/taskmgmt/ProgressMonitor.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/AbstractArgoJPanel.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/ActionCreateContainedModelElement.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/ActionCreateEdgeModelElement.java -text
-work_issue5029_maurelio1234/src/org/argouml/ui/ProfileSelectionTab.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/cmd/ActionHelp.java -text
 work_issue5029_maurelio1234/src/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
@@ -2470,6 +2470,7 @@ work_issue5029_maurelio1234/src/org/argouml/uml/diagram/state/ui/ButtonActionNew
 work_issue5029_maurelio1234/src/org/argouml/uml/diagram/static_structure/ui/FigClassifierBoxWithAttributes.java -text
 work_issue5029_maurelio1234/src/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
 work_issue5029_maurelio1234/src/org/argouml/uml/diagram/ui/ActionAddStereotype.java -text
+work_issue5029_maurelio1234/src/org/argouml/uml/diagram/ui/ActionList.java -text
 work_issue5029_maurelio1234/src/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
 work_issue5029_maurelio1234/src/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java -text
 work_issue5029_maurelio1234/src/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
