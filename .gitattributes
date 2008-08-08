@@ -1345,6 +1345,7 @@ feature4_5142_bszanto/src/org/argouml/Images/Choice.gif -text
 feature4_5142_bszanto/src/org/argouml/Images/Circle.gif -text
 feature4_5142_bszanto/src/org/argouml/Images/Class.gif -text
 feature4_5142_bszanto/src/org/argouml/Images/ClassDiagram.gif -text
+feature4_5142_bszanto/src/org/argouml/Images/ClassWizard.gif -text
 feature4_5142_bszanto/src/org/argouml/Images/ClassifierInState.gif -text
 feature4_5142_bszanto/src/org/argouml/Images/ClassifierRole.gif -text
 feature4_5142_bszanto/src/org/argouml/Images/Collaboration.gif -text
@@ -1629,6 +1630,7 @@ feature4_5142_bszanto/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect
 feature4_5142_bszanto/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
+feature4_5142_bszanto/src/org/argouml/uml/diagram/static_structure/ui/ClassCreateWizard.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/static_structure/ui/FigClassifierBoxWithAttributes.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/ActionAddStereotype.java -text
@@ -1637,6 +1639,8 @@ feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/ActionStereotypeView.java -
 feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/ActionStereotypeViewTextual.java -text
+feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/CmdCreateNodeWizard.java -text
+feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/CreateWizard.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/FigProfileIcon.java -text
 feature4_5142_bszanto/src/org/argouml/uml/diagram/ui/ModeAddToDiagram.java -text
 feature4_5142_bszanto/src/org/argouml/uml/generator/TempFileUtils.java -text
