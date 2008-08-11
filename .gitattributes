@@ -649,6 +649,7 @@ src/argouml-app/src/org/argouml/kernel/UmlModelMutator.java -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
+src/argouml-app/src/org/argouml/profile/init/ProfileLoader.java -text
 src/argouml-app/src/org/argouml/profile/internal/ProfileMeta.java -text
 src/argouml-app/src/org/argouml/profile/internal/ui/ProfilePropPanelFactory.java -text
 src/argouml-app/src/org/argouml/profile/internal/ui/PropPanelCritic.java -text
