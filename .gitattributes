@@ -4573,6 +4573,10 @@ work_issue5042_merged15552_maurelio1234/tests/ArgoUML[!!-~]profile[!!-~]tests[!!
 work_issue5042_merged15552_maurelio1234/tests/Model[!!-~]all[!!-~]tests.launch -text
 work_issue5042_merged15552_maurelio1234/tests/org/argouml/model/TestUmlFactory.java -text
 work_issue5042_merged15552_maurelio1234/tests/org/argouml/notation/providers/uml/TestCallStateNotationUml.java -text
+work_issue5042_merged15552_maurelio1234/tests/org/argouml/profile/internal/ocl/TestCrOCL.java -text
+work_issue5042_merged15552_maurelio1234/tests/org/argouml/profile/internal/ocl/TestCrOCL2.java -text
+work_issue5042_merged15552_maurelio1234/tests/org/argouml/profile/internal/ocl/TestDefaultOclEvaluator.java -text
+work_issue5042_merged15552_maurelio1234/tests/org/argouml/profile/internal/ocl/TestOclInterpreter.java -text
 work_issue5042_merged15552_maurelio1234/tests/org/argouml/profile/internal/package.html -text
 work_issue5042_merged15552_maurelio1234/tests/org/argouml/profile/package.html -text
 work_issue5042_merged15552_maurelio1234/tests/testmodels/uml13/Alittlebitofeverything.xmi -text
