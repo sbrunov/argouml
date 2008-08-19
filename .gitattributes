@@ -736,6 +736,7 @@ src/argouml-app/tests/testmodels/uml14/EmptyProject024.zargo -text
 src/argouml-app/tests/testmodels/uml14/GUITestPropertyPanels.zargo -text
 src/argouml-app/tests/testmodels/uml14/LinkedProfile.zargo -text
 src/argouml-app/tests/testmodels/uml14/SequenceDiagram.zargo -text
+src/argouml-app/tests/testmodels/uml14/href-test.xmi -text
 src/argouml-app/tests/testmodels/uml14/i18n.zargo -text
 src/argouml-build/.project -text
 src/argouml-build/build.bat eol=crlf
