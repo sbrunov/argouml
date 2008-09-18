@@ -1374,6 +1374,12 @@ www/newsite/faq/images/example2.gif -text
 www/newsite/faq/images/example3.gif -text
 www/newsite/fullshapes.gif -text
 www/newsite/images/argologo_small_lines.gif -text
+www/profiles/uml14/README.txt -text
+www/profiles/uml14/andromda-profile-31.xmi -text
+www/profiles/uml14/andromda-profile-32-noextensions.xmi -text
+www/profiles/uml14/default-java.xmi -text
+www/profiles/uml14/default-uml14.xmi -text
+www/profiles/uml14/metaprofile.xmi -text
 www/proposals/iconproposal/about_new1.png -text svneol=unset#image/png
 www/proposals/iconproposal/about_new1_sm.png -text svneol=unset#image/png
 www/proposals/iconproposal/about_old.png -text svneol=unset#image/png
