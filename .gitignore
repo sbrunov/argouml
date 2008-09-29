@@ -95,13 +95,6 @@ src/argouml-app/src/org/argouml/i18n/*.class
 src/argouml-app/src/org/argouml/kernel/*.class
 src/argouml-app/src/org/argouml/language/*.class
 src/argouml-app/src/org/argouml/language/java/*.class
-src/argouml-app/src/org/argouml/language/java/generator/*.class
-src/argouml-app/src/org/argouml/language/java/generator/JavaLexer.java
-src/argouml-app/src/org/argouml/language/java/generator/JavaLexer.smap
-src/argouml-app/src/org/argouml/language/java/generator/JavaRecognizer.java
-src/argouml-app/src/org/argouml/language/java/generator/JavaRecognizer.smap
-src/argouml-app/src/org/argouml/language/java/generator/JavaTokenTypes.java
-src/argouml-app/src/org/argouml/language/java/generator/JavaTokenTypes.txt
 src/argouml-app/src/org/argouml/notation/*.class
 src/argouml-app/src/org/argouml/notation/ui/*.class
 src/argouml-app/src/org/argouml/ocl/*.class
@@ -137,13 +130,6 @@ src/argouml-app/src/org/argouml/uml/diagram/use_case/ui/*.class
 src/argouml-app/src/org/argouml/uml/generator/*.class
 src/argouml-app/src/org/argouml/uml/generator/ui/*.class
 src/argouml-app/src/org/argouml/uml/reveng/*.class
-src/argouml-app/src/org/argouml/uml/reveng/java/*.class
-src/argouml-app/src/org/argouml/uml/reveng/java/JavaLexer.java
-src/argouml-app/src/org/argouml/uml/reveng/java/JavaLexer.smap
-src/argouml-app/src/org/argouml/uml/reveng/java/JavaRecognizer.java
-src/argouml-app/src/org/argouml/uml/reveng/java/JavaRecognizer.smap
-src/argouml-app/src/org/argouml/uml/reveng/java/JavaTokenTypes.java
-src/argouml-app/src/org/argouml/uml/reveng/java/JavaTokenTypes.txt
 src/argouml-app/src/org/argouml/uml/ui/*.class
 src/argouml-app/src/org/argouml/uml/ui/behavior/*.class
 src/argouml-app/src/org/argouml/uml/ui/behavior/activity_graphs/*.class
