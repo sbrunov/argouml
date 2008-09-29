@@ -95,8 +95,6 @@ src/argouml-app/src/org/argouml/i18n/*.class
 src/argouml-app/src/org/argouml/kernel/*.class
 src/argouml-app/src/org/argouml/language/*.class
 src/argouml-app/src/org/argouml/language/java/*.class
-src/argouml-app/src/org/argouml/language/java/cognitive/*.class
-src/argouml-app/src/org/argouml/language/java/cognitive/critics/*.class
 src/argouml-app/src/org/argouml/language/java/generator/*.class
 src/argouml-app/src/org/argouml/language/java/generator/JavaLexer.java
 src/argouml-app/src/org/argouml/language/java/generator/JavaLexer.smap
