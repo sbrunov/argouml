@@ -37,7 +37,6 @@ tools/lib/jimi-1.0.jar
 /.fbprefs
 /.fbwarnings
 /DIST
-argouml-core-umlpropertypanels/build-eclipse
 /bin
 /build
 documentation/build
