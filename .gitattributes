@@ -827,6 +827,12 @@ src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
 src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
 src/argouml-core-model/src/org/argouml/model/XmiException.java -text
 src/argouml-core-model/tests/testmodels/uml13/argo-Alittlebitofeverything.xmi -text
+src/argouml-core-umlpropertypanels/.classpath -text
+src/argouml-core-umlpropertypanels/.project -text
+src/argouml-core-umlpropertypanels/.settings/de.mvmsoft.checkclipse.prefs -text
+src/argouml-core-umlpropertypanels/ArgoUML[!!-~]XML[!!-~]Property[!!-~]Panels.launch -text
+src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
+src/argouml-core-umlpropertypanels/xslt/uml14-panels.xsl -text
 src/build.bat eol=crlf
 src/build.sh eol=lf
 tools/apache-ant-1.7.0/INSTALL -text
