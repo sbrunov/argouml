@@ -1138,6 +1138,7 @@ www/documentation/issuezilla/ArgoUMLIssuesWeekly_files/image001.gif -text
 www/documentation/issuezilla/ArgoUMLIssuesWeekly_files/image002.gif -text
 www/documentation/issuezilla/ArgoUMLIssuesWeekly_files/image003.gif -text
 www/documentation/printablehtml/manual/argomanual.html -text
+www/download.js -text
 www/faqs/images/proxy.gif -text
 www/favicon.ico -text
 www/gsoc2007/.project -text
@@ -1274,6 +1275,8 @@ www/images/different_object_name.png -text
 www/images/does[!!-~]not[!!-~]show[!!-~]diagram[!!-~]name[!!-~]dependably.png -text
 www/images/does_not_show_atts.png -text
 www/images/doesnt_show_attributes.png -text
+www/images/download.png -text svneol=unset#image/png
+www/images/download.svg -text
 www/images/engineeringpad.gif -text
 www/images/feed-icon.gif -text
 www/images/funnybehaviorwithnewobjects.png -text
@@ -1418,6 +1421,7 @@ www/psf/argouml-python.psf -text
 www/psf/argouml-sequence2.psf -text
 www/psf/argouml-xml-umlpropertypanels.psf -text
 www/support.html -text
+www/test.html -text
 www/tours/Image1.gif -text svneol=unset#application/octet-stream
 www/tours/about.gif -text
 www/tours/aboutversion.gif -text
