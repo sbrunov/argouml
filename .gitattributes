@@ -652,7 +652,6 @@ src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
 src/argouml-app/src/org/argouml/profile/internal/ocl/uml14/HashBag.java -text
-src/argouml-app/src/org/argouml/profile/internal/ui/PropPanelCritic.java -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/README.txt -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-31.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noextensions.xmi -text
