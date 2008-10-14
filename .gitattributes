@@ -666,7 +666,6 @@ src/argouml-app/src/org/argouml/profile/internal/ocl/LambdaEvaluator.java -text
 src/argouml-app/src/org/argouml/profile/internal/ocl/ModelInterpreter.java -text
 src/argouml-app/src/org/argouml/profile/internal/ocl/OclExpressionEvaluator.java -text
 src/argouml-app/src/org/argouml/profile/internal/ocl/OclInterpreter.java -text
-src/argouml-app/src/org/argouml/profile/internal/ocl/uml14/Bag.java -text
 src/argouml-app/src/org/argouml/profile/internal/ocl/uml14/CollectionsModelInterpreter.java -text
 src/argouml-app/src/org/argouml/profile/internal/ocl/uml14/HashBag.java -text
 src/argouml-app/src/org/argouml/profile/internal/ocl/uml14/ModelAccessModelInterpreter.java -text
