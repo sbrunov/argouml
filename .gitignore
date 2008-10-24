@@ -12,10 +12,6 @@ documentation/docbook-setup/*.zip
 documentation/docbook-setup/docbook-xsl-1.60.1
 documentation/local-*.bat
 documentation/local-*.sh
-documentation/manual/*.hs
-documentation/manual/*.jhm
-documentation/quick-guide/*.hs
-documentation/quick-guide/*.jhm
 modules/jscheme/build
 modules/jscheme/build.properties
 modules/jscheme/local-*.bat
@@ -45,12 +41,6 @@ documentation/cookbook/cookbook-generated.xml.prep
 documentation/cookbook/cookbook.fo
 documentation/docbook-setup/docbook-xsl
 documentation/docbook-setup/docbook-xsl-1.66.1
-documentation/manual/argomanual-generated.xml
-documentation/manual/argomanual-generated.xml.prep
-documentation/manual/argomanual.fo
-documentation/quick-guide/quickguide-generated.xml
-documentation/quick-guide/quickguide-generated.xml.prep
-documentation/quick-guide/quickguide.fo
 modules/dev/build
 modules/dev/build-eclipse
 src/argouml-app/Alittlebitofeverything2.zargo
