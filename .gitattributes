@@ -1001,6 +1001,8 @@ www/images/different_object_name.png -text
 www/images/does[!!-~]not[!!-~]show[!!-~]diagram[!!-~]name[!!-~]dependably.png -text
 www/images/does_not_show_atts.png -text
 www/images/doesnt_show_attributes.png -text
+www/images/download-beta.png -text svneol=unset#image/png
+www/images/download-beta.svg -text
 www/images/download.png -text svneol=unset#image/png
 www/images/download.svg -text
 www/images/engineeringpad.gif -text
