@@ -118,6 +118,7 @@ src/argouml-app/src/org/argouml/Images/AssociationRole.gif -text
 src/argouml-app/src/org/argouml/Images/Asynchronous.gif -text
 src/argouml-app/src/org/argouml/Images/Attribute.gif -text
 src/argouml-app/src/org/argouml/Images/Backward.gif -text
+src/argouml-app/src/org/argouml/Images/Binding.gif -text
 src/argouml-app/src/org/argouml/Images/BooleanExpression.gif -text
 src/argouml-app/src/org/argouml/Images/Branch.gif -text
 src/argouml-app/src/org/argouml/Images/Broom.gif -text
@@ -297,6 +298,8 @@ src/argouml-app/src/org/argouml/Images/SynchState.gif -text
 src/argouml-app/src/org/argouml/Images/Synchronous.gif -text
 src/argouml-app/src/org/argouml/Images/TagDefinition.gif -text
 src/argouml-app/src/org/argouml/Images/TaggedValue.gif -text
+src/argouml-app/src/org/argouml/Images/TemplateArgument.gif -text
+src/argouml-app/src/org/argouml/Images/TemplateParameter.gif -text
 src/argouml-app/src/org/argouml/Images/TerminateAction.gif -text
 src/argouml-app/src/org/argouml/Images/Text.gif -text
 src/argouml-app/src/org/argouml/Images/TimeEvent.gif -text
