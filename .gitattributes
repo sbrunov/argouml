@@ -465,6 +465,7 @@ src/argouml-app/tests/testmodels/uml14/SequenceDiagram.zargo -text
 src/argouml-app/tests/testmodels/uml14/href-test.xmi -text
 src/argouml-app/tests/testmodels/uml14/i18n.zargo -text
 src/argouml-build/.project -text
+src/argouml-build/.settings/org.eclipse.mylyn.tasks.ui.prefs -text
 src/argouml-build/build.bat eol=crlf
 src/argouml-build/build.sh eol=lf
 src/argouml-core-diagrams-sequence2/.classpath -text
