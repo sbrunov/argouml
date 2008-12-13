@@ -11,7 +11,7 @@ src/argouml-app/ArgoUML.launch -text
 src/argouml-app/META-INF/MANIFEST.MF -text
 src/argouml-app/lib/antlr-2.7.7.jar -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
-src/argouml-app/lib/gef-0.12.4.jar -text
+src/argouml-app/lib/gef-0.13M3.jar -text
 src/argouml-app/lib/javadocs/j2se150/package-list -text
 src/argouml-app/lib/ocl-argo-1.1.jar -text
 src/argouml-app/lib/swidgets-0.1.4.jar -text
@@ -54,6 +54,7 @@ src/argouml-app/src/org/argouml/Images/AssociationRole.gif -text
 src/argouml-app/src/org/argouml/Images/Asynchronous.gif -text
 src/argouml-app/src/org/argouml/Images/Attribute.gif -text
 src/argouml-app/src/org/argouml/Images/Backward.gif -text
+src/argouml-app/src/org/argouml/Images/Binding.gif -text
 src/argouml-app/src/org/argouml/Images/BooleanExpression.gif -text
 src/argouml-app/src/org/argouml/Images/Branch.gif -text
 src/argouml-app/src/org/argouml/Images/Broom.gif -text
@@ -233,6 +234,8 @@ src/argouml-app/src/org/argouml/Images/SynchState.gif -text
 src/argouml-app/src/org/argouml/Images/Synchronous.gif -text
 src/argouml-app/src/org/argouml/Images/TagDefinition.gif -text
 src/argouml-app/src/org/argouml/Images/TaggedValue.gif -text
+src/argouml-app/src/org/argouml/Images/TemplateArgument.gif -text
+src/argouml-app/src/org/argouml/Images/TemplateParameter.gif -text
 src/argouml-app/src/org/argouml/Images/TerminateAction.gif -text
 src/argouml-app/src/org/argouml/Images/Text.gif -text
 src/argouml-app/src/org/argouml/Images/TimeEvent.gif -text
@@ -331,7 +334,6 @@ src/argouml-app/src/org/argouml/ui/ActionCreateContainedModelElement.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateEdgeModelElement.java -text
 src/argouml-app/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java -text
-src/argouml-app/src/org/argouml/ui/explorer/ActionExportProfileXMI.java -text
 src/argouml-app/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoCriticsToCritic.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
@@ -339,7 +341,6 @@ src/argouml-app/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguratio
 src/argouml-app/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/ProfileCodeGeneration.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/ProfileGoodPractices.java -text
-src/argouml-app/src/org/argouml/uml/diagram/DiagramFactoryInterface.java -text
 src/argouml-app/src/org/argouml/uml/diagram/sequence/ui/ModeContract.java -text
 src/argouml-app/src/org/argouml/uml/diagram/sequence/ui/ModeExpand.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
@@ -348,7 +349,6 @@ src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java 
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
-src/argouml-app/src/org/argouml/uml/diagram/static_structure/ui/FigClassifierBoxWithAttributes.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionAddStereotype.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
