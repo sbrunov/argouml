@@ -1150,6 +1150,11 @@ www/proposals/svgart/argouml200.png -text svneol=unset#image/png
 www/proposals/uml_profiles/AllProfiles.gif -text
 www/proposals/uml_profiles/profile.zargo -text
 www/psf/.project -text
+www/psf/0_26_2/argouml-command-line-build-projectset.psf -text
+www/psf/0_26_2/argouml-core-projectset.psf -text
+www/psf/0_26_2/argouml-doc-projectset.psf -text
+www/psf/0_26_2/argouml-property-panels-soc08-experimental.psf -text
+www/psf/0_26_2/argouml-sequence2.psf -text
 www/psf/argoeclipse_projectset.psf -text
 www/psf/argoprint_projectset.psf -text
 www/psf/argouml-enki-projectset.psf -text
