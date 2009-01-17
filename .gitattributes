@@ -438,6 +438,7 @@ src/argouml-app/src/org/argouml/uml/ui/LabelledLayout.java -text
 src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/ActionNewActionSequence.java -text
 src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelActionSequence.java -text
 src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
+src/argouml-app/src/org/argouml/uml/ui/behavior/use_cases/UMLIncludeListModel.java -text
 src/argouml-app/src/org/argouml/uml/ui/foundation/core/PropPanelElementResidence.java -text
 src/argouml-app/src/org/argouml/util/JavaRuntimeUtility.java -text
 src/argouml-app/src/org/argouml/util/SingleElementIterator.java -text
