@@ -1,57 +1,5 @@
 * text=auto !eol
 /build.bat -text
-documentation/Documentation[!!-~]defaulthtml.launch -text
-documentation/Documentation[!!-~]pdf.launch -text
-documentation/build.bat eol=crlf
-documentation/build.sh eol=lf
-documentation/cookbook/cookbook.zargo -text
-documentation/cookbook/images/argologo200x190_on_ffffff.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/1.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/10.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/2.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/3.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/4.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/5.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/6.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/7.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/8.png -text svneol=unset#image/png
-documentation/cookbook/images/callouts/9.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/Application.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/ComponentDiagram.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/IssueBigPicture.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/Languages.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/Layer0.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/Layer2.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/Layer3.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/critics.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/dependency-persistence.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/eventsafterpump.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/eventsbeforepump.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/explorer-architecture.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/external.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/multieditorpane.gif -text svneol=unset#image/gif
-documentation/cookbook/images/cookbook/notation1.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/notation2.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/notation3.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/profile-class-and-some-derived-classes.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/profile-references.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/profile-subsystem-initialization.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/profile-subsystem-overview.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/sequence-diagram-of-the-registering-and-unregistering-of-a-profile.png -text svneol=unset#image/png
-documentation/cookbook/images/cookbook/subsystem-ui.png -text svneol=unset#image/png
-documentation/cookbook/images/examples/example1.gif -text svneol=unset#image/gif
-documentation/cookbook/images/examples/example2.gif -text svneol=unset#image/gif
-documentation/cookbook/images/examples/example3.gif -text svneol=unset#image/gif
-documentation/cookbook/images/note.png -text svneol=unset#image/png
-documentation/cookbook/images/screenshots/argocogcriticsreduced.png -text svneol=unset#image/png
-documentation/cookbook/images/tip.png -text svneol=unset#image/png
-documentation/cookbook/images/warning.png -text svneol=unset#image/png
-documentation/cookbook/issueprocess.zargo -text
-documentation/cookbook/layers.zargo -text
-documentation/cookbook/notation.zargo -text
-documentation/cookbook/profile-subsystem.zargo -text
-documentation/docbook-setup/titlepage-html.spec.xml -text
-documentation/docbook-setup/titlepage-pdf.spec.xml -text
 modules/dev/.settings/de.mvmsoft.checkclipse.prefs -text
 modules/dev/ArgoUML[!!-~]dev.launch -text
 modules/dev/META-INF/MANIFEST.MF -text

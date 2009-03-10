@@ -5,13 +5,6 @@
 /\#
 /\#
 /argouml.log
-documentation/build.properties
-documentation/cookbook/*.hs
-documentation/cookbook/*.jhm
-documentation/docbook-setup/*.zip
-documentation/docbook-setup/docbook-xsl-1.60.1
-documentation/local-*.bat
-documentation/local-*.sh
 modules/jscheme/build
 modules/jscheme/build.properties
 modules/jscheme/local-*.bat
@@ -35,12 +28,6 @@ tools/lib/jimi-1.0.jar
 /DIST
 /bin
 /build
-documentation/build
-documentation/cookbook/cookbook-generated.xml
-documentation/cookbook/cookbook-generated.xml.prep
-documentation/cookbook/cookbook.fo
-documentation/docbook-setup/docbook-xsl
-documentation/docbook-setup/docbook-xsl-1.66.1
 modules/dev/build
 modules/dev/build-eclipse
 src/argouml-app/Alittlebitofeverything2.zargo
