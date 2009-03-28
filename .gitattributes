@@ -349,6 +349,7 @@ src/argouml-app/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java -text
 src/argouml-app/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoCriticsToCritic.java -text
+src/argouml-app/src/org/argouml/ui/explorer/rules/GoModelElementToTemplateParameter.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
