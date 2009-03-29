@@ -134,6 +134,7 @@ src/argouml-app/tests/testmodels/Model.dtd
 src/argouml-build/build
 src/argouml-core-diagrams-sequence2/build
 src/argouml-core-infra/build
+src/argouml-core-model-euml/build
 src/argouml-core-model-euml/build-eclipse
 src/argouml-core-model-euml/lib/uml2/org.eclipse.uml2.source_2.2.2.v200902101430
 src/argouml-core-model-mdr/argouml.log
