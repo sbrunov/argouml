@@ -527,6 +527,8 @@ src/argouml-core-umlpropertypanels/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-core-umlpropertypanels/ArgoUML[!!-~]XML[!!-~]Property[!!-~]Panels.launch -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ActionNewAction.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ComponentFactory.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ListFactory.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/PopupMenuNewAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/PopupMenuNewEvent.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ScrollList.java -text
