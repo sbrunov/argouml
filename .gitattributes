@@ -1036,7 +1036,10 @@ www/images/argokernel.png -text
 www/images/argologo.svg -text
 www/images/argologo100x100.gif -text
 www/images/argologo100x100_on_eeeedd.gif -text
+www/images/argologo16x16.gif -text svneol=unset#image/gif
 www/images/argologo200x190.png -text
+www/images/argologo32x32.gif -text svneol=unset#image/gif
+www/images/argologo64x64.gif -text svneol=unset#image/gif
 www/images/argomain.png -text
 www/images/argoocl.png -text
 www/images/argopatterncritics.png -text
