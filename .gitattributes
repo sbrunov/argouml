@@ -337,6 +337,8 @@ src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noext
 src/argouml-app/src/org/argouml/profile/profiles/uml14/default-java.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/default-uml14.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/metaprofile.xmi -text
+src/argouml-app/src/org/argouml/profile/profiles/uml22/default-uml22.xmi -text
+src/argouml-app/src/org/argouml/profile/profiles/uml22/metaprofile.xmi -text
 src/argouml-app/src/org/argouml/resource/default.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/default_console.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
