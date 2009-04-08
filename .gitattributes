@@ -520,6 +520,7 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ListFa
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/PopupMenuNewAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/PopupMenuNewEvent.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ScrollList.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/SingleListFactory.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLActionArgumentListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLAssociationAssociationRoleListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLAssociationConnectionListModel.java -text
