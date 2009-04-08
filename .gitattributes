@@ -599,6 +599,7 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLOpe
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLOperationRaisedSignalsListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLParameterBehavioralFeatListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLSignalContextListModel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLSingleRowSelector.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLStateDeferrableEventList.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLStateDeferrableEventListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLStateDoActivityList.java -text
