@@ -348,7 +348,6 @@ src/argouml-app/src/org/argouml/ui/AbstractArgoJPanel.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateContainedModelElement.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateEdgeModelElement.java -text
 src/argouml-app/src/org/argouml/ui/GUIProjectSettingsTabInterface.java -text
-src/argouml-app/src/org/argouml/ui/ProjectSettingsTabProfile.java -text
 src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java -text
 src/argouml-app/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoCriticsToCritic.java -text
