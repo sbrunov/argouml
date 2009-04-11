@@ -358,12 +358,6 @@ src/argouml-app/src/org/argouml/uml/cognitive/critics/ProfileCodeGeneration.java
 src/argouml-app/src/org/argouml/uml/cognitive/critics/ProfileGoodPractices.java -text
 src/argouml-app/src/org/argouml/uml/diagram/sequence/ui/ModeContract.java -text
 src/argouml-app/src/org/argouml/uml/diagram/sequence/ui/ModeExpand.java -text
-src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewCallEvent.java -text
-src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewChangeEvent.java -text
-src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEffect.java -text
-src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewEvent.java -text
-src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewSignalEvent.java -text
-src/argouml-app/src/org/argouml/uml/diagram/state/ui/ButtonActionNewTimeEvent.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionAddExistingNodes.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionAddStereotype.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
