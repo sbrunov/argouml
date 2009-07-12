@@ -151,6 +151,10 @@ src/argouml-app/src/org/argouml/Images/LinkEnd.gif -text
 src/argouml-app/src/org/argouml/Images/Message.gif -text
 src/argouml-app/src/org/argouml/Images/Method.gif -text
 src/argouml-app/src/org/argouml/Images/Model.gif -text
+src/argouml-app/src/org/argouml/Images/MoveBottom.gif -text
+src/argouml-app/src/org/argouml/Images/MoveDown.gif -text
+src/argouml-app/src/org/argouml/Images/MoveTop.gif -text
+src/argouml-app/src/org/argouml/Images/MoveUp.gif -text
 src/argouml-app/src/org/argouml/Images/Multiplicity.gif -text
 src/argouml-app/src/org/argouml/Images/Multtrigger.gif -text
 src/argouml-app/src/org/argouml/Images/NavigateBack.gif -text
