@@ -525,7 +525,9 @@ src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/Selectio
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/SelectionSignal.java -text
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/SelectionStereotype.java -text
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/SelectionUseCase.java -text
+src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/StructureDiagram2Renderer.java -text
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/StructureDiagramFactory.java -text
+src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/UMLStructureDiagram2.java -text
 src/argouml-core-infra/.classpath -text
 src/argouml-core-infra/.project -text
 src/argouml-core-infra/.settings/org.eclipse.jdt.core.prefs -text
