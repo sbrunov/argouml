@@ -479,7 +479,7 @@ src/argouml-core-diagrams-structure2/build.xml -text
 src/argouml-core-diagrams-structure2/plugin.properties -text
 src/argouml-core-diagrams-structure2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-structure2/src/META-INF/MANIFEST.MF -text
-src/argouml-core-diagrams-structure2/src/org/argouml/structure2/StructureDiagramModule.java -text
+src/argouml-core-diagrams-structure2/src/org/argouml/structure2/StructureDiagram2Module.java -text
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/FigAbstraction2.java -text
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/FigActor2.java -text
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/diagram/FigAssociation2.java -text
