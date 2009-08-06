@@ -25,6 +25,7 @@ src/argouml-app/launch/ArgoUML.launch -text
 src/argouml-app/lib/antlr-2.7.7.jar -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
 src/argouml-app/lib/gef-0.13.1M1.jar -text
+src/argouml-app/lib/gef-0.13.1M2.jar -text
 src/argouml-app/lib/javadocs/j2se150/package-list -text
 src/argouml-app/lib/ocl-argo-1.1.jar -text
 src/argouml-app/lib/swidgets-0.1.4.jar -text
