@@ -508,7 +508,9 @@ src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigEdgeAssociationCl
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigEdgeNote2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigEnumeration2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigException2.java -text
+src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigExtend2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigGeneralization2.java -text
+src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigInclude2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigInterface2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigLink2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigMNode2.java -text
@@ -527,7 +529,10 @@ src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/StructureDiagram2Ren
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/StructureDiagramFactory.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/UMLClassDiagram2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/UMLStructureDiagram2.java -text
+src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/UMLUseCaseDiagram2.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/Uml2DiagramModule.java -text
+src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/UseCaseDiagram2Factory.java -text
+src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/UseCaseDiagramRenderer2.java -text
 src/argouml-core-infra/.classpath -text
 src/argouml-core-infra/.project -text
 src/argouml-core-infra/.settings/org.eclipse.jdt.core.prefs -text
