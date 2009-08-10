@@ -489,7 +489,6 @@ src/argouml-core-diagrams-uml2/plugin.properties -text
 src/argouml-core-diagrams-uml2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-uml2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/ClassDiagram2Factory.java -text
-src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/ClassDiagram2Module.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/ClassDiagram2PropPanelFactory.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/ClassDiagram2Renderer.java -text
 src/argouml-core-diagrams-uml2/src/org/argouml/diagram/uml2/FigAbstraction2.java -text
