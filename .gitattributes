@@ -363,7 +363,7 @@ src/argouml-app/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguratio
 src/argouml-app/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/ProfileCodeGeneration.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/ProfileGoodPractices.java -text
-src/argouml-app/src/org/argouml/uml/diagram/DiagramAssociationSettings.java -text
+src/argouml-app/src/org/argouml/uml/diagram/DiagramEdgeSettings.java -text
 src/argouml-app/src/org/argouml/uml/diagram/DiagramElement.java -text
 src/argouml-app/src/org/argouml/uml/diagram/DiagramElementSettings.java -text
 src/argouml-app/src/org/argouml/uml/diagram/sequence/ui/ModeContract.java -text
