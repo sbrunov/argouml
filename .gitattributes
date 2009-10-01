@@ -374,6 +374,7 @@ src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeView.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeViewBigIcon.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeViewSmallIcon.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ActionStereotypeViewTextual.java -text
+src/argouml-app/src/org/argouml/uml/diagram/ui/FigExtensionPointsCompartment.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/FigProfileIcon.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ModeAddToDiagram.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/ModeCreateAssociation.java -text
