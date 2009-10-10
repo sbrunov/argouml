@@ -204,6 +204,7 @@ src/argouml-app/src/org/argouml/Images/PostItD75.gif -text
 src/argouml-app/src/org/argouml/Images/PostItD99.gif -text
 src/argouml-app/src/org/argouml/Images/PostItMulti.gif -text
 src/argouml-app/src/org/argouml/Images/ProcedureExpression.gif -text
+src/argouml-app/src/org/argouml/Images/Profile.gif -text
 src/argouml-app/src/org/argouml/Images/Project.gif -text
 src/argouml-app/src/org/argouml/Images/RRect.gif -text
 src/argouml-app/src/org/argouml/Images/Realization.gif -text
@@ -311,6 +312,7 @@ src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndF
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Find.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/ImportSources.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/New.gif -text
+src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/NewProfile.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/OpenProject.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/PageSetup.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Paste.gif -text
