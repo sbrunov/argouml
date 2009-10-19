@@ -357,6 +357,9 @@ src/argouml-app/src/org/argouml/ui/AbstractArgoJPanel.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateContainedModelElement.java -text
 src/argouml-app/src/org/argouml/ui/ActionCreateEdgeModelElement.java -text
 src/argouml-app/src/org/argouml/ui/GUIProjectSettingsTabInterface.java -text
+src/argouml-app/src/org/argouml/ui/MenuBar14.java -text
+src/argouml-app/src/org/argouml/ui/MenuBar2.java -text
+src/argouml-app/src/org/argouml/ui/MenuBarFactory.java -text
 src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java -text
 src/argouml-app/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoCriticsToCritic.java -text
