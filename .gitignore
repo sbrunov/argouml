@@ -133,6 +133,8 @@ src/argouml-app/tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
 src/argouml-app/tests/testmodels/Model.dtd
 src/argouml-build/build
 src/argouml-core-diagrams-sequence2/build
+src/argouml-core-diagrams-sequence2/build-eclipse
+src/argouml-core-diagrams-uml2/build-eclipse
 src/argouml-core-infra/build
 src/argouml-core-model-euml/build
 src/argouml-core-model-euml/build-eclipse
