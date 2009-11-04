@@ -6,6 +6,7 @@ modules/dev/META-INF/MANIFEST.MF -text
 modules/dev/src/org/argouml/dev/CallerListNodeBuilder.java -text
 modules/dev/src/org/argouml/dev/DevActionFactory.java -text
 modules/dev/src/org/argouml/dev/EventPumpInspectorPanel.java -text
+modules/dev/src/org/argouml/dev/test.gif -text
 modules/dev/src/org/argouml/dev/test/TestPanel.java -text
 modules/jscheme/build.bat eol=crlf
 modules/jscheme/build.sh eol=lf
