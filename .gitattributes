@@ -666,6 +666,7 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLDep
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLEnumerationLiteralsListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLEventParameterListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLEventTransitionListModel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLExpandableRowSelector.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLExtendBaseListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLExtendExtensionListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLExtendExtensionPointListModel.java -text
