@@ -208,6 +208,7 @@ src/argouml-app/src/org/argouml/Images/PostItMulti.gif -text
 src/argouml-app/src/org/argouml/Images/ProcedureExpression.gif -text
 src/argouml-app/src/org/argouml/Images/Profile.gif -text
 src/argouml-app/src/org/argouml/Images/ProfileConfiguration.gif -text
+src/argouml-app/src/org/argouml/Images/ProfilePackage.gif -text
 src/argouml-app/src/org/argouml/Images/Project.gif -text
 src/argouml-app/src/org/argouml/Images/ProjectImpl.gif -text
 src/argouml-app/src/org/argouml/Images/RRect.gif -text
