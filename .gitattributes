@@ -370,6 +370,7 @@ src/argouml-app/src/org/argouml/ui/MenuBarFactory.java -text
 src/argouml-app/src/org/argouml/ui/cmd/ActionHelp.java -text
 src/argouml-app/src/org/argouml/ui/explorer/ActionManageProfiles.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoCriticsToCritic.java -text
+src/argouml-app/src/org/argouml/ui/explorer/rules/GoModelElementToTemplateParameter.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProfileConfigurationToProfile.java -text
 src/argouml-app/src/org/argouml/ui/explorer/rules/GoProjectToProfileConfiguration.java -text
 src/argouml-app/src/org/argouml/uml/cognitive/critics/CrProfile.java -text
@@ -408,6 +409,7 @@ src/argouml-app/src/org/argouml/uml/ui/behavior/common_behavior/PropPanelActionS
 src/argouml-app/src/org/argouml/uml/ui/behavior/state_machines/ButtonActionNewGuard.java -text
 src/argouml-app/src/org/argouml/uml/ui/behavior/use_cases/UMLIncludeListModel.java -text
 src/argouml-app/src/org/argouml/uml/ui/foundation/core/PropPanelElementResidence.java -text
+src/argouml-app/src/org/argouml/uml/ui/foundation/core/PropPanelTemplateParameter.java -text
 src/argouml-app/src/org/argouml/util/JavaRuntimeUtility.java -text
 src/argouml-app/src/org/argouml/util/SingleElementIterator.java -text
 src/argouml-app/src/org/argouml/util/ToolBarUtility.java -text
