@@ -631,6 +631,8 @@ src/argouml-core-umlpropertypanels/ArgoUML[!!-~]XML[!!-~]Property[!!-~]Panels.la
 src/argouml-core-umlpropertypanels/build.xml -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
 src/argouml-core-umlpropertypanels/src/META-INF/MANIFEST.MF -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/CheckBoxMeta.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/PanelMetaCache.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/module/TempListener.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/module/TempTabPage.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ActionBuilder.java -text
@@ -752,8 +754,6 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTra
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLUseCaseExtendListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLUseCaseExtensionPointListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLUseCaseIncludeListModel.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/xml/CheckBoxMeta.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/xml/PanelMetaCache.java -text
 src/argouml-core-umlpropertypanels/xslt/uml14-panels.xsl -text
 src/build.bat eol=crlf
 src/build.sh eol=lf
