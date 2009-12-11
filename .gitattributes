@@ -753,6 +753,7 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLUse
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLUseCaseExtensionPointListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLUseCaseIncludeListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/xml/CheckBoxMeta.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/xml/PanelMetaCache.java -text
 src/argouml-core-umlpropertypanels/xslt/uml14-panels.xsl -text
 src/build.bat eol=crlf
 src/build.sh eol=lf
