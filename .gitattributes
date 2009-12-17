@@ -757,8 +757,8 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTem
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTemplateParameterParameterComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTemplateParameterParameterListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTemplateParameterTemplateListModel.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTextArea2.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTextField2.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTextArea.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTextField.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTransitionEffectListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTransitionGuardListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTransitionSourceListModel.java -text
