@@ -637,7 +637,6 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/module/Te
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/module/TempTabPage.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ActionBuilder.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ActionNewAction.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ActionSetStructuralFeatureType.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ComponentFactory.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/LabelledComponent.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/LabelledLayout.java -text
