@@ -676,7 +676,6 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLCom
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLComponentResidentListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLCompositeStateSubvertexList.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLCompositeStateSubvertexListModel.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLConcreteModelElementComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLConstraintConstrainedElementListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLContainerResidentListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLCreateActionClassifierListModel.java -text
