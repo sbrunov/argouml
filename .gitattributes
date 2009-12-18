@@ -627,7 +627,6 @@ src/argouml-core-model/tests/testmodels/uml14/issue4440-Poseidon-hybrid.xmi -tex
 src/argouml-core-umlpropertypanels/.classpath -text
 src/argouml-core-umlpropertypanels/.project -text
 src/argouml-core-umlpropertypanels/.settings/de.mvmsoft.checkclipse.prefs -text
-src/argouml-core-umlpropertypanels/ArgoUML[!!-~]XML[!!-~]Property[!!-~]Panels.launch -text
 src/argouml-core-umlpropertypanels/build.xml -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
 src/argouml-core-umlpropertypanels/src/META-INF/MANIFEST.MF -text
