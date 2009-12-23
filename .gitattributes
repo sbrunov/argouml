@@ -644,12 +644,16 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/Compon
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/LabelledComponent.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/LabelledLayout.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ListFactory.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/OldScrollList.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/Ordered.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/PopupMenuNewAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/PopupMenuNewEvent.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/RadioButtonPanel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/RowSelector.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ScrollList.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ScrollListFactory.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ScrollListImpl.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/SimpleListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/SingleListFactory.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLActionArgumentListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLAssociationAssociationRoleListModel.java -text
