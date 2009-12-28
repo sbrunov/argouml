@@ -1,5 +1,6 @@
 * text=auto !eol
 /build.bat -text
+modules/dev/.checkstyle -text
 modules/dev/.settings/de.mvmsoft.checkclipse.prefs -text
 modules/dev/ArgoUML[!!-~]dev.launch -text
 modules/dev/META-INF/MANIFEST.MF -text
@@ -13,6 +14,7 @@ modules/jscheme/build.sh eol=lf
 modules/jscheme/lib/jscheme.jar -text
 modules/jscheme/local-ant-clean.bat eol=crlf
 modules/jscheme/local-ant-install.bat eol=crlf
+src/argouml-app/.checkstyle -text
 src/argouml-app/.classpath -text
 src/argouml-app/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
 src/argouml-app/.project -text
@@ -469,6 +471,7 @@ src/argouml-core-diagrams-class2/build.xml -text
 src/argouml-core-diagrams-class2/plugin.properties -text
 src/argouml-core-diagrams-class2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-class2/src/META-INF/MANIFEST.MF -text
+src/argouml-core-diagrams-sequence2/.checkstyle -text
 src/argouml-core-diagrams-sequence2/.classpath -text
 src/argouml-core-diagrams-sequence2/.project -text
 src/argouml-core-diagrams-sequence2/.settings/de.mvmsoft.checkclipse.prefs -text
@@ -495,6 +498,7 @@ src/argouml-core-diagrams-structure2/plugin.properties -text
 src/argouml-core-diagrams-structure2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-structure2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-structure2/src/org/argouml/structure2/StructureDiagram2Module.java -text
+src/argouml-core-diagrams-uml2/.checkstyle -text
 src/argouml-core-diagrams-uml2/.classpath -text
 src/argouml-core-diagrams-uml2/.project -text
 src/argouml-core-diagrams-uml2/.settings/de.mvmsoft.checkclipse.prefs -text
@@ -556,6 +560,7 @@ src/argouml-core-infra/.project -text
 src/argouml-core-infra/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-core-infra/META-INF/MANIFEST.MF -text
 src/argouml-core-infra/lib/log4j-1.2.6.jar -text
+src/argouml-core-model-euml/.checkstyle -text
 src/argouml-core-model-euml/.classpath -text
 src/argouml-core-model-euml/.project -text
 src/argouml-core-model-euml/.settings/de.mvmsoft.checkclipse.prefs -text
@@ -605,6 +610,7 @@ src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/L3.merged.cm
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/LM.cmof -text
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/LM.merged.cmof -text
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/Superstructure.cmof -text
+src/argouml-core-model-mdr/.checkstyle -text
 src/argouml-core-model-mdr/.externalToolBuilders/Generate[!!-~]MDR[!!-~]interfaces[!!-~]\[Builder\].launch -text
 src/argouml-core-model-mdr/build.bat eol=crlf
 src/argouml-core-model-mdr/build.sh eol=lf
@@ -619,11 +625,13 @@ src/argouml-core-model-mdr/lib/openide-util.jar -text
 src/argouml-core-model-mdr/tests/org/argouml/resource/info_console.lcf -text
 src/argouml-core-model-mdr/tests/testmodels/test.xmi -text
 src/argouml-core-model-mdr/tools/lib/mdrant-patched.jar -text
+src/argouml-core-model/.checkstyle -text
 src/argouml-core-model/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
 src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
 src/argouml-core-model/tests/testmodels/uml13/argo-Alittlebitofeverything.xmi -text
 src/argouml-core-model/tests/testmodels/uml14/issue4440-Poseidon-hybrid.xmi -text
+src/argouml-core-umlpropertypanels/.checkstyle -text
 src/argouml-core-umlpropertypanels/.classpath -text
 src/argouml-core-umlpropertypanels/.project -text
 src/argouml-core-umlpropertypanels/.settings/de.mvmsoft.checkclipse.prefs -text
