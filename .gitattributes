@@ -649,6 +649,9 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/Action
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ActionNewAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/CheckBox.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ComponentFactory.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ExpressionBodyField.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ExpressionLanguageField.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ExpressionModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/LabelledComponent.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/LabelledLayout.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/ListFactory.java -text
@@ -733,6 +736,7 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLMes
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLMessageReceiverListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLMessageSenderListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLMetaClassComboBoxModel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLMethodSpecificationComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLModelElementClientDependencyListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLModelElementConstraintListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLModelElementElementResidenceListModel.java -text
