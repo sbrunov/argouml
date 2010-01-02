@@ -724,8 +724,6 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLInc
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLIncludeListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLInstanceClassifierListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLInstanceLinkEndListModel.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLInstanceReceiverStimulusListModel.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLInstanceSenderStimulusListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLInteractionContextListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLInteractionMessagesListModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLLinkConnectionListModel.java -text
