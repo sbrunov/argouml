@@ -339,7 +339,6 @@ src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndF
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateForward.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/navigation/NavigateUp.gif -text
 src/argouml-app/src/org/argouml/Images/uml2explorerbg.png -text svneol=unset#image/png
-src/argouml-app/src/org/argouml/application/SubsystemUtility.java -text
 src/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 src/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
 src/argouml-app/src/org/argouml/i18n/wfr.properties -text
