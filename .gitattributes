@@ -666,8 +666,9 @@ tools/apache-ant-1.7.0/lib/ant-weblogic.jar -text
 tools/apache-ant-1.7.0/lib/ant.jar -text
 tools/apache-ant-1.7.0/lib/xercesImpl.jar -text
 tools/apache-ant-1.7.0/lib/xml-apis.jar -text
-tools/bin/add-epl-header.sh -text
+tools/bin/add-epl-header.sh eol=lf
 tools/bin/checkstyle-on-changed.sh eol=lf
+tools/bin/fix-properties.sh eol=lf
 tools/bin/generate-mailing-list-list.sh eol=lf
 tools/bin/i18n-find-undeclared-tags.sh eol=lf
 tools/bin/modelImplementationGenerator.sh eol=lf
