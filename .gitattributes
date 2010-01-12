@@ -1,14 +1,11 @@
 * text=auto !eol
-/build.bat -text
+/build.bat eol=crlf
+/build.sh eol=lf
 modules/dev/.checkstyle -text
 modules/dev/.settings/de.mvmsoft.checkclipse.prefs -text
 modules/dev/ArgoUML[!!-~]dev.launch -text
 modules/dev/META-INF/MANIFEST.MF -text
-modules/dev/src/org/argouml/dev/CallerListNodeBuilder.java -text
-modules/dev/src/org/argouml/dev/DevActionFactory.java -text
-modules/dev/src/org/argouml/dev/EventPumpInspectorPanel.java -text
 modules/dev/src/org/argouml/dev/test.gif -text
-modules/dev/src/org/argouml/dev/test/TestPanel.java -text
 modules/jscheme/build.bat eol=crlf
 modules/jscheme/build.sh eol=lf
 modules/jscheme/lib/jscheme.jar -text
@@ -38,8 +35,8 @@ src/argouml-app/src/bin/ArgoUML.ico -text
 src/argouml-app/src/bin/ArgoUMLdoc.ico -text
 src/argouml-app/src/bin/argouml.bat eol=crlf
 src/argouml-app/src/bin/argouml.sh eol=lf
-src/argouml-app/src/bin/argouml2.bat -text
-src/argouml-app/src/bin/argouml2.sh -text
+src/argouml-app/src/bin/argouml2.bat eol=crlf
+src/argouml-app/src/bin/argouml2.sh eol=lf
 src/argouml-app/src/org/argouml/Images/Abstraction.gif -text
 src/argouml-app/src/org/argouml/Images/ActionExpression.gif -text
 src/argouml-app/src/org/argouml/Images/ActionSequence.gif -text
@@ -345,7 +342,6 @@ src/argouml-app/src/org/argouml/i18n/wfr.properties -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
-src/argouml-app/src/org/argouml/profile/profiles/uml14/README.txt -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-31.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/andromda-profile-32-noextensions.xmi -text
 src/argouml-app/src/org/argouml/profile/profiles/uml14/default-uml14.xmi -text
@@ -387,7 +383,6 @@ src/argouml-core-diagrams-activity2/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-core-diagrams-activity2/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-activity2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-activity2/build.properties -text
-src/argouml-core-diagrams-activity2/build.xml -text
 src/argouml-core-diagrams-activity2/plugin.properties -text
 src/argouml-core-diagrams-activity2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-activity2/src/META-INF/MANIFEST.MF -text
@@ -400,7 +395,6 @@ src/argouml-core-diagrams-class2/ArgoUML[!!-~]class2[!!-~]tests.launch -text
 src/argouml-core-diagrams-class2/ArgoUML[!!-~]class2.launch -text
 src/argouml-core-diagrams-class2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-class2/build.properties -text
-src/argouml-core-diagrams-class2/build.xml -text
 src/argouml-core-diagrams-class2/plugin.properties -text
 src/argouml-core-diagrams-class2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-class2/src/META-INF/MANIFEST.MF -text
@@ -422,7 +416,6 @@ src/argouml-core-diagrams-structure2/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-core-diagrams-structure2/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-structure2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-structure2/build.properties -text
-src/argouml-core-diagrams-structure2/build.xml -text
 src/argouml-core-diagrams-structure2/plugin.properties -text
 src/argouml-core-diagrams-structure2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-structure2/src/META-INF/MANIFEST.MF -text
@@ -435,7 +428,6 @@ src/argouml-core-diagrams-uml2/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-uml2/ArgoUML[!!-~]uml2.launch -text
 src/argouml-core-diagrams-uml2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-uml2/build.properties -text
-src/argouml-core-diagrams-uml2/build.xml -text
 src/argouml-core-diagrams-uml2/plugin.properties -text
 src/argouml-core-diagrams-uml2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-uml2/src/META-INF/MANIFEST.MF -text
@@ -517,7 +509,6 @@ src/argouml-core-umlpropertypanels/.classpath -text
 src/argouml-core-umlpropertypanels/.project -text
 src/argouml-core-umlpropertypanels/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-core-umlpropertypanels/.settings/org.eclipse.jdt.core.prefs -text
-src/argouml-core-umlpropertypanels/build.xml -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
 src/argouml-core-umlpropertypanels/src/META-INF/MANIFEST.MF -text
 src/argouml-core-umlpropertypanels/xslt/uml14-panels.xsl -text
@@ -678,21 +669,14 @@ tools/checkstyle-4.3/LICENSE.apache20 -text
 tools/checkstyle-4.3/README -text
 tools/checkstyle-4.3/RIGHTS.antlr -text
 tools/checkstyle-4.3/antlr.jar -text
-tools/checkstyle-4.3/build.xml -text
 tools/checkstyle-4.3/checkstyle-4.3.jar -text
 tools/checkstyle-4.3/checkstyle-all-4.3.jar -text
 tools/checkstyle-4.3/checkstyle-optional-4.3.jar -text
-tools/checkstyle-4.3/checkstyle_checks.xml -text
 tools/checkstyle-4.3/commons-beanutils-core.jar -text
 tools/checkstyle-4.3/commons-cli.jar -text
 tools/checkstyle-4.3/commons-collections.jar -text
 tools/checkstyle-4.3/commons-logging.jar -text
-tools/checkstyle-4.3/import-control.xml -text
 tools/checkstyle-4.3/java.header -text
-tools/checkstyle-4.3/pom-optional.xml -text
-tools/checkstyle-4.3/pom.xml -text
-tools/checkstyle-4.3/sun_checks.xml -text
-tools/checkstyle-4.3/suppressions.xml -text
 tools/checkstyle/checkclipse.filefilters -text svneol=unset#application/octet-stream
 tools/classycle/classycle.jar -text
 tools/classycle/images/abstract.png -text
@@ -717,8 +701,6 @@ tools/cobertura-1.9/lib/asm-2.2.1.jar -text
 tools/cobertura-1.9/lib/asm-tree-2.2.1.jar -text
 tools/cobertura-1.9/lib/jakarta-oro-2.0.8.jar -text
 tools/cobertura-1.9/lib/log4j-1.2.9.jar -text
-tools/cruisecontrol/build-argouml.xml -text
-tools/cruisecontrol/config.xml -text
 tools/cruisecontrol/emailmap.properties -text
 tools/eclipse/eclipse-user-defined-dictionary -text
 tools/fop-0.20.5/build/fop.jar -text
@@ -740,7 +722,6 @@ tools/junit-3.8.2/junit.jar -text
 tools/lib/easymock12.jar -text
 tools/lib/javasrc-2001-beta.jar -text
 tools/lib/saxon-6.5.2.jar -text
-tools/pmd-4.0/bin/build.xml -text
 tools/pmd-4.0/bin/cpd.sh eol=lf
 tools/pmd-4.0/bin/cpdgui.bat eol=crlf
 tools/pmd-4.0/bin/cygwin-run.sh eol=lf
@@ -748,8 +729,6 @@ tools/pmd-4.0/bin/designer.bat eol=crlf
 tools/pmd-4.0/bin/designer.sh eol=lf
 tools/pmd-4.0/bin/pmd.bat eol=crlf
 tools/pmd-4.0/bin/pmd.sh eol=lf
-tools/pmd-4.0/etc/LICENSE.txt -text
-tools/pmd-4.0/etc/changelog.txt -text
 tools/pmd-4.0/etc/xslt/arrow_down.gif -text
 tools/pmd-4.0/etc/xslt/arrow_up.gif -text
 tools/pmd-4.0/etc/xslt/corley-pmd-report.xslt -text
@@ -836,8 +815,6 @@ www/faqs/images/proxy.gif -text
 www/favicon.ico -text
 www/gsoc2007/.project -text
 www/gsoc2007/profiles/index.html -text
-www/gsoc2007/profiles/index_arquivos/colorschememapping.xml -text
-www/gsoc2007/profiles/index_arquivos/filelist.xml -text
 www/gsoc2007/profiles/index_arquivos/themedata.thmx -text
 www/gsoc2007/profiles/proposal0/ClassDiagram.png -text
 www/gsoc2007/profiles/proposal0/ProfilesTab.PNG -text
