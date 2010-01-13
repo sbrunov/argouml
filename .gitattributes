@@ -825,8 +825,6 @@ www/gsoc2007/profiles/proposal0/profile-javabeans.jar -text
 www/gsoc2007/profiles/proposal0/profile-javabeans.src.zip -text
 www/gsoc2007/profiles/proposal0/threading.xmi -text
 www/gsoc2007/profiles/tutorial/index.htm -text
-www/gsoc2007/profiles/tutorial/index_arquivos/colorschememapping.xml -text
-www/gsoc2007/profiles/tutorial/index_arquivos/filelist.xml -text
 www/gsoc2007/profiles/tutorial/index_arquivos/image001.png -text
 www/gsoc2007/profiles/tutorial/index_arquivos/image003.gif -text
 www/gsoc2007/profiles/tutorial/index_arquivos/image004.png -text
@@ -1062,7 +1060,6 @@ www/newsite/faq/images/example2.gif -text
 www/newsite/faq/images/example3.gif -text
 www/newsite/fullshapes.gif -text
 www/newsite/images/argologo_small_lines.gif -text
-www/profiles/uml14/README.txt -text
 www/profiles/uml14/andromda-profile-31.xmi -text
 www/profiles/uml14/andromda-profile-32-noextensions.xmi -text
 www/profiles/uml14/default-java.xmi -text
