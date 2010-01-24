@@ -19,10 +19,6 @@ src/argouml-app/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-app/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-app/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-app/META-INF/MANIFEST.MF -text
-src/argouml-app/launch/ArgoUML[!!-~](live[!!-~]GEF).launch -text
-src/argouml-app/launch/ArgoUML[!!-~]DEBUG.launch -text
-src/argouml-app/launch/ArgoUML[!!-~]Languages.launch -text
-src/argouml-app/launch/ArgoUML.launch -text
 src/argouml-app/lib/antlr-2.7.7.jar -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
 src/argouml-app/lib/gef-0.13.1M3.jar -text
@@ -372,7 +368,11 @@ src/argouml-app/tests/testmodels/uml14/LinkedProfile.zargo -text
 src/argouml-app/tests/testmodels/uml14/SequenceDiagram.zargo -text
 src/argouml-app/tests/testmodels/uml14/href-test.xmi -text
 src/argouml-app/tests/testmodels/uml14/i18n.zargo -text
+src/argouml-app/tools/eclipse/ArgoUML[!!-~](live[!!-~]GEF).launch -text
+src/argouml-app/tools/eclipse/ArgoUML[!!-~]DEBUG.launch -text
+src/argouml-app/tools/eclipse/ArgoUML[!!-~]Languages.launch -text
 src/argouml-app/tools/eclipse/ArgoUML[!!-~]with[!!-~]all[!!-~]delivered[!!-~]modules.launch -text
+src/argouml-app/tools/eclipse/ArgoUML.launch -text
 src/argouml-build/.project -text
 src/argouml-build/.settings/org.eclipse.mylyn.tasks.ui.prefs -text
 src/argouml-build/build.bat eol=crlf
