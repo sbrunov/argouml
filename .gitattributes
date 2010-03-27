@@ -527,6 +527,7 @@ src/argouml-core-umlpropertypanels/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
 src/argouml-core-umlpropertypanels/src/META-INF/MANIFEST.MF -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/panels2.xml -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/AbstractActionAddModelElement.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateNextAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigatePreviousAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateUpAction.java -text
