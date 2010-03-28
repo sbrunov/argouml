@@ -206,6 +206,7 @@ src/argouml-app/src/org/argouml/Images/ProfileConfiguration.gif -text
 src/argouml-app/src/org/argouml/Images/ProfilePackage.gif -text
 src/argouml-app/src/org/argouml/Images/Project.gif -text
 src/argouml-app/src/org/argouml/Images/ProjectImpl.gif -text
+src/argouml-app/src/org/argouml/Images/Property.gif -text
 src/argouml-app/src/org/argouml/Images/RRect.gif -text
 src/argouml-app/src/org/argouml/Images/Realization.gif -text
 src/argouml-app/src/org/argouml/Images/Reception.gif -text
@@ -214,6 +215,7 @@ src/argouml-app/src/org/argouml/Images/Recursion.gif -text
 src/argouml-app/src/org/argouml/Images/RedDelete.gif -text
 src/argouml-app/src/org/argouml/Images/Redo.gif -text
 src/argouml-app/src/org/argouml/Images/Refinement.gif -text
+src/argouml-app/src/org/argouml/Images/Remove.gif -text
 src/argouml-app/src/org/argouml/Images/ResolveItem.gif -text
 src/argouml-app/src/org/argouml/Images/RetMessage.gif -text
 src/argouml-app/src/org/argouml/Images/ReturnAction.gif -text
@@ -524,6 +526,15 @@ src/argouml-core-umlpropertypanels/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-core-umlpropertypanels/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
 src/argouml-core-umlpropertypanels/src/META-INF/MANIFEST.MF -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/panels2.xml -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/AbstractActionAddModelElement.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateNextAction.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigatePreviousAction.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateUpAction.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLComboBoxNavigator.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLReceptionSignalComboBoxModel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLReceptionSpecificationDocument.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTransitionTriggerComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/xslt/uml14-panels.xsl -text
 src/build.bat eol=crlf
 src/build.sh eol=lf
