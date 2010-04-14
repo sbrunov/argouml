@@ -513,6 +513,7 @@ src/argouml-core-model-mdr/tests/testmodels/AndroMDA-3.3/zipped-uml14/andromda-p
 src/argouml-core-model-mdr/tests/testmodels/AndroMDA-3.3/zipped-uml14/andromda-profile/3.3/andromda-profile-3.3.xml.zip -text
 src/argouml-core-model-mdr/tests/testmodels/test.xmi -text
 src/argouml-core-model-mdr/tools/lib/mdrant-patched.jar -text
+src/argouml-core-model-mdr/tools/mdrsrc20050711.jar -text
 src/argouml-core-model/.checkstyle -text
 src/argouml-core-model/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
