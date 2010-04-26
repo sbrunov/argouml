@@ -539,6 +539,7 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/Naviga
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigatePreviousAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateSiblingAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateUpAction.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLActivityGraphContextComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLComboBoxNavigator.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLReceptionSignalComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLReceptionSpecificationDocument.java -text
