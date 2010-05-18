@@ -536,6 +536,14 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/Name
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/metamodel.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/metamodel2.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/panels2.xml -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/CheckBoxData.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/ControlData.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/IconIdentifiable.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/MetaDataCache.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/Named.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/PanelData.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/metamodel.xml -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/metamodel2.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/AbstractActionAddModelElement.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateNextAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigatePreviousAction.java -text
