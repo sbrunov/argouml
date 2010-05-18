@@ -531,10 +531,6 @@ src/argouml-core-umlpropertypanels/META-INF/MANIFEST.MF -text
 src/argouml-core-umlpropertypanels/build.properties -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
 src/argouml-core-umlpropertypanels/src/META-INF/MANIFEST.MF -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/IconIdentifiable.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/Named.java -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/metamodel.xml -text
-src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/metamodel2.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/panels2.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/CheckBoxData.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/ControlData.java -text
