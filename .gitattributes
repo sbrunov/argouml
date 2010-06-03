@@ -179,6 +179,7 @@ src/argouml-app/src/org/argouml/Images/NudgeUp.gif -text
 src/argouml-app/src/org/argouml/Images/ObjDelete.gif -text
 src/argouml-app/src/org/argouml/Images/Object.gif -text
 src/argouml-app/src/org/argouml/Images/ObjectFlowState.gif -text
+src/argouml-app/src/org/argouml/Images/OpaqueBehavior.gif -text
 src/argouml-app/src/org/argouml/Images/OpenProject.gif -text
 src/argouml-app/src/org/argouml/Images/Operation.gif -text
 src/argouml-app/src/org/argouml/Images/Package.gif -text
