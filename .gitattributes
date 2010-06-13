@@ -720,6 +720,7 @@ tools/checkstyle-4.3/commons-collections.jar -text
 tools/checkstyle-4.3/commons-logging.jar -text
 tools/checkstyle-4.3/java.header -text
 tools/checkstyle/checkclipse.filefilters -text svneol=unset#application/octet-stream
+tools/checkstyle/checkstyle5_argouml.xml -text
 tools/classycle/classycle.jar -text
 tools/classycle/images/abstract.png -text
 tools/classycle/images/class.png -text
