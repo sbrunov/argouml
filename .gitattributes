@@ -540,6 +540,7 @@ src/argouml-core-model/.checkstyle -text
 src/argouml-core-model/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
 src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
+src/argouml-core-model/pom.xml -text
 src/argouml-core-model/tests/testmodels/uml13/argo-Alittlebitofeverything.xmi -text
 src/argouml-core-model/tests/testmodels/uml14/issue4440-Poseidon-hybrid.xmi -text
 src/argouml-core-umlpropertypanels/.checkstyle -text
@@ -784,6 +785,9 @@ tools/junit-3.8.2/junit.jar -text
 tools/lib/easymock12.jar -text
 tools/lib/javasrc-2001-beta.jar -text
 tools/lib/saxon-6.5.2.jar -text
+tools/maven/parentpom-for-modules.xml -text
+tools/maven/parentpom.xml -text
+tools/maven/toppom.xml -text
 tools/pmd-4.0/bin/cpd.sh eol=lf
 tools/pmd-4.0/bin/cpdgui.bat eol=crlf
 tools/pmd-4.0/bin/cygwin-run.sh eol=lf
