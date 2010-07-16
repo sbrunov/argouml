@@ -389,13 +389,6 @@ src/argouml-core-diagrams-activity2/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-core-diagrams-activity2/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-activity2/ArgoUML[!!-~]activity2[!!-~]tests.launch -text
 src/argouml-core-diagrams-activity2/META-INF/MANIFEST.MF -text
-src/argouml-core-diagrams-activity2/argouml-core-diagrams-activity2/.checkstyle -text
-src/argouml-core-diagrams-activity2/argouml-core-diagrams-activity2/.classpath -text
-src/argouml-core-diagrams-activity2/argouml-core-diagrams-activity2/.project -text
-src/argouml-core-diagrams-activity2/argouml-core-diagrams-activity2/.settings/de.mvmsoft.checkclipse.prefs -text
-src/argouml-core-diagrams-activity2/argouml-core-diagrams-activity2/.settings/org.eclipse.jdt.core.prefs -text
-src/argouml-core-diagrams-activity2/argouml-core-diagrams-activity2/.settings/org.eclipse.jdt.ui.prefs -text
-src/argouml-core-diagrams-activity2/argouml-core-diagrams-activity2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-activity2/build.properties -text
 src/argouml-core-diagrams-activity2/plugin.properties -text
 src/argouml-core-diagrams-activity2/src/.settings/org.eclipse.jdt.ui.prefs -text
