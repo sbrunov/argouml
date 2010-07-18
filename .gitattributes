@@ -397,6 +397,7 @@ src/argouml-core-diagrams-activity2/src/org/argouml/activity2/ActivityDiagramPro
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ActivityDiagramGraphModel.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ActivityDiagramRenderer.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAction.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigActivityEdge.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/UMLActivityDiagram.java -text
 src/argouml-core-diagrams-class2/.classpath -text
 src/argouml-core-diagrams-class2/.project -text
