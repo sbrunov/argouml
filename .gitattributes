@@ -11,6 +11,7 @@ modules/jscheme/build.sh eol=lf
 modules/jscheme/lib/jscheme.jar -text
 modules/jscheme/local-ant-clean.bat eol=crlf
 modules/jscheme/local-ant-install.bat eol=crlf
+/pom.xml -text
 src/argouml-app/.checkstyle -text
 src/argouml-app/.classpath -text
 src/argouml-app/.externalToolBuilders/Generate[!!-~]version[!!-~]and[!!-~]parsers[!!-~]\[Builder\].launch -text
