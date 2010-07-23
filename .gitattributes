@@ -383,6 +383,7 @@ src/argouml-build/.project -text
 src/argouml-build/.settings/org.eclipse.mylyn.tasks.ui.prefs -text
 src/argouml-build/build.bat eol=crlf
 src/argouml-build/build.sh eol=lf
+src/argouml-core-diagrams-activity2/.checkstyle -text
 src/argouml-core-diagrams-activity2/.classpath -text
 src/argouml-core-diagrams-activity2/.project -text
 src/argouml-core-diagrams-activity2/.settings/de.mvmsoft.checkclipse.prefs -text
