@@ -398,6 +398,7 @@ src/argouml-core-diagrams-activity2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/ActivityDiagramPropPanelFactory.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ActivityDiagramGraphModel.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ActivityDiagramRenderer.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/BaseDiagram.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAcceptEventPoly.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAction.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigActivityEdge.java -text
