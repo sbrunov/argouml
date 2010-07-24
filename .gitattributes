@@ -400,7 +400,6 @@ src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ActivityDi
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ActivityDiagramRenderer.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/BaseDiagram.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAcceptEventPoly.java -text
-src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAction.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigActivityEdge.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigActivityNode.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigGravityPoly.java -text
