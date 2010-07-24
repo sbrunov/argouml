@@ -134,6 +134,9 @@ src/argouml-app/tests/testmodels/Model.dtd
 src/argouml-build/build
 src/argouml-build/build-reports.xml
 src/argouml-build/reporting.properties
+src/argouml-core-diagrams-activity2/build
+src/argouml-core-diagrams-activity2/build-eclipse
+src/argouml-core-diagrams-activity2/target
 src/argouml-core-diagrams-sequence2/build
 src/argouml-core-diagrams-sequence2/build-eclipse
 src/argouml-core-diagrams-uml2/build-eclipse
