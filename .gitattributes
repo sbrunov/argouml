@@ -303,11 +303,13 @@ src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndF
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/DestroyObjectAction.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/DropDown.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Generalization.gif -text
+src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/InputPin.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Interface.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewAttribute.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewNote.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/NewOperation.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/ObjectFlow.gif -text
+src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/OutputPin.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Package.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Permission.gif -text
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Realization.gif -text
