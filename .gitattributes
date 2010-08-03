@@ -563,12 +563,6 @@ src/argouml-core-transformer/build.xml -text
 src/argouml-core-transformer/plugin.properties -text
 src/argouml-core-transformer/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-transformer/src/META-INF/MANIFEST.MF -text
-src/argouml-core-transformer/src/org/argouml/transformer/EventTransformer.java -text
-src/argouml-core-transformer/src/org/argouml/transformer/SimpleStateTransformer.java -text
-src/argouml-core-transformer/src/org/argouml/transformer/Transformer.java -text
-src/argouml-core-transformer/src/org/argouml/transformer/TransformerAction.java -text
-src/argouml-core-transformer/src/org/argouml/transformer/TransformerManager.java -text
-src/argouml-core-transformer/src/org/argouml/transformer/TransformerModule.java -text
 src/argouml-core-umlpropertypanels/.checkstyle -text
 src/argouml-core-umlpropertypanels/.classpath -text
 src/argouml-core-umlpropertypanels/.project -text
