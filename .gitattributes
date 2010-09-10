@@ -354,6 +354,7 @@ src/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 src/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
 src/argouml-app/src/org/argouml/i18n/wfr.properties -text
 src/argouml-app/src/org/argouml/kernel/ActionList.java -text
+src/argouml-app/src/org/argouml/kernel/Owned.java -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
