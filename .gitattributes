@@ -606,6 +606,7 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/Pan
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/metamodel.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/metamodel2.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/AbstractActionAddModelElement.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/Expandable.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateNextAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigatePreviousAction.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/NavigateSiblingAction.java -text
