@@ -418,12 +418,14 @@ src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ActivityDi
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/BaseDiagram.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/BaseDisplayState.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ConcavePentagonDisplayState.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/CreateDiagramElementAction.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/DiagramElementBuilder.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAcceptEventPoly.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigActivityEdge.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigBaseEdge.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigBaseNode.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigGravityPoly.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ModePlaceDiagramElement.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/NameDisplayer.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/PentagonDisplayState.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/RRectDisplayState.java -text
