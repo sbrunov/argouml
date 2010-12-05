@@ -93,8 +93,6 @@ src/argouml-app/src/org/argouml/uml/diagram/collaboration/ui/*.class
 src/argouml-app/src/org/argouml/uml/diagram/deployment/*.class
 src/argouml-app/src/org/argouml/uml/diagram/deployment/ui/*.class
 src/argouml-app/src/org/argouml/uml/diagram/layout/*.class
-src/argouml-app/src/org/argouml/uml/diagram/sequence/*.class
-src/argouml-app/src/org/argouml/uml/diagram/sequence/ui/*.class
 src/argouml-app/src/org/argouml/uml/diagram/state/*.class
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/*.class
 src/argouml-app/src/org/argouml/uml/diagram/static_structure/*.class
