@@ -31,6 +31,7 @@ tools/lib/jimi-1.0.jar
 modules/dev/build
 modules/dev/build-eclipse
 src/argouml-app/Alittlebitofeverything2.zargo
+src/argouml-app/argouml.log
 src/argouml-app/build
 src/argouml-app/build-eclipse
 src/argouml-app/build-eclipse-tests
@@ -121,6 +122,7 @@ src/argouml-app/src/org/argouml/util/osdep/*.class
 src/argouml-app/src/reporting.properties
 src/argouml-app/src/test.xmi
 src/argouml-app/src/test.zargo
+src/argouml-app/target
 src/argouml-app/test.xmi
 src/argouml-app/testSaveProfileModel.xmi
 src/argouml-app/tests/Alittlebitofeverything2.zargo
