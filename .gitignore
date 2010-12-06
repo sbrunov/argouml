@@ -55,7 +55,6 @@ src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndF
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/argouml/elements/Thumbs.db
 src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndFeel/toolbarButtonGraphics/general/Thumbs.db
 src/argouml-app/src/org/argouml/application/*.class
-src/argouml-app/src/org/argouml/application/ArgoVersion.java
 src/argouml-app/src/org/argouml/application/api/*.class
 src/argouml-app/src/org/argouml/application/events/*.class
 src/argouml-app/src/org/argouml/application/helpers/*.class
