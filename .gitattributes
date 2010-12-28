@@ -843,7 +843,6 @@ tools/junit-3.8.2/junit.jar -text
 tools/lib/easymock12.jar -text
 tools/lib/javasrc-2001-beta.jar -text
 tools/lib/saxon-6.5.2.jar -text
-tools/maven/parentpom-for-modules.xml -text
 tools/maven/parentpom.xml -text
 tools/maven/toppom.xml -text
 tools/pmd-4.0/bin/cpd.sh eol=lf
@@ -871,6 +870,7 @@ tools/pmd-4.0/etc/xslt/wz-pmd-report.xslt -text
 tools/pmd-4.0/lib/asm-3.0.jar -text
 tools/pmd-4.0/lib/jaxen-1.1.jar -text
 tools/pmd-4.0/lib/pmd-4.0.jar -text
+tools/pom.xml -text
 www/cn-project-pages/snippets/page.xml -text
 www/docs/allegrini_dissertation/tesi_en.pdf -text
 www/docs/max_talanov_2007/index.html -text

@@ -181,6 +181,7 @@ tools/bin/generated
 tools/classycle/docs
 tools/lib/JimiProClasses.zip
 tools/maven/target
+tools/target
 www/images/Thumbs.db
 www/images/shirts/Thumbs.db
 www/proposals/iconproposal/Thumbs.db
