@@ -372,6 +372,7 @@ src/argouml-app/src/org/argouml/resource/default_console.lcf -text svneol=unset#
 src/argouml-app/src/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/fullmdr_console.lcf -text
 src/argouml-app/src/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+src/argouml-app/src/org/argouml/uml/ui/UMLStereotypeListModel.java -text
 src/argouml-app/tests/.settings/de.mvmsoft.checkclipse.prefs -text
 src/argouml-app/tests/ArgoUML[!!-~]kernel[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
 src/argouml-app/tests/ArgoUML[!!-~]persistence[!!-~]tests[!!-~]with[!!-~]MDR.launch -text
