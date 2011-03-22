@@ -435,6 +435,7 @@ src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/RectDispla
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/StereotypeDisplayer.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/UMLActivityDiagram.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/diagram.xml -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/elements.xml -text
 src/argouml-core-diagrams-class2/.classpath -text
 src/argouml-core-diagrams-class2/.project -text
 src/argouml-core-diagrams-class2/.settings/de.mvmsoft.checkclipse.prefs -text
