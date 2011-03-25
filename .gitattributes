@@ -541,6 +541,7 @@ src/argouml-core-model-euml/lib/uml2/org.eclipse.uml2.uml.source_3.1.1.v20100819
 src/argouml-core-model-euml/lib/uml2/org.eclipse.uml2.uml_3.1.1.v201008191505.jar -text
 src/argouml-core-model-euml/pom.xml -text
 src/argouml-core-model-euml/src/manifest.mf -text
+src/argouml-core-model-euml/src/org/argouml/model/euml/MessageSortEUMLImpl.java -text
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/0README.TXT -text
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/Infrastructure.cmof -text
 src/argouml-core-model-euml/src/org/argouml/model/metamodels/uml211/L0.cmof -text
@@ -567,6 +568,7 @@ src/argouml-core-model-mdr/lib/mof.jar -text
 src/argouml-core-model-mdr/lib/nbmdr.jar -text
 src/argouml-core-model-mdr/lib/openide-util.jar -text
 src/argouml-core-model-mdr/pom.xml -text
+src/argouml-core-model-mdr/src/org/argouml/model/mdr/MessageSortMDRImpl.java -text
 src/argouml-core-model-mdr/tests/org/argouml/resource/info_console.lcf -text
 src/argouml-core-model-mdr/tests/testmodels/AndroMDA-3.3/zipped-uml14/andromda-profile-datatype/3.3/andromda-profile-datatype-3.3.xml.zip -text
 src/argouml-core-model-mdr/tests/testmodels/AndroMDA-3.3/zipped-uml14/andromda-profile-messaging/3.3/andromda-profile-messaging-3.3.xml.zip -text
@@ -587,6 +589,7 @@ src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
 src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
 src/argouml-core-model/Notation[!!-~]tests.launch -text
 src/argouml-core-model/pom.xml -text
+src/argouml-core-model/src/org/argouml/model/MessageSort.java -text
 src/argouml-core-model/tests/testmodels/uml13/argo-Alittlebitofeverything.xmi -text
 src/argouml-core-model/tests/testmodels/uml14/issue4440-Poseidon-hybrid.xmi -text
 src/argouml-core-transformer/.checkstyle -text
