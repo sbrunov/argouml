@@ -637,6 +637,9 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLCom
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLReceptionSpecificationDocument.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLSignalComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTransitionTriggerComboBoxModel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationModel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationPanel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationValueField.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UmlControl.java -text
 src/argouml-core-umlpropertypanels/xslt/uml14-panels.xsl -text
 src/build.bat eol=crlf
