@@ -425,7 +425,9 @@ src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/BaseDiagra
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/BaseDisplayState.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ConcavePentagonDisplayState.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/CreateDiagramElementAction.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/DiagramElement.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/DiagramElementBuilder.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/DiagramNode.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAcceptEventPoly.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigActivityEdge.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigBaseEdge.java -text
