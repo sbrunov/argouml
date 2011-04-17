@@ -5,6 +5,7 @@ modules/dev/.checkstyle -text
 modules/dev/.settings/de.mvmsoft.checkclipse.prefs -text
 modules/dev/ArgoUML[!!-~]dev.launch -text
 modules/dev/META-INF/MANIFEST.MF -text
+modules/dev/src/org/argouml/dev/ModeInspectorPanel.java -text
 modules/dev/src/org/argouml/dev/test.gif -text
 modules/jscheme/build.bat eol=crlf
 modules/jscheme/build.sh eol=lf
