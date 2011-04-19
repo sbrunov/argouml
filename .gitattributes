@@ -668,7 +668,11 @@ src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLSig
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLTransitionTriggerComboBoxModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationModel.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationPanel.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationPanelOptional.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationValueField.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationValueFieldLiteralBoolean.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationValueFieldLiteralString.java -text
+src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UMLValueSpecificationValueFieldOpaqueExpression.java -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/ui/UmlControl.java -text
 src/argouml-core-umlpropertypanels/xslt/uml14-panels.xsl -text
 src/build.bat eol=crlf
