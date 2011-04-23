@@ -432,6 +432,7 @@ src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigAcceptE
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigActivityEdge.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigBaseEdge.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigBaseNode.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigCompartment.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigGravityPoly.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigNotation.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/ModePlaceDiagramElement.java -text
