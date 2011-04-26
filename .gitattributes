@@ -434,6 +434,7 @@ src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigBasePre
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigCompartment.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigComposite.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigGravityPoly.java -text
+src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigNameCompartment.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigNamedConcavePentagon.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigNamedPentagon.java -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/diagram/FigNamedRRect.java -text
