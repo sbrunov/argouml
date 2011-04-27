@@ -626,6 +626,7 @@ src/argouml-core-notation/src/org/argouml/notation2/NotationModule.java -text
 src/argouml-core-notation/src/org/argouml/notation2/NotationText.java -text
 src/argouml-core-notation/src/org/argouml/notation2/NotationTextEvent.java -text
 src/argouml-core-notation/src/org/argouml/notation2/NotationType.java -text
+src/argouml-core-notation/src/org/argouml/notation2/StereotypeUmlNotation.java -text
 src/argouml-core-notation/src/org/argouml/notation2/UmlNotationLanguage.java -text
 src/argouml-core-notation/src/org/argouml/notation2/UmlNotationTextEvent.java -text
 src/argouml-core-transformer/.checkstyle -text
