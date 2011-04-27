@@ -599,8 +599,10 @@ src/argouml-core-model/Model[!!-~]MDR[!!-~]tests.launch -text
 src/argouml-core-model/Model[!!-~]eUML[!!-~]tests.launch -text
 src/argouml-core-model/Notation[!!-~]tests.launch -text
 src/argouml-core-model/pom.xml -text
+src/argouml-core-model/src/org/argouml/model/AssociationChangeListener.java -text
 src/argouml-core-model/src/org/argouml/model/Defaults.java -text
 src/argouml-core-model/src/org/argouml/model/MessageSort.java -text
+src/argouml-core-model/src/org/argouml/model/UmlChangeListener.java -text
 src/argouml-core-model/src/org/argouml/model/UmlFactoryDefaults.java -text
 src/argouml-core-model/tests/testmodels/uml13/argo-Alittlebitofeverything.xmi -text
 src/argouml-core-model/tests/testmodels/uml14/issue4440-Poseidon-hybrid.xmi -text
