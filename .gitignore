@@ -136,9 +136,13 @@ src/argouml-build/reporting.properties
 src/argouml-core-diagrams-activity2/build
 src/argouml-core-diagrams-activity2/build-eclipse
 src/argouml-core-diagrams-activity2/target
+src/argouml-core-diagrams-class2/target
 src/argouml-core-diagrams-sequence2/build
 src/argouml-core-diagrams-sequence2/build-eclipse
+src/argouml-core-diagrams-sequence2/target
 src/argouml-core-diagrams-state2/build
+src/argouml-core-diagrams-state2/target
+src/argouml-core-diagrams-structure2/target
 src/argouml-core-diagrams-uml2/build-eclipse
 src/argouml-core-infra/build
 src/argouml-core-model-euml/build
@@ -172,10 +176,12 @@ src/argouml-core-model/build
 src/argouml-core-model/build-eclipse
 src/argouml-core-model/target
 src/argouml-core-notation/build
+src/argouml-core-notation/target
 src/argouml-core-transformer/build
 src/argouml-core-transformer/build-eclipse
 src/argouml-core-transformer/target
 src/argouml-core-umlpropertypanels/build
+src/argouml-core-umlpropertypanels/target
 src/build
 /target
 tools/bin/generated

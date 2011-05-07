@@ -416,6 +416,7 @@ src/argouml-core-diagrams-activity2/ArgoUML[!!-~]activity2[!!-~]tests.launch -te
 src/argouml-core-diagrams-activity2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-activity2/build.properties -text
 src/argouml-core-diagrams-activity2/plugin.properties -text
+src/argouml-core-diagrams-activity2/pom.xml -text
 src/argouml-core-diagrams-activity2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-activity2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-activity2/src/org/argouml/activity2/ActivityDiagramPropPanelFactory.java -text
@@ -456,6 +457,7 @@ src/argouml-core-diagrams-class2/ArgoUML[!!-~]class2.launch -text
 src/argouml-core-diagrams-class2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-class2/build.properties -text
 src/argouml-core-diagrams-class2/plugin.properties -text
+src/argouml-core-diagrams-class2/pom.xml -text
 src/argouml-core-diagrams-class2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-class2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-sequence2/.checkstyle -text
@@ -466,6 +468,7 @@ src/argouml-core-diagrams-sequence2/.settings/org.eclipse.jdt.core.prefs -text
 src/argouml-core-diagrams-sequence2/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-sequence2/ArgoUML[!!-~]sequence2[!!-~]tests.launch -text
 src/argouml-core-diagrams-sequence2/META-INF/MANIFEST.MF -text
+src/argouml-core-diagrams-sequence2/pom.xml -text
 src/argouml-core-diagrams-sequence2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-sequence2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-sequence2/src/org/argouml/Images/buttonbroommessages.gif -text svneol=unset#image/gif
@@ -479,6 +482,7 @@ src/argouml-core-diagrams-state2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-state2/build.properties -text
 src/argouml-core-diagrams-state2/build.xml -text
 src/argouml-core-diagrams-state2/plugin.properties -text
+src/argouml-core-diagrams-state2/pom.xml -text
 src/argouml-core-diagrams-state2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-state2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/StateDiagramModule.java -text
@@ -496,6 +500,7 @@ src/argouml-core-diagrams-structure2/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-structure2/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-structure2/build.properties -text
 src/argouml-core-diagrams-structure2/plugin.properties -text
+src/argouml-core-diagrams-structure2/pom.xml -text
 src/argouml-core-diagrams-structure2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-structure2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-uml2/.checkstyle -text
@@ -616,6 +621,7 @@ src/argouml-core-notation/META-INF/MANIFEST.MF -text
 src/argouml-core-notation/build.properties -text
 src/argouml-core-notation/build.xml -text
 src/argouml-core-notation/plugin.properties -text
+src/argouml-core-notation/pom.xml -text
 src/argouml-core-notation/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-notation/src/META-INF/MANIFEST.MF -text
 src/argouml-core-notation/src/org/argouml/notation2/NameUmlNotation.java -text
@@ -639,6 +645,7 @@ src/argouml-core-transformer/META-INF/MANIFEST.MF -text
 src/argouml-core-transformer/build.properties -text
 src/argouml-core-transformer/build.xml -text
 src/argouml-core-transformer/plugin.properties -text
+src/argouml-core-transformer/pom.xml -text
 src/argouml-core-transformer/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-transformer/src/META-INF/MANIFEST.MF -text
 src/argouml-core-umlpropertypanels/.checkstyle -text
@@ -650,6 +657,7 @@ src/argouml-core-umlpropertypanels/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-umlpropertypanels/META-INF/MANIFEST.MF -text
 src/argouml-core-umlpropertypanels/build.properties -text
 src/argouml-core-umlpropertypanels/csharp-transformation/Program.cs -text
+src/argouml-core-umlpropertypanels/pom.xml -text
 src/argouml-core-umlpropertypanels/src/META-INF/MANIFEST.MF -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/meta/panels2.xml -text
 src/argouml-core-umlpropertypanels/src/org/argouml/core/propertypanels/model/CheckBoxData.java -text
