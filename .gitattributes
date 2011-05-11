@@ -375,6 +375,7 @@ src/argouml-app/src/org/argouml/resource/default_console.lcf -text svneol=unset#
 src/argouml-app/src/org/argouml/resource/error.lcf -text svneol=unset#application/octet-stream
 src/argouml-app/src/org/argouml/resource/fullmdr_console.lcf -text
 src/argouml-app/src/org/argouml/resource/info_console.lcf -text svneol=unset#application/octet-stream
+src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigRegion.java -text
 src/argouml-app/src/org/argouml/uml/diagram/state/ui/FigVertex.java -text
 src/argouml-app/src/org/argouml/uml/diagram/static_structure/ui/SelectionCompartmentText.java -text
 src/argouml-app/src/org/argouml/uml/diagram/ui/SelectionClassifierBox.java -text
