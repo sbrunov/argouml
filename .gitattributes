@@ -228,6 +228,7 @@ src/argouml-app/src/org/argouml/Images/Recursion.gif -text
 src/argouml-app/src/org/argouml/Images/RedDelete.gif -text
 src/argouml-app/src/org/argouml/Images/Redo.gif -text
 src/argouml-app/src/org/argouml/Images/Refinement.gif -text
+src/argouml-app/src/org/argouml/Images/Region.gif -text
 src/argouml-app/src/org/argouml/Images/Remove.gif -text
 src/argouml-app/src/org/argouml/Images/ResolveItem.gif -text
 src/argouml-app/src/org/argouml/Images/RetMessage.gif -text
