@@ -499,10 +499,10 @@ src/argouml-core-diagrams-state2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-state2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/StateDiagramModule.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/StateDiagramPropPanelFactory.java -text
-src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/BaseDiagram.java -text
+src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigRegion.java -text
+src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigVertex.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/StateDiagramFactory.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/StateDiagramGraphModel.java -text
-src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/StateDiagramRenderer.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/UMLStateDiagram.java -text
 src/argouml-core-diagrams-structure2/.classpath -text
 src/argouml-core-diagrams-structure2/.project -text
