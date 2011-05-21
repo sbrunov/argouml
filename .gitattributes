@@ -499,6 +499,9 @@ src/argouml-core-diagrams-state2/src/.settings/org.eclipse.jdt.ui.prefs -text
 src/argouml-core-diagrams-state2/src/META-INF/MANIFEST.MF -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/StateDiagramModule.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/StateDiagramPropPanelFactory.java -text
+src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigCircleState.java -text
+src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigEntryPoint.java -text
+src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigExitPoint.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigRegion.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigVertex.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/StateDiagramFactory.java -text
