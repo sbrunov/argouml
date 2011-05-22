@@ -30,7 +30,6 @@ src/argouml-app/lib/batik-util-1.7.jar -text
 src/argouml-app/lib/batik-xml-1.7.jar -text
 src/argouml-app/lib/batik.LICENSE.txt -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
-src/argouml-app/lib/gef-0.13.5.jar -text
 src/argouml-app/lib/gef-0.13.6.jar -text
 src/argouml-app/lib/javadocs/j2se150/package-list -text
 src/argouml-app/lib/ocl-argo-1.1.jar -text
