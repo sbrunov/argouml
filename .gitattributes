@@ -504,7 +504,6 @@ src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigEntryPoint.ja
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigExitPoint.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigRegion.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/FigVertex.java -text
-src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/NodeConnector.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/StateDiagramFactory.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/StateDiagramGraphModel.java -text
 src/argouml-core-diagrams-state2/src/org/argouml/state2/diagram/UMLStateDiagram.java -text
