@@ -118,10 +118,12 @@ src/argouml-app/src/org/argouml/Images/DistributeVerticalCenters.gif -text
 src/argouml-app/src/org/argouml/Images/DistributeVerticalSpacing.gif -text
 src/argouml-app/src/org/argouml/Images/ElementImport.gif -text
 src/argouml-app/src/org/argouml/Images/ElementResidence.gif -text
+src/argouml-app/src/org/argouml/Images/EntryPoint.gif -text
 src/argouml-app/src/org/argouml/Images/Enumeration.gif -text
 src/argouml-app/src/org/argouml/Images/EnumerationLiteral.gif -text
 src/argouml-app/src/org/argouml/Images/Event.gif -text
 src/argouml-app/src/org/argouml/Images/Exception.gif -text
+src/argouml-app/src/org/argouml/Images/ExitPoint.gif -text
 src/argouml-app/src/org/argouml/Images/Expression.gif -text
 src/argouml-app/src/org/argouml/Images/Extend.gif -text
 src/argouml-app/src/org/argouml/Images/Extends.gif -text
