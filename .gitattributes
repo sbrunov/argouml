@@ -490,6 +490,8 @@ src/argouml-core-diagrams-deployment2/src/org/argouml/deployment2/DeploymentDiag
 src/argouml-core-diagrams-deployment2/src/org/argouml/deployment2/DeploymentDiagramPropPanelFactory.java -text
 src/argouml-core-diagrams-deployment2/src/org/argouml/deployment2/diagram/DeploymentDiagramFactory.java -text
 src/argouml-core-diagrams-deployment2/src/org/argouml/deployment2/diagram/DeploymentDiagramGraphModel.java -text
+src/argouml-core-diagrams-deployment2/src/org/argouml/deployment2/diagram/FigNode.java -text
+src/argouml-core-diagrams-deployment2/src/org/argouml/deployment2/diagram/FigPort.java -text
 src/argouml-core-diagrams-deployment2/src/org/argouml/deployment2/diagram/UMLDeploymentDiagram.java -text
 src/argouml-core-diagrams-sequence2/.checkstyle -text
 src/argouml-core-diagrams-sequence2/.classpath -text
