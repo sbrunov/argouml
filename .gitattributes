@@ -1327,6 +1327,9 @@ www/psf/0_30/argouml-xml-umlpropertypanels.psf -text
 www/psf/0_32/argouml-command-line-build-projectset.psf -text
 www/psf/0_32/argouml-core-projectset.psf -text
 www/psf/0_32/argouml-doc-projectset.psf -text
+www/psf/0_34/argouml-command-line-build-projectset.psf -text
+www/psf/0_34/argouml-core-projectset.psf -text
+www/psf/0_34/argouml-doc-projectset.psf -text
 www/psf/argoeclipse_projectset.psf -text
 www/psf/argoprint_projectset.psf -text
 www/psf/argouml-enki-projectset.psf -text
