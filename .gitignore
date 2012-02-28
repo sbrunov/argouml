@@ -192,6 +192,7 @@ tools/classycle/docs
 tools/lib/JimiProClasses.zip
 tools/maven/target
 tools/target
+tools/test-with-model/target
 www/images/Thumbs.db
 www/images/shirts/Thumbs.db
 www/proposals/iconproposal/Thumbs.db
