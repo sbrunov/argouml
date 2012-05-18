@@ -407,6 +407,7 @@ src/argouml-app/tests/ArgoUML[!!-~]profile[!!-~]tests[!!-~]with[!!-~]MDR.launch 
 src/argouml-app/tests/Model[!!-~]all[!!-~]tests.launch -text
 src/argouml-app/tests/org/argouml/profile/internal/package.html -text
 src/argouml-app/tests/org/argouml/profile/package.html -text
+src/argouml-app/tests/pom.xml -text
 src/argouml-app/tests/testmodels/uml13/Alittlebitofeverything.xmi -text
 src/argouml-app/tests/testmodels/uml13/Alittlebitofeverything.zargo -text
 src/argouml-app/tests/testmodels/uml13/Empty.zargo -text

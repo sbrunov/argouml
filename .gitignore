@@ -126,6 +126,7 @@ src/argouml-app/test.xmi
 src/argouml-app/testSaveProfileModel.xmi
 src/argouml-app/tests/Alittlebitofeverything2.zargo
 src/argouml-app/tests/build-eclipse
+src/argouml-app/tests/target
 src/argouml-app/tests/test.xmi
 src/argouml-app/tests/testmodels/01-12-02.xml
 src/argouml-app/tests/testmodels/GUITestPropertyPanels.zargo~PRE-0.15.3
