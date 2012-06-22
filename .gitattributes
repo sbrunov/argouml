@@ -977,6 +977,8 @@ tools/pmd-4.0/lib/asm-3.0.jar -text
 tools/pmd-4.0/lib/jaxen-1.1.jar -text
 tools/pmd-4.0/lib/pmd-4.0.jar -text
 tools/pom.xml -text
+tools/test-i18n-properties/pom.xml -text
+tools/test-i18n-properties/src/org/argouml/i18n/CheckKey.java -text
 tools/test-with-model/pom.xml -text
 tools/test-with-model/src/org/argouml/model/InitializeModel.java -text
 tools/test-with-model/src/org/argouml/model/MockModelImplementation.java -text
