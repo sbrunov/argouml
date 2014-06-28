@@ -28,7 +28,7 @@ src/argouml-app/lib/batik-svggen-1.7.jar -text
 src/argouml-app/lib/batik-util-1.7.jar -text
 src/argouml-app/lib/batik-xml-1.7.jar -text
 src/argouml-app/lib/commons-logging-1.0.2.jar -text
-src/argouml-app/lib/gef-0.13.8.jar -text
+src/argouml-app/lib/gef-0.13.9M1.jar -text
 src/argouml-app/lib/javadocs/j2se150/package-list -text
 src/argouml-app/lib/ocl-argo-1.1.jar -text
 src/argouml-app/lib/saxon9-dom.jar -text
@@ -372,6 +372,8 @@ src/argouml-app/src/org/argouml/Images/plaf/javax/swing/plaf/metal/MetalLookAndF
 src/argouml-app/src/org/argouml/Images/uml2explorerbg.png -text svneol=unset#image/png
 src/argouml-app/src/org/argouml/doc-files/argologo-small.gif -text
 src/argouml-app/src/org/argouml/doc-files/argologo2.gif -text
+src/argouml-app/src/org/argouml/kernel/ProjectEvent.java -text
+src/argouml-app/src/org/argouml/kernel/ProjectListener.java -text
 src/argouml-app/src/org/argouml/notation/providers/java/package.html -text
 src/argouml-app/src/org/argouml/notation/providers/uml/package.html -text
 src/argouml-app/src/org/argouml/persistence/upgrades/upgrade6.xsl -text
